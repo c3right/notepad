@@ -16,9 +16,14 @@
   用25个历史节点 × 国家、国际体系、经济、技术、人口生态、思想六条主线搭建世界史骨架，并配套框架书/血肉书、12本核心阅读顺序与中文译本检索信息。  
   `history` `world-history` `historiography` `reading-path` `international-relations`
 
+- **2026-09-10 — [中国史阅读框架：20×6矩阵与双轨书单](./notes/2026/2026-09-10-china-history-reading-framework.md)**  
+  用20个关键节点 × 国家制度、财政经济、中原—边疆、社会结构、思想合法性、技术人口生态六条主线重构中国史，并给出12个双轨阅读单元和第一轮12本核心书单。  
+  `history` `china-history` `historiography` `reading-path` `state-formation`
+
 ## 按时间
 
 ### 2026
 
 - 2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)
 - 2026-09-10 — [世界史阅读框架：25×6矩阵、双轨阅读与中文书目](./notes/2026/2026-09-10-world-history-reading-framework.md)
+- 2026-09-10 — [中国史阅读框架：20×6矩阵与双轨书单](./notes/2026/2026-09-10-china-history-reading-framework.md)
