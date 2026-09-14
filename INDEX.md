@@ -36,6 +36,10 @@
   对Starkloff、IBM/Learson、Hirabayashi三个qualified Atom分别设计B/P/N/R结构、Freeze、Decision Task与Reveal，验证能否低污染地产品化为闭卷阅读包，并识别类比污染与来源元数据泄露两个Packet级风险。  
   `history` `decision-making` `case-method` `case-packet` `blind-simulation`
 
+- **2026-09-14 — [Case Packet Prototype v0.1：Starkloff / St. Louis，1918-10-07](./notes/2026/2026-09-14-history-case-packet-starkloff-v0.1.md)**  
+  第一份可实际闭卷阅读的历史决策包：用1918年10月7日Starkloff是否从病例隔离/报告升级为推动广泛关闭作为Freeze，提供Reader Packet、Decision Card、折叠Reveal、Outcome/Decision分离复盘与史料审计。  
+  `history` `decision-making` `case-method` `case-packet` `Starkloff` `1918-influenza`
+
 - **2026-09-10 — [世界史阅读框架：25×6矩阵、双轨阅读与中文书目](./notes/2026/2026-09-10-world-history-reading-framework.md)**  
   用25个历史节点 × 国家、国际体系、经济、技术、人口生态、思想六条主线搭建世界史骨架，并配套框架书/血肉书、12本核心阅读顺序与中文译本检索信息。  
   `history` `world-history` `historiography` `reading-path` `international-relations`
@@ -60,6 +64,7 @@
 - 2026-09-14 — [历史人生模拟案例库：第一次候选排序实验](./notes/2026/2026-09-14-history-decision-atom-ranking-experiment-1.md)
 - 2026-09-14 — [历史人生模拟案例库：Qualification Sprint 1](./notes/2026/2026-09-14-history-decision-atom-qualification-sprint-1.md)
 - 2026-09-14 — [历史人生模拟案例库：首批 Case Packet Feasibility Mini-Design](./notes/2026/2026-09-14-history-case-packet-feasibility-mini-design-1.md)
+- 2026-09-14 — [Case Packet Prototype v0.1：Starkloff / St. Louis，1918-10-07](./notes/2026/2026-09-14-history-case-packet-starkloff-v0.1.md)
 - 2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)
 - 2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)
 - 2026-09-10 — [世界史阅读框架：25×6矩阵、双轨阅读与中文书目](./notes/2026/2026-09-10-world-history-reading-framework.md)
