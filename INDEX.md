@@ -12,6 +12,10 @@
 
 ### 历史与阅读
 
+- **2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)**  
+  维护从“人生样本库”到Decision Atom的讨论脉络、当前架构、阶段进展、待解决问题和后续大路线；后续随项目推进持续更新。  
+  `history` `decision-making` `case-method` `reading-path` `roadmap`
+
 - **2026-09-14 — [历史人生模拟案例库：Decision Atom 正式字段表 v1](./notes/2026/2026-09-14-history-decision-atom-schema-v1.md)**  
   将“关闭上帝视角”的历史决策阅读操作化为Decision Atom：定义真实决策窗口、主体拓扑、信息边界、选项证据、叙事污染、准入门槛与评分字段，并区分Case Field / Episode / Atom / Packet。  
   `history` `decision-making` `case-method` `historiography` `reading-path`
@@ -34,6 +38,7 @@
 
 ### 2026
 
+- 2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)
 - 2026-09-14 — [历史人生模拟案例库：Decision Atom 正式字段表 v1](./notes/2026/2026-09-14-history-decision-atom-schema-v1.md)
 - 2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)
 - 2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)
