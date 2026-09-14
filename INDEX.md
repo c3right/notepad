@@ -20,10 +20,17 @@
   用20个关键节点 × 国家制度、财政经济、中原—边疆、社会结构、思想合法性、技术人口生态六条主线重构中国史，并给出12个双轨阅读单元和第一轮12本核心书单。  
   `history` `china-history` `historiography` `reading-path` `state-formation`
 
+### 文学与阅读
+
+- **2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)**  
+  以“先感受、再分析、再校验”为主线，对比顾随、叶嘉莹、朱光潜、施蛰存、闻一多、钱锺书的方法，并整理《锦瑟》《使至塞上》《蜀道难》等多镜头对读样本与书目定位。  
+  `classical-poetry` `reading-path` `literary-criticism` `Gu-Sui` `Ye-Jiaying`
+
 ## 按时间
 
 ### 2026
 
+- 2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)
 - 2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)
 - 2026-09-10 — [世界史阅读框架：25×6矩阵、双轨阅读与中文书目](./notes/2026/2026-09-10-world-history-reading-framework.md)
 - 2026-09-10 — [中国史阅读框架：20×6矩阵与双轨书单](./notes/2026/2026-09-10-china-history-reading-framework.md)
