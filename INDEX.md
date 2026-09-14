@@ -28,6 +28,10 @@
   严格按Decision Atom v1与软评分量表v1筛8个新候选，验证Hard Gates、M01—M10和案例画像是否真正改变研究优先级，并形成首轮深挖队列。  
   `history` `decision-making` `case-method` `candidate-ranking` `reading-path`
 
+- **2026-09-14 — [历史人生模拟案例库：Qualification Sprint 1](./notes/2026/2026-09-14-history-decision-atom-qualification-sprint-1.md)**  
+  对首轮排序前四名做资格冲刺：钉死主体、真实决策窗口、真实选项与N-Gate；Starkloff、Hirabayashi与重切后的IBM System/360进入qualified，Donner-Reed原切法被否决并重切。  
+  `history` `decision-making` `case-method` `qualification` `reading-path`
+
 - **2026-09-10 — [世界史阅读框架：25×6矩阵、双轨阅读与中文书目](./notes/2026/2026-09-10-world-history-reading-framework.md)**  
   用25个历史节点 × 国家、国际体系、经济、技术、人口生态、思想六条主线搭建世界史骨架，并配套框架书/血肉书、12本核心阅读顺序与中文译本检索信息。  
   `history` `world-history` `historiography` `reading-path` `international-relations`
@@ -50,6 +54,7 @@
 - 2026-09-14 — [历史人生模拟案例库：Decision Atom 正式字段表 v1](./notes/2026/2026-09-14-history-decision-atom-schema-v1.md)
 - 2026-09-14 — [历史人生模拟案例库：Decision Atom 软评分量表 v1](./notes/2026/2026-09-14-history-decision-atom-scoring-v1.md)
 - 2026-09-14 — [历史人生模拟案例库：第一次候选排序实验](./notes/2026/2026-09-14-history-decision-atom-ranking-experiment-1.md)
+- 2026-09-14 — [历史人生模拟案例库：Qualification Sprint 1](./notes/2026/2026-09-14-history-decision-atom-qualification-sprint-1.md)
 - 2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)
 - 2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)
 - 2026-09-10 — [世界史阅读框架：25×6矩阵、双轨阅读与中文书目](./notes/2026/2026-09-10-world-history-reading-framework.md)
