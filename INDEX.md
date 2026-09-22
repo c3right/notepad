@@ -10,6 +10,12 @@
   用“3个解释镜头 + 4个元工具 + 一页分析器”搭建最小可运行社会认知系统，并给出工科前置与12本“知识书+案例书”双轨阅读路径。  
   `social-science` `critical-thinking` `systems-thinking` `epistemology` `reading-path`
 
+### 思想与阅读
+
+- **2026-09-22 — [全球文明思想最小阅读集：筛选逻辑、原典、导读与高中毕业生可执行课程](./notes/2026/2026-09-22-civilization-thought-minimal-reading-course.md)**  
+  从“文明级影响”的严格筛选标准出发，解释16人最小人物集的取舍逻辑，并进一步设计18个原典阅读单元、高中毕业生难度分层、中文版本、导读工具、购买策略与9—12个月可执行路线。  
+  `intellectual-history` `civilization` `reading-path` `classics` `philosophy`
+
 ### 历史与阅读
 
 - **2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)**  
@@ -58,6 +64,7 @@
 
 ### 2026
 
+- 2026-09-22 — [全球文明思想最小阅读集：筛选逻辑、原典、导读与高中毕业生可执行课程](./notes/2026/2026-09-22-civilization-thought-minimal-reading-course.md)
 - 2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)
 - 2026-09-14 — [历史人生模拟案例库：Decision Atom 正式字段表 v1](./notes/2026/2026-09-14-history-decision-atom-schema-v1.md)
 - 2026-09-14 — [历史人生模拟案例库：Decision Atom 软评分量表 v1](./notes/2026/2026-09-14-history-decision-atom-scoring-v1.md)
