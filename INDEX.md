@@ -12,6 +12,10 @@
 
 ### 思想与阅读
 
+- **2026-09-23 — [全球文明思想最小阅读集：书目总览地图](./notes/2026/2026-09-23-civilization-thought-reading-map.md)**  
+  汇总18个阅读单元涉及的原典、推荐中文版本、选读方式与6本核心导读工具；作为整套文明思想阅读路线的快速入口，并明确张觉等《韩非子译注》为《韩非子》首读本。  
+  `intellectual-history` `civilization` `reading-path` `classics` `reference`
+
 - **2026-09-22 — [全球文明思想最小阅读集：筛选逻辑、原典、导读与高中毕业生可执行课程](./notes/2026/2026-09-22-civilization-thought-minimal-reading-course.md)**  
   从“文明级影响”的严格筛选标准出发，解释16人最小人物集的取舍逻辑，并进一步设计18个原典阅读单元、高中毕业生难度分层、中文版本、导读工具、购买策略与9—12个月可执行路线。  
   `intellectual-history` `civilization` `reading-path` `classics` `philosophy`
@@ -64,6 +68,7 @@
 
 ### 2026
 
+- 2026-09-23 — [全球文明思想最小阅读集：书目总览地图](./notes/2026/2026-09-23-civilization-thought-reading-map.md)
 - 2026-09-22 — [全球文明思想最小阅读集：筛选逻辑、原典、导读与高中毕业生可执行课程](./notes/2026/2026-09-22-civilization-thought-minimal-reading-course.md)
 - 2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)
 - 2026-09-14 — [历史人生模拟案例库：Decision Atom 正式字段表 v1](./notes/2026/2026-09-14-history-decision-atom-schema-v1.md)
