@@ -22,6 +22,14 @@
 
 ### 行动与历史阅读
 
+- **2026-09-23 — [现实行动与历史：8核心单元 + 3扩展的最终阅读框架](./notes/2026/2026-09-23-action-history-final-framework.md)**  
+  当前优先入口。将“现实行动层”收敛为识局、协调、执行、适应四机制，并形成8个核心阅读单元（含Apollo↔Challenger正反组合）+3个扩展，给出行动案例矩阵、第一轮阅读顺序、核心书目、统一复盘问题及蒙哥马利中文运营补充包的英文底层材料范围。  
+  `history` `decision-making` `organizations` `case-method` `reading-path` `final-framework`
+
+- **2026-09-23 — [现实行动与历史：最终框架形成过程——从8类行动类型到8核心+3扩展](./notes/2026/2026-09-23-action-history-final-derivation.md)**  
+  详录最终成果如何形成：从8类行动类型、4基础机制、10案压力测试、第一批6旗舰，到三层阅读规则、第二批6案、安徽/定县特殊重切、书籍可行性、统一Qualification及最终阅读顺序的全部关键取舍与淘汰理由。  
+  `history` `decision-making` `organizations` `methodology` `case-method` `final-derivation`
+
 - **2026-09-23 — [现实行动与历史：四机制框架、六个旗舰案例与三层阅读地图](./notes/2026/2026-09-23-action-history-six-flagship-cases.md)**  
   将宏观历史之外的“行动黑箱”压缩为识局、协调、执行、适应四机制，并以张居正、曾国藩、电报总局、猪湾→古巴危机、Apollo、Challenger六个案例建立三层阅读路线。  
   `history` `decision-making` `organizations` `case-method` `reading-path`
@@ -78,6 +86,8 @@
 
 ### 2026
 
+- 2026-09-23 — [现实行动与历史：8核心单元 + 3扩展的最终阅读框架](./notes/2026/2026-09-23-action-history-final-framework.md)
+- 2026-09-23 — [现实行动与历史：最终框架形成过程——从8类行动类型到8核心+3扩展](./notes/2026/2026-09-23-action-history-final-derivation.md)
 - 2026-09-23 — [现实行动与历史：四机制框架、六个旗舰案例与三层阅读地图](./notes/2026/2026-09-23-action-history-six-flagship-cases.md)
 - 2026-09-23 — [现实行动与历史：从8类行动类型到6个旗舰案例的探索记录](./notes/2026/2026-09-23-action-history-exploration-log.md)
 - 2026-09-23 — [全球文明思想最小阅读集：书目总览地图](./notes/2026/2026-09-23-civilization-thought-reading-map.md)
