@@ -20,6 +20,16 @@
   从“文明级影响”的严格筛选标准出发，解释16人最小人物集的取舍逻辑，并进一步设计18个原典阅读单元、高中毕业生难度分层、中文版本、导读工具、购买策略与9—12个月可执行路线。  
   `intellectual-history` `civilization` `reading-path` `classics` `philosophy`
 
+### 行动与历史阅读
+
+- **2026-09-23 — [现实行动与历史：四机制框架、六个旗舰案例与三层阅读地图](./notes/2026/2026-09-23-action-history-six-flagship-cases.md)**  
+  将宏观历史之外的“行动黑箱”压缩为识局、协调、执行、适应四机制，并以张居正、曾国藩、电报总局、猪湾→古巴危机、Apollo、Challenger六个案例建立三层阅读路线。  
+  `history` `decision-making` `organizations` `case-method` `reading-path`
+
+- **2026-09-23 — [现实行动与历史：从8类行动类型到6个旗舰案例的探索记录](./notes/2026/2026-09-23-action-history-exploration-log.md)**  
+  详录从8类行动类型到6母题、4基础机制、10案压力测试、6案Case Feasibility、Action Case Mini-Design及“三层阅读结构”的收敛过程，并保留被后置候选及淘汰理由。  
+  `history` `decision-making` `organizations` `methodology` `case-method`
+
 ### 历史与阅读
 
 - **2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)**  
@@ -68,6 +78,8 @@
 
 ### 2026
 
+- 2026-09-23 — [现实行动与历史：四机制框架、六个旗舰案例与三层阅读地图](./notes/2026/2026-09-23-action-history-six-flagship-cases.md)
+- 2026-09-23 — [现实行动与历史：从8类行动类型到6个旗舰案例的探索记录](./notes/2026/2026-09-23-action-history-exploration-log.md)
 - 2026-09-23 — [全球文明思想最小阅读集：书目总览地图](./notes/2026/2026-09-23-civilization-thought-reading-map.md)
 - 2026-09-22 — [全球文明思想最小阅读集：筛选逻辑、原典、导读与高中毕业生可执行课程](./notes/2026/2026-09-22-civilization-thought-minimal-reading-course.md)
 - 2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)
