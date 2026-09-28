@@ -6,6 +6,14 @@
 
 ### 认知与方法论
 
+- **2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)**  
+  将 PQ4R 操作化为可见、低认知负荷的纸面阅读协议：Preview“定—扫—切—猜”、Question“六类标题+深化器”、Read“通—标—回—交”、Reflect“联—构—释—检”、Recite“答—构—释”；Review 尚待专项深挖。  
+  `reading-method` `learning-science` `PQ4R` `visible-reading` `cognitive-load`
+
+- **2026-09-28 — [PQ4R“可见阅读”方法：探索与推导记录](./notes/2026/2026-09-28-pq4r-visible-reading-derivation.md)**  
+  详细保留从 PQ4R/SOAR 分层、“可见阅读”目标，到 Q、Reflect、Recite、Preview、Read 五步逐项深搜、认知心理校准与框架收敛的全过程，并记录尚未解决的 Review 与纸质模板问题。  
+  `reading-method` `learning-science` `methodology` `PQ4R` `retrieval-practice`
+
 - **2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)**  
   用“3个解释镜头 + 4个元工具 + 一页分析器”搭建最小可运行社会认知系统，并给出工科前置与12本“知识书+案例书”双轨阅读路径。  
   `social-science` `critical-thinking` `systems-thinking` `epistemology` `reading-path`
@@ -86,6 +94,8 @@
 
 ### 2026
 
+- 2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)
+- 2026-09-28 — [PQ4R“可见阅读”方法：探索与推导记录](./notes/2026/2026-09-28-pq4r-visible-reading-derivation.md)
 - 2026-09-23 — [现实行动与历史：8核心单元 + 3扩展的最终阅读框架](./notes/2026/2026-09-23-action-history-final-framework.md)
 - 2026-09-23 — [现实行动与历史：最终框架形成过程——从8类行动类型到8核心+3扩展](./notes/2026/2026-09-23-action-history-final-derivation.md)
 - 2026-09-23 — [现实行动与历史：四机制框架、六个旗舰案例与三层阅读地图](./notes/2026/2026-09-23-action-history-six-flagship-cases.md)
