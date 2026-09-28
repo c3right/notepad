@@ -7,11 +7,11 @@
 ### 认知与方法论
 
 - **2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)**  
-  将 PQ4R 操作化为可见、低认知负荷的纸面阅读协议：Preview“定—扫—切—猜”、Question“六类标题+深化器”、Read“通—标—回—交”、Reflect“联—构—释—检”、Recite“答—构—释”；Review 尚待专项深挖。  
+  将 PQ4R 操作化为可见、低认知负荷的纸面阅读协议：Preview“定—扫—切—猜”、Question“六类标题+深化器”、Read“通—标—回—交”、Reflect“联—构—释—检”、Recite“答—构—释”、Review“核—隔—提”。  
   `reading-method` `learning-science` `PQ4R` `visible-reading` `cognitive-load`
 
 - **2026-09-28 — [PQ4R“可见阅读”方法：探索与推导记录](./notes/2026/2026-09-28-pq4r-visible-reading-derivation.md)**  
-  详细保留从 PQ4R/SOAR 分层、“可见阅读”目标，到 Q、Reflect、Recite、Preview、Read 五步逐项深搜、认知心理校准与框架收敛的全过程，并记录尚未解决的 Review 与纸质模板问题。  
+  详细保留从 PQ4R/SOAR 分层、“可见阅读”目标，到 Preview、Question、Read、Reflect、Recite、Review 六步逐项深搜、认知心理校准与框架收敛的全过程；当前主要未完成项转为纸质模板与真实章节压力测试。  
   `reading-method` `learning-science` `methodology` `PQ4R` `retrieval-practice`
 
 - **2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)**  
