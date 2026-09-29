@@ -1574,6 +1574,21 @@ Cornell 仍然是很好的纸面基础设施。
 
 [《PQ4R“可见阅读”方法：探索与推导记录》](./2026-09-28-pq4r-visible-reading-derivation.md)
 
+# 14. 纸面模板
+
+当前纸面化方案已经单独形成：
+
+[《PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计》](./2026-09-29-pq4r-paper-template-v0.2.md)
+
+核心设计：
+
+- 章级启动页承载 Reading Intent Gate + Preview；
+- 阅读单元正面为 OPEN BOOK：Q + Read 答案骨架 + 一个 Reflect；
+- 阅读单元背面为 CLOSED BOOK：Recall + Gap + Review log；
+- Minimum Viable Reading Record = **Q / Model / Recall / Gap**。
+
+---
+
 ## Revision log
 
 - 2026-09-29：加入 **Reading Intent Gate**，明确学习型 / 研究型 / 扫描型三种入口；Reflect 从“联—构—释—检”四项并列动作收敛为**默认四选一深加工，核心单元最多两个**。
