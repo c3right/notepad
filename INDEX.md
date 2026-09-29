@@ -88,6 +88,12 @@
   用20个关键节点 × 国家制度、财政经济、中原—边疆、社会结构、思想合法性、技术人口生态六条主线重构中国史，并给出12个双轨阅读单元和第一轮12本核心书单。  
   `history` `china-history` `historiography` `reading-path` `state-formation`
 
+### 医学史与传统医学
+
+- **2026-09-30 — [中医作为历史分层体系：一次从小白问题逐步展开的对话记录](./notes/2026/2026-09-30-tcm-layered-system-conversation.md)**  
+  按真实会话顺序保留从“屎山代码”式中医史观出发，逐步讨论伤寒与温病、经验筛选、五脏功能模型、气/经络/五行的形成，以及古代流派并行与现代学院中医整理原则的全过程。  
+  `chinese-medicine` `medical-history` `intellectual-history` `epistemology`
+
 ### 文学与阅读
 
 - **2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)**  
@@ -98,6 +104,7 @@
 
 ### 2026
 
+- 2026-09-30 — [中医作为历史分层体系：一次从小白问题逐步展开的对话记录](./notes/2026/2026-09-30-tcm-layered-system-conversation.md)
 - 2026-09-29 — [PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计](./notes/2026/2026-09-29-pq4r-paper-template-v0.2.md)
 - 2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)
 - 2026-09-28 — [PQ4R“可见阅读”方法：探索与推导记录](./notes/2026/2026-09-28-pq4r-visible-reading-derivation.md)
