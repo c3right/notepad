@@ -25,7 +25,7 @@ language: zh-CN
 
 # 中医作为历史分层体系：一次从小白问题逐步展开的对话记录
 
-> 记录说明：按原会话推进顺序保存“用户 → 助手”的一来一回。用户明确要求保留讨论过程，因此本笔记不按仓库默认方式压缩成单一结论；除 Markdown 排版外，不重排主题，不把后面的认识倒灌到前面的回答。外部链接保留为当时回答中的参考线索。
+> 记录说明：按原会话推进顺序保存“用户 → 助手”的一来一回。用户明确要求保留讨论过程，因此本笔记不按仓库默认方式压缩成单一结论；除 Markdown 排版外，不重排主题，不把后面的认识倒灌到前面的回答。正文按原讨论顺序记录；原会话中出现的主要外部参考链接集中列在文末，避免打断问答顺序。
 
 ---
 
@@ -1098,6 +1098,39 @@ language: zh-CN
 这大概就是“为什么屎山还能跑”的第一层答案。
 
 ---
+
+
+## 会话中引用的主要外部资料
+
+以下链接为本次讨论中助手回答时使用或提及的主要参考线索；它们用于支持医学史、经典文本史、现代学院中医形成等事实判断，不代表本笔记对每篇文献做了完整文献评审。
+
+- Chinese medicine historical plurality / textual history: https://pmc.ncbi.nlm.nih.gov/articles/PMC4746752/
+- Harvard DASH，《黄帝内经》相关研究 PDF: https://dash.harvard.edu/bitstreams/6c47e51f-872e-4c27-b69d-f8d96a05ec0b/download
+- WHO traditional medicine terminology: https://iris.who.int/bitstream/10665/206952/1/9789290612487_eng.pdf
+- Chinese Text Project，《黄帝内经·举痛论》: https://ctext.org/huangdi-neijing/ju-tong-lun/ens
+- “金元四大家”相关医学史研究: https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2022.07.16
+- 温病/江南相关研究 PDF: https://www.cuhk.edu.hk/ics/journal/articles/v52p316.pdf
+- 宋明医学经典化/儒医背景: https://www.hkihss.hku.hk/filemanager/content/others/angela-ki-che-leung/pdf/articles/2003_song_ming.pdf
+- 明清温病相关研究（UCL thesis）: https://discovery.ucl.ac.uk/10040369/1/Holroyde-Downing_10040369_thesis.pdf
+- Volker Scheid，寒温与中国医学史相关研究: https://www.volkerscheid.net/_files/ugd/9205af_b89692bc11ba42af99c8cb6291519277.pdf
+- Cambridge，早期中国“心为君主”等身体—政治隐喻研究: https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/85EB7C410796B64C03B53933C835EA4C/9781009669450AR.pdf/mind_and_psychology_in_early_china.pdf
+- 清代温病史概览: https://www.cmhhk.org.hk/en/about_us/cmculturedisplays/courseofhistory_qing_artwork/
+- Volker Scheid，明清医学空间模型相关论文: https://journals.sagepub.com/doi/10.1177/0073275317709406
+- 现代中医统编教材形成史: https://pubmed.ncbi.nlm.nih.gov/35130668/
+- 20世纪 TCM 标准化相关研究: https://www.tandfonline.com/doi/pdf/10.1215/s12280-009-9072-y
+- 伤寒相关现代综述: https://pmc.ncbi.nlm.nih.gov/articles/PMC4712352/
+- 《温热论》文本: https://zh.wikisource.org/zh-hans/%E6%BA%AB%E7%86%B1%E8%AB%96
+- 六经/卫气营血/三焦相关讨论: https://www.bjtcm.net/en/article/doi/10.16025/j.1674-1307.2021.01.004/
+- 寒温统一相关现代中医讨论: https://xb.njucm.edu.cn/cn/article/doi/10.14148/j.issn.1672-0482.2024.0329
+- CDC，抗生素使用基础: https://www.cdc.gov/antibiotic-use/about/
+- 温病相关综述: https://pmc.ncbi.nlm.nih.gov/articles/PMC5786262/
+- 伤寒—温病史相关 PubMed 条目: https://pubmed.ncbi.nlm.nih.gov/19141198/
+- Stanford Encyclopedia of Philosophy，Chinese Philosophy and Chinese Medicine: https://plato.stanford.edu/archives/spr2018/entries/chinese-phil-medicine/
+- 马王堆早期经脉材料研究: https://pubmed.ncbi.nlm.nih.gov/9494626/
+- 早期经脉/针灸史研究: https://pubmed.ncbi.nlm.nih.gov/17144194/
+- Stanford Encyclopedia of Philosophy，Han Dynasty: https://plato.stanford.edu/entries/han-dynasty/
+- Stanford Encyclopedia of Philosophy，Chinese Metaphysics: https://plato.stanford.edu/entries/chinese-metaphysics/
+- 辨证论治相关现代综述: https://pubmed.ncbi.nlm.nih.gov/24610412/
 
 ## Revision log
 
