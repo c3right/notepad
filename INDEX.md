@@ -6,6 +6,10 @@
 
 ### 认知与方法论
 
+- **2026-09-29 — [PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计](./notes/2026/2026-09-29-pq4r-paper-template-v0.2.md)**  
+  将完整 PQ4R 转化为章级启动页 + 阅读单元正反页：正面开卷、背面闭卷；定义最小长期记录为 Q / Model / Recall / Gap，并明确哪些过程痕迹只留在原书页边。  
+  `reading-method` `PQ4R` `paper-notes` `visible-reading` `retrieval-practice`
+
 - **2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)**  
   将 PQ4R 操作化为可见、低认知负荷的纸面阅读协议：Preview“定—扫—切—猜”、Question“六类标题+深化器”、Read“通—标—回—交”、Reflect“联—构—释—检”、Recite“答—构—释”、Review“核—隔—提”。  
   `reading-method` `learning-science` `PQ4R` `visible-reading` `cognitive-load`
@@ -94,6 +98,7 @@
 
 ### 2026
 
+- 2026-09-29 — [PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计](./notes/2026/2026-09-29-pq4r-paper-template-v0.2.md)
 - 2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)
 - 2026-09-28 — [PQ4R“可见阅读”方法：探索与推导记录](./notes/2026/2026-09-28-pq4r-visible-reading-derivation.md)
 - 2026-09-23 — [现实行动与历史：8核心单元 + 3扩展的最终阅读框架](./notes/2026/2026-09-23-action-history-final-framework.md)
