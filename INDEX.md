@@ -96,8 +96,8 @@
 
 ### 文学与阅读
 
-- **2026-10-04 — [文学阅读怎么学：知乎与 Reddit 社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
-  对知乎与 Reddit 的文学阅读讨论做交叉比较与定向补漏：区分共同核心、检索假差异与真实重心差异，分别详录文本细读、重读、批注、文学史/批评/理论、书单/canon、自学反馈循环及来源证据。  
+- **2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
+  分节保存知乎、Reddit、豆瓣、Literature Stack Exchange 与 LibraryThing 的文学阅读深研：分别保留方法地图、反馈讨论、作品/版本/阅读史、精确问题/证据审计，以及长期书库、自我策展与阅读治理等社区特殊性，并在不抹平差异的前提下提炼跨社区共同能力。  
   `literary-reading` `close-reading` `literary-criticism` `self-study` `community-research`
 
 - **2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)**  
