@@ -96,6 +96,10 @@
 
 ### 文学与阅读
 
+- **2026-10-04 — [中文文本细读资源：三轮深搜深研过程记录（候选池→压力测试→同文异读）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
+  忠实记录中文文本细读资源研究的三轮推进：从资源地图与六本候选池，到统一实质压力测试，再到用《故乡》《孔乙己》《社戏》做同文异读验证；保留每轮判断如何变化、资源如何升降级及第四轮迁移实验这一开放问题。  
+  `close-reading` `chinese-literature` `reading-method` `literary-reading` `research-log`
+
 - **2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
   分节保存知乎、Reddit、豆瓣、Literature Stack Exchange 与 LibraryThing 的文学阅读深研：分别保留方法地图、反馈讨论、作品/版本/阅读史、精确问题/证据审计，以及长期书库、自我策展与阅读治理等社区特殊性，并在不抹平差异的前提下提炼跨社区共同能力。  
   `literary-reading` `close-reading` `literary-criticism` `self-study` `community-research`
@@ -112,6 +116,7 @@
 
 ### 2026
 
+- 2026-10-04 — [中文文本细读资源：三轮深搜深研过程记录（候选池→压力测试→同文异读）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)
 - 2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)
 - 2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)
 - 2026-09-30 — [中医作为历史分层体系：一次从小白问题逐步展开的对话记录](./notes/2026/2026-09-30-tcm-layered-system-conversation.md)
