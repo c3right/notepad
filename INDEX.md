@@ -96,6 +96,10 @@
 
 ### 文学与阅读
 
+- **2026-10-04 — [文学阅读怎么学：知乎与 Reddit 社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
+  对知乎与 Reddit 的文学阅读讨论做交叉比较与定向补漏：区分共同核心、检索假差异与真实重心差异，分别详录文本细读、重读、批注、文学史/批评/理论、书单/canon、自学反馈循环及来源证据。  
+  `literary-reading` `close-reading` `literary-criticism` `self-study` `community-research`
+
 - **2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)**  
   以短对话方式持续探索经典小说与戏剧的高性价比阅读路径：从现实主义基准、现代主义转折与黄梵“小说阅读捷径”，推进到文本细读、文学史/批评/理论的角色，以及未来约100小时自学课程的顶层原则。  
   `classic-literature` `fiction` `drama` `literary-reading` `modernism`
@@ -108,6 +112,7 @@
 
 ### 2026
 
+- 2026-10-04 — [文学阅读怎么学：知乎与 Reddit 社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)
 - 2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)
 - 2026-09-30 — [中医作为历史分层体系：一次从小白问题逐步展开的对话记录](./notes/2026/2026-09-30-tcm-layered-system-conversation.md)
 - 2026-09-29 — [PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计](./notes/2026/2026-09-29-pq4r-paper-template-v0.2.md)
