@@ -96,8 +96,8 @@
 
 ### 文学与阅读
 
-- **2026-10-04 — [中文文本细读资源：四轮深搜深研过程记录（候选池→压力测试→同文异读→盲读迁移）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
-  忠实记录中文文本细读资源研究的四轮推进：资源地图与六本候选池、统一实质压力测试、《故乡》《孔乙己》《社戏》同文异读，以及迟子建《亲亲土豆》的陌生文本盲读迁移实验；保留每轮判断变化、方法升级和仍待复验的问题。  
+- **2026-10-04 — [中文文本细读资源：五轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
+  忠实记录中文文本细读资源研究的五轮推进：候选池、统一实质压力测试、鲁迅名篇同文异读，以及迟子建《亲亲土豆》和施蛰存《梅雨之夕》两种不同风格的陌生文本盲读迁移；保留方法升级、证据纠偏与尚未完成的教学验证。  
   `close-reading` `chinese-literature` `reading-method` `literary-reading` `research-log`
 
 - **2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
@@ -116,7 +116,7 @@
 
 ### 2026
 
-- 2026-10-04 — [中文文本细读资源：四轮深搜深研过程记录（候选池→压力测试→同文异读→盲读迁移）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)
+- 2026-10-04 — [中文文本细读资源：五轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)
 - 2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)
 - 2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)
 - 2026-09-30 — [中医作为历史分层体系：一次从小白问题逐步展开的对话记录](./notes/2026/2026-09-30-tcm-layered-system-conversation.md)
