@@ -96,8 +96,8 @@
 
 ### 文学与阅读
 
-- **2026-10-04 — [中文文本细读资源：六轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移→汉语句子显微镜）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
-  忠实记录中文文本细读资源研究的六轮推进：候选池、统一实质压力测试、鲁迅名篇同文异读、两种风格的陌生文本盲读迁移，以及鲁迅/汪曾祺/张爱玲的汉语句子层微改写实验；保留方法升级、证据纠偏与尚未完成的戏剧/教学验证。  
+- **2026-10-04 — [中文文本细读资源：七轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移→汉语句子显微镜→长篇局部实验）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
+  忠实记录中文文本细读资源研究的七轮推进：候选池、统一实质压力测试、鲁迅名篇同文异读、两种风格的陌生文本盲读迁移、汉语句子层微改写，以及《骆驼祥子》第十三章的长篇局部—整体实验；新增 motif 变形轨迹、当前读法/回顾性读法分离与三级长程校验。  
   `close-reading` `chinese-literature` `reading-method` `literary-reading` `research-log`
 
 - **2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
@@ -116,7 +116,7 @@
 
 ### 2026
 
-- 2026-10-04 — [中文文本细读资源：六轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移→汉语句子显微镜）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)
+- 2026-10-04 — [中文文本细读资源：七轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移→汉语句子显微镜→长篇局部实验）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)
 - 2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)
 - 2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)
 - 2026-09-30 — [中医作为历史分层体系：一次从小白问题逐步展开的对话记录](./notes/2026/2026-09-30-tcm-layered-system-conversation.md)
