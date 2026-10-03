@@ -96,6 +96,10 @@
 
 ### 文学与阅读
 
+- **2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)**  
+  以短对话方式持续探索经典小说与戏剧的高性价比阅读路径：从现实主义基准、现代主义转折与黄梵“小说阅读捷径”，推进到文本细读、文学史/批评/理论的角色，以及未来约100小时自学课程的顶层原则。  
+  `classic-literature` `fiction` `drama` `literary-reading` `modernism`
+
 - **2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)**  
   以“先感受、再分析、再校验”为主线，对比顾随、叶嘉莹、朱光潜、施蛰存、闻一多、钱锺书的方法，并整理《锦瑟》《使至塞上》《蜀道难》等多镜头对读样本与书目定位。  
   `classical-poetry` `reading-path` `literary-criticism` `Gu-Sui` `Ye-Jiaying`
@@ -104,6 +108,7 @@
 
 ### 2026
 
+- 2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)
 - 2026-09-30 — [中医作为历史分层体系：一次从小白问题逐步展开的对话记录](./notes/2026/2026-09-30-tcm-layered-system-conversation.md)
 - 2026-09-29 — [PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计](./notes/2026/2026-09-29-pq4r-paper-template-v0.2.md)
 - 2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)
