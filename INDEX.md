@@ -96,6 +96,10 @@
 
 ### 文学与阅读
 
+- **2026-10-05 — [经典文学最短路径：导读与解读资料指南——研究设计与累积记录](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guides-research.md)**  
+  “阅读当代文学的最短经典路径”辅助材料阶段的持续研究基线：从作品职责反推导读/文学史/批评材料，按A阅读前、B阅读后核心、C深入批评分层，并持续累积各轮深搜结果、时间预算、淘汰理由与方法规则。  
+  `contemporary-literature` `reading-guides` `literary-history` `literary-criticism` `reading-path` `research-log`
+
 - **2026-10-04 — [阅读当代文学路径：外国作品中文译本推荐 v1.0](./notes/2026/2026-10-04-contemporary-literature-foreign-translations-v1.md)**  
   针对“基础包 + 微节点 + 升级包”的外国小说与戏剧逐项筛选简体中文译本，给出译者、出版社、出版年、ISBN、版本异名与购买可行性，并标出《岛》、Cloud Nine 两个当前简中版本风险点。  
   `translations` `editions` `foreign-literature` `reading-path` `reference`
@@ -132,6 +136,7 @@
 
 ### 2026
 
+- 2026-10-05 — [经典文学最短路径：导读与解读资料指南——研究设计与累积记录](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guides-research.md)
 - 2026-10-04 — [阅读当代文学路径：外国作品中文译本推荐 v1.0](./notes/2026/2026-10-04-contemporary-literature-foreign-translations-v1.md)
 - 2026-10-04 — [阅读当代文学的最短经典路径：基础包与升级包 v1.0](./notes/2026/2026-10-04-contemporary-literature-minimal-path-final-packages.md)
 - 2026-10-04 — [阅读当代文学的最短作品路径：研究路线与分叉地图推进记录](./notes/2026/2026-10-04-contemporary-literature-minimal-path-research-log.md)
