@@ -96,8 +96,12 @@
 
 ### 文学与阅读
 
-- **2026-10-04 — [中文文本细读资源：十轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移→汉语句子显微镜→长篇局部→群像横切→非线性时间→高歧义）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
-  忠实记录中文文本细读资源研究的十轮推进：候选池、实质压力测试、同文异读、双盲读迁移、汉语句子显微镜、长篇局部、群像横切、非线性时间，以及残雪《山上的小屋》的高歧义压力测试；新增矛盾账本、解释组合、共同核心与停止裁决规则。  
+- **2026-10-04 — [中文小说文本细读最小工具 v0.1：四问一判 + 按需开关](./notes/2026/2026-10-04-chinese-literary-close-reading-minimal-toolkit.md)**  
+  将十一轮深搜深研压缩成普通读者日常可用版本：默认先读小说，只在真实“摩擦点”启动“停—换—比—找—判”；语言、视角、长篇、非线性、高歧义全部降级为条件触发的备用开关，避免工具反过来妨碍阅读。  
+  `close-reading` `practical-guide` `chinese-fiction` `reading-method` `minimal-toolkit`
+
+- **2026-10-04 — [中文文本细读资源：十一轮深搜深研过程记录（资源筛选→压力测试→迁移→复杂叙事→最小工具收敛）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
+  忠实记录中文文本细读研究的十一轮推进：从资源筛选、同文异读与陌生文本迁移，到句子层、长篇、群像、非线性、高歧义压力测试，最终收敛为普通读者可执行的“停—换—比—找—判”最小工具及按需模块。  
   `close-reading` `chinese-literature` `reading-method` `literary-reading` `research-log`
 
 - **2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
