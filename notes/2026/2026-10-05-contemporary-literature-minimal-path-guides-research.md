@@ -7651,6 +7651,1177 @@ Round 7进入戏剧：
 ---
 
 
+
+## Round 7 — 戏剧：悲剧母体 → 内在主体 → 现实主义舞台 → 低事件舞台 → 元戏剧
+
+**状态：COMPLETED**
+
+研究对象：
+
+- Sophocles《安提戈涅》；
+- Shakespeare《哈姆雷特》；
+- Ibsen《玩偶之家》；
+- Chekhov《樱桃园》；
+- Pirandello《六个寻找作者的剧中人》。
+
+本轮是整个项目第一次必须系统改变研究方法的一轮。
+
+小说部分主要问：
+
+> 叙述者、时间、视角、现实观怎样变化？
+
+戏剧部分至少要再增加：
+
+- 演员身体；
+- 观众位置；
+- 舞台空间；
+- 合唱队；
+- 独白 / 对白的表演条件；
+- 布景与道具；
+- 排练 / 导演；
+- 灯光；
+- 第四墙；
+- 一部剧怎样在不同制作中获得不同意义。
+
+因此Round 7最重要的总原则是：
+
+> **剧本不是“等待被朗读的小说文本”。**
+
+舞台惯例不是作品外部背景，而经常是作品意义生成机制的一部分。
+
+本轮最终形成如下路线：
+
+```text
+Antigone
+  公共冲突 + chorus + civic audience
+        ↓
+Hamlet
+  revenge plot + soliloquy + theatre testing theatre
+        ↓
+A Doll's House
+  bourgeois interior + detailed mise-en-scène + social realism
+        ↓
+The Cherry Orchard
+  weak action + ensemble + subtext + tragic/comic instability
+        ↓
+Six Characters
+  rehearsal + actors/director + representation itself becomes the event
+```
+
+这不是“戏剧越来越先进”的进化线，而是：
+
+> **舞台不断改变“什么可以构成戏剧行动、观众如何被放进事件、表演与现实是什么关系”。**
+
+---
+
+### R7-1. Sophocles《安提戈涅》
+
+#### 本路线中的职责：从“政治悲剧母体”改为“公共冲突如何成为共同观看”
+
+1. 建立希腊悲剧基本母体；
+2. 家族义务 / 葬礼义务、神圣规范与城邦法之间的冲突；
+3. 不能简单压成：
+   > “自由个人 Antigone vs 独裁国家 Creon”；
+4. tragedy本身属于雅典的公共表演文化；
+5. chorus不是背景解说员，而是持续在场的集体身体；
+6. ancient audience也不是现代黑暗剧场中隐形的私人观众，而处在：
+   - festival；
+   - civic performance；
+   - democratic debate culture；
+   中；
+7. 后世不断把Antigone重新政治化，这些现代改写本身又成为作品长达两千多年的生命史。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “Antigone代表个人良知，Creon代表国家暴政，答案显然站Antigone。”
+
+这是一种非常重要的现代接受方式，却不应该被冒充成唯一原始意义。
+
+古代悲剧的冲突更麻烦：
+
+- burial；
+- kinship；
+- gods；
+- polis；
+- ruler；
+- civic order；
+
+都拥有真实要求。
+
+Sophocles的强处恰恰在于：
+
+> **让彼此有理由的要求走到不能共存的地步。**
+
+##### 误读二
+
+> chorus只是“作者派来发表评论的一群老人”。
+
+这会完全损失古希腊戏剧的舞台性。
+
+chorus：
+
+- 唱；
+- 舞；
+- 占据orchestra；
+- 与人物互动；
+- 有时参与；
+- 有时退缩；
+- 有时沉默。
+
+最新的performance研究甚至特别指出，《安提戈涅》中chorus在关键哀悼场景中的“不回应”本身就是舞台动作。
+
+#### 阅读前材料 A：本轮少数真正需要预读的舞台背景
+
+**Simon Goldhill, “The audience of Athenian tragedy.”**
+
+- 收入：*The Cambridge Companion to Greek Tragedy*
+- Cambridge University Press
+- 1997
+- 全章：pp.**54–68**
+- DOI：<https://doi.org/10.1017/CCOL0521412455.003>
+- 本路线推荐：
+  > **预读章首约5页，建立“观众也是公共 / civic角色”的概念即可。**
+- 预计时间：7–10分钟
+- 语言：英文
+- 难度：中
+- 剧透：无
+
+为什么Antigone例外需要A层：
+
+现代读者若完全按：
+
+> 黑暗剧场 + 私人审美 + realist character psychology
+
+去想象古希腊演出，会在起点上读错。
+
+Goldhill的关键校准是：
+
+> 在雅典民主表演文化中，“成为观众”本身也是一种公共 / 政治实践。
+
+这5页足够，不需要先修一门希腊剧场史。
+
+#### 阅读后核心材料 B
+
+**Edith Hall, “The limits of free will: Oedipus the Tyrant and Antigone.”**
+
+- 收入：*Sophocles: A Very Short Introduction*
+- Oxford University Press
+- 2025
+- Chapter 3
+- pp.**30–51**
+- DOI：<https://doi.org/10.1093/actrade/9780192897800.003.0003>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：低—中
+- 建议：机器辅助阅读可选
+
+为什么选它：
+
+它把《安提戈涅》放在：
+
+- political crisis；
+- tyranny / leadership；
+- gender；
+- taboo-breaking；
+- free will；
+
+一起讨论。
+
+这比单纯“自然法 vs 国家法”的哲学摘要更适合普通读者。
+
+#### 可选深入 C1：真正把chorus当舞台身体
+
+**Rosa Andújar, “The Reticent Chorus in Sophocles’ Antigone.”**
+
+- 位于：*Playing the Chorus in Greek Tragedy*
+- Cambridge University Press
+- 2025
+- 相关小节：约 **pp.261–273**
+- 全章DOI：<https://doi.org/10.1017/9781009653626.005>
+- 预计时间：20–25分钟
+- 语言：英文
+- 难度：高
+
+只给真正想理解：
+
+> **chorus为什么不是文学课上的“中心思想总结器”**
+
+的读者。
+
+#### 可选深入 C2：现代政治Antigone是怎样形成的
+
+**D. M. Carter, “The Political Reception of Greek Tragedy.”**
+
+- 收入：*The Politics of Greek Tragedy*
+- 2007/2008
+- pp.**143–160**
+- DOI：<https://doi.org/10.5949/liverpool/9781904675501.003.0005>
+- 预计时间：25–30分钟
+
+它特别提醒：
+
+> 现代舞台常把Antigone塑成反法西斯 / anti-establishment抵抗者；这种读法极有力量，但与古代polis语境并不完全相同。
+
+#### 默认辅助成本
+
+> **A 7–10分钟 + B 25–30分钟 = 32–40分钟。**
+
+Antigone属于戏剧“母体节点”，因此允许略高于一般戏剧预算。
+
+---
+
+### R7-2. Shakespeare《哈姆雷特》
+
+#### 本路线中的职责：不再写成“莎士比亚发明内心”
+
+1. revenge tragedy仍然是基本戏剧机器；
+2. soliloquy让舞台能够把“别人听不到的话”变成观众听得到的事件；
+3. 因此所谓“内在主体”首先是一种**剧场关系**：
+   > 角色 ↔ 观众
+4. play-within-the-play把“表演”本身变成：
+   - 验证truth；
+   - 操纵他人；
+   - 暴露假面；
+   的工具；
+5. Hamlet自己同时是：
+   - prince；
+   - spectator；
+   - critic；
+   - amateur director / performer；
+6. 剧本在四百年舞台史中被大量删改，说明：
+   > **不存在一个脱离表演史、唯一自然的“Hamlet”。**
+
+#### 一个重要文学史修正
+
+以后不写：
+
+> “Shakespeare发明了soliloquy / 发明了metatheatre。”
+
+soliloquy、aside、play-within-play都有此前戏剧传统。
+
+《哈姆雷特》的路线价值是：
+
+> **把这些已有舞台机制推到异常高的密度，使内在主体、表演、真相与观众位置变成同一问题。**
+
+这与此前Poe / Frankenstein的Rule P一致：
+
+> 奠基 / crystallization ≠ 单一起源发明。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “独白就是把小说人物内心活动搬到台上。”
+
+不够。
+
+在剧场里，独白最奇特的一点是：
+
+> **人物所谓“最私密”的思想，其实被几百名观众公开听见。**
+
+所以“private interiority”在戏剧中本身就是一个表演悖论。
+
+##### 误读二
+
+> play-within-the-play只是Hamlet设计的一条聪明计策。
+
+真正重要的是：
+
+> Hamlet相信theatre可能让隐藏truth通过身体反应暴露出来。
+
+于是：
+
+> **戏剧内部拿戏剧来测试戏剧的真实性。**
+
+##### 误读三
+
+> “To be or not to be”只有一种正确语气。
+
+Hamlet几百年的performance history本身已经证明：
+
+> 年龄、删节、舞台设计、疯狂程度、独白对谁说，
+
+都会改变角色。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+普通读者通常已经对Hamlet有大量二手印象，再增加“忧郁王子 / 拖延症 / Oedipus complex”等标签只会加重预设。
+
+#### 阅读后核心材料 B1
+
+**Michael Neill, “A Modern Perspective: Hamlet.”**
+
+- 机构：Folger Shakespeare Library
+- 推荐范围：
+  > **读前半关于revenge plot、interiority / soliloquy、hiddenness以及The Mousetrap的部分；进入更细的角色伦理争论后可停。**
+- 稳定页面：<https://www.folger.edu/explore/shakespeares-works/hamlet/hamlet-a-modern-perspective/>
+- 预计时间：15–20分钟
+- 语言：英文
+- 难度：中
+
+这篇最符合路线的地方，是把：
+
+- old revenge story；
+- psychological drama；
+- soliloquy；
+- public silence / private speech；
+- play-within-play；
+
+连接在一起。
+
+它帮助普通读者看见：
+
+> Hamlet的“内心”不是小说式说明，而是舞台发明出来的一种观众特权。
+
+#### 阅读后核心材料 B2：舞台史极短校准
+
+**Richard Andrews & Rex Gibson, “Hamlet in performance.”**
+
+- 收入：Cambridge School Shakespeare, *Hamlet*
+- Cambridge University Press
+- 2005
+- pp.**270–275**
+- DOI：<https://doi.org/10.1017/9780511862892.005>
+- 预计时间：8–10分钟
+- 语言：英文
+- 难度：低
+
+这6页的ROI极高。
+
+它直接展示：
+
+- Garrick怎样大幅改写 / 删节Hamlet；
+- 19世纪怎样生产“高贵、敏感、无法行动”的Romantic Hamlet；
+- 现代制作又怎样转向 disturbed / alienated Hamlet；
+- realist castle set又怎样被symbolic / bare stage替代。
+
+真正要获得的结论：
+
+> **performance不是“把已经确定意义的剧本搬上台”，而会制造Hamlet本身。**
+
+#### 可选深入 C
+
+**David Wiles, “Hamlet’s Advice to the Players.”**
+
+- 收入：*The Players’ Advice to Hamlet*
+- Cambridge University Press
+- 2020
+- pp.**10–37**
+- DOI：<https://doi.org/10.1017/9781108689502.002>
+- 预计时间：40–50分钟
+- 难度：高
+
+用于真正想进入：
+
+- Renaissance rhetorical acting；
+- emotion vs mimesis；
+- Player speech；
+- Hamlet的acting theory；
+
+的读者。
+
+默认不需要。
+
+#### 默认辅助成本
+
+> **23–30分钟。**
+
+---
+
+### R7-3. Ibsen《玩偶之家》
+
+#### 本路线中的职责：现代现实主义舞台不是“像生活”，而是把社会做成房间
+
+1. serious drama真正进入普通middle-class domestic interior；
+2. 婚姻、金钱、债务、法律、就业和性别权力通过：
+   - doors；
+   - letters；
+   - furniture；
+   - rooms；
+   - Christmas tree；
+   - tarantella；
+   在舞台上变成可见关系；
+3. realistic setting不是装饰，而是社会结构的物质模型；
+4. 观众像隔着“第四墙”偷看一个私人家庭；
+5. 因此最后的door slam之所以有巨大剧场力量，是因为：
+   > **那扇门此前一直属于一个被精确建造成“真实家庭”的舞台世界。**
+6. 建立现代现实主义剧场的重要基准。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “《玩偶之家》就是一篇女权宣言改成戏剧。”
+
+性别政治当然核心，但若只读立场，会漏掉：
+
+> **Ibsen怎样用舞台空间让政治变成生活。**
+
+##### 误读二
+
+> “现实主义 = 人物说话比较像真人，布景比较真实。”
+
+更重要的是：
+
+> **物质环境决定谁能进哪个门、谁能看到什么、什么信件能被藏住、什么秘密能在这个家里生存。**
+
+##### 误读三
+
+> Nora最后摔门是一个孤立的名场面。
+
+它的意义依赖前面三幕：
+
+> 房间已经被建立成她完整社会身份的容器。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+先让Helmer家的舒适、可爱、节庆氛围自然成立，随后才看到它的结构性窒息。
+
+#### 阅读后核心材料 B
+
+**Nicholas Grene, “A Doll’s House: the drama of the interior.”**
+
+- 收入：*Home on the Stage: Domestic Spaces in Modern Drama*
+- Cambridge University Press
+- 2014
+- pp.**14–36**
+- DOI：<https://doi.org/10.1017/CBO9781139939607.002>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：中
+- 建议：机器辅助阅读
+
+这是目前最匹配本路线职责的材料。
+
+整本书的核心论点就是：
+
+> *A Doll’s House*把普通middle-class home变成严肃戏剧空间，建立了一种新的“politics of the interior”，并深刻影响后来的现代戏剧。
+
+因此这章不会把舞台布景当作附录，而直接把：
+
+> **home / stage / social order**
+
+连起来。
+
+#### 极短舞台校准（可选）
+
+**Sally Ledger, “Afterword: Ibsen Now.”**
+
+- 收入：*Henrik Ibsen*
+- Liverpool University Press
+- 2008
+- pp.**65–67**
+- 预计时间：4–5分钟
+
+这3页特别适合看：
+
+- prop-rich realism；
+- bourgeois household；
+- 现代制作即使忠实采用19世纪naturalistic mise-en-scène，仍可保持巨大舞台张力。
+
+它进一步纠正：
+
+> **realism不是已经过时的“没有形式”。**
+
+#### 可选深入 C
+
+**Toril Moi, *Henrik Ibsen and the Birth of Modernism*.**
+
+本轮不指定整章必读。
+
+若未来专门研究Ibsen，可继续追：
+
+> realism、everyday language、modernism并不是互斥的三个阶段。
+
+#### 默认辅助成本
+
+> **25–30分钟。**
+
+---
+
+### R7-4. Chekhov《樱桃园》
+
+#### 本路线中的职责：与Ibsen同为家庭空间，却改变“行动”的含义
+
+1. 同样使用家庭 / 房屋 / 财产 / 社会转型；
+2. 但与Ibsen精密的well-made plot明显不同：
+   - apparently inconsequential talk；
+   - non sequitur；
+   - 日常琐事；
+   - 错过彼此的对话；
+3. 最重要的事往往：
+   - 没有被正面说；
+   - 在stage action之外发生；
+   - 被琐碎行动包围；
+4. ensemble而不是单一hero推动舞台世界；
+5. subtext不是简单“台词背后藏着一句真正意思”，而是：
+   > **表面行动、语气、节奏、停顿、人物彼此不接话共同产生另一层关系。**
+6. tragedy / comedy / farce彼此不稳定；
+7. Moscow Art Theatre / Stanislavski帮助Chekhov成为现代剧场基石，却又可能把Chekhov固定成作者本人并不满意的“忧郁naturalism”。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “什么都没发生。”
+
+实际上发生了：
+
+- estate被卖；
+- social order转移；
+- 人物关系改变；
+- 一个世界结束。
+
+只是：
+
+> **剧本不再把这些事件组织成传统高潮机器。**
+
+##### 误读二
+
+> “subtext = 演员心里想的真正台词。”
+
+Chekhov更复杂：
+
+- 人物可能自己也不知道；
+- 某一角色的意思可能被另一个角色完全错过；
+- comedy与pain可能同时发生。
+
+##### 误读三
+
+> “Stanislavski终于正确演出了Chekhov。”
+
+历史事实更有意思：
+
+> Chekhov与Moscow Art Theatre长期在genre、character、Russia的意义以及悲喜比例上发生冲突。
+
+这场冲突不是演出史噪音，而正好说明作品本身有多开放。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+尤其不要先教“subtext”，否则第一次阅读会变成：
+
+> 每一句普通对话后面找一句隐藏真话。
+
+#### 阅读后核心材料 B1
+
+**James N. Loehlin, Introduction to *Chekhov: The Cherry Orchard*.**
+
+- Cambridge University Press
+- 2006
+- Introduction：pp.**1–8**
+- 推荐范围：全文
+- 预计时间：10–12分钟
+- 语言：英文
+- 难度：低—中
+
+这8页非常高ROI。
+
+它直接指出《樱桃园》一个世纪以来可以被演成：
+
+- tragic / comic；
+- naturalistic / symbolic；
+- reactionary / radical；
+- psychological drama / abstract theatre-poem。
+
+而这些冲突：
+
+> **并非后来导演强行附加，而已经存在于1904首演时Chekhov与Stanislavski的争执中。**
+
+#### 阅读后核心材料 B2
+
+**Anatoly Smeliansky, “Chekhov at the Moscow Art Theatre.”**
+
+- 收入：*The Cambridge Companion to Chekhov*
+- Cambridge University Press
+- 2000
+- pp.**29–40**
+- DOI：<https://doi.org/10.1017/CCOL0521581176.003>
+- 预计时间：15–18分钟
+- 语言：英文
+- 难度：中
+
+它真正解决本阶段的“舞台实践”职责：
+
+> Chekhov与Stanislavski / Nemirovich-Danchenko共同创造了一套后来影响全球现代剧场的Chekhov表演传统，但这套传统从一开始就伴随误解、争执与僵化风险。
+
+#### 可选深入 C
+
+**Arnold Aronson, “The scenography of Chekhov.”**
+
+- *The Cambridge Companion to Chekhov*
+- pp.**134–148**
+- DOI：<https://doi.org/10.1017/CCOL0521581176.012>
+- 预计时间：25–30分钟
+
+它进一步纠正一个非常有用的误解：
+
+Chekhov本人并不追求把生活杂物一股脑搬上台。
+
+他甚至说：
+
+> stage本身是art，没有“第四墙”，不需要任何superfluous detail。
+
+这说明：
+
+> **Chekhov不是“越真实、道具越多越好”的naive naturalist。**
+
+#### 默认辅助成本
+
+> **25–30分钟。**
+
+---
+
+### R7-5. Ibsen → Chekhov：同是“房间戏”，实际上是两种现代剧场机器
+
+这一轮最重要的共享比较之一。
+
+#### Ibsen
+
+```text
+domestic interior
++ tightly controlled revelation
++ objects / doors / letters
++ social causality
+→ 私人家庭成为社会制度的模型
+```
+
+#### Chekhov
+
+```text
+house / estate
++ ensemble
++ trivial dialogue
++ pauses / missed connections
++ weak overt action
+→ 社会转型在日常时间中慢慢发生
+```
+
+所以：
+
+> **realism并不等于一套固定写法。**
+
+Ibsen证明：
+
+> 普通房间可以承载重大公共制度冲突。
+
+Chekhov进一步证明：
+
+> 戏剧甚至可以不靠传统“强事件—高潮—解决”来组织这种社会变化。
+
+Nicholas Grene的 *Home on the Stage* 恰好把：
+
+- Chapter 1：*A Doll’s House: the drama of the interior*；
+- Chapter 2：*The Cherry Orchard: all Russia*；
+
+直接前后排列。
+
+这本书可作为以后真正想深入“现代家庭空间舞台史”的共享C层，但默认不再要求把两章都完整重读，以控制成本。
+
+---
+
+### R7-6. Pirandello《六个寻找作者的剧中人》
+
+#### 本路线中的职责：不是“剧情很meta”，而是把剧场机器本身暴露出来
+
+1. 一开始不是“故事世界”，而是：
+   > **一个剧团正在排练。**
+2. actor不再透明地消失进character；
+3. director / producer、actors、characters互相争夺：
+   - 谁代表reality；
+   - 谁有authority；
+   - 谁能把谁演出来；
+4. rehearsal本身成为事件；
+5. “character”与“actor”的差异不再被隐藏；
+6. 第四墙 / audience separation不再被视为自然状态；
+7. modern theatre的：
+   - lighting；
+   - proscenium；
+   - darkened auditorium；
+   - acting “in character”；
+   被作品主动暴露为**历史性技术装置**；
+8. 因此Pirandello真正改变的是：
+   > **representation不再只是手段，representation本身成为戏剧主题和舞台事件。**
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “这是元小说搬到舞台：角色知道自己是角色。”
+
+太窄。
+
+真正特殊的是：
+
+> **这只能在剧场里以演员、角色、导演、排练和观众同时在场的方式成立。**
+
+它不是小说式self-reference的简单剧场版。
+
+##### 误读二
+
+> “打破第四墙”就是演员和观众说话。
+
+Pirandello做得更根本：
+
+> **让读者意识到所谓第四墙本来就是现代proscenium theatre制造出来的一种历史性观看装置。**
+
+##### 误读三
+
+> “现实和虚构真假难辨”就是全部主题。
+
+如果只剩哲学relativism，会漏掉：
+
+> 演员怎样模仿Character、Character为什么嫌演员“演得不像”、Director怎样试图控制事件。
+
+这全部是具体的theatre-making问题。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+第一次最好先真正困惑：
+
+> 为什么我读到的是排练？  
+> 六个人为什么不是actors？  
+> 到底什么时候“正式演出”开始？
+
+这种失去剧场边界的感觉就是节点功能。
+
+#### 阅读后核心材料 B1
+
+**Mary Ann Frese Witt, “Metatheatre.”**
+
+- 收入：*Pirandello in Context*
+- Cambridge University Press
+- 2024
+- pp.**163–169**
+- DOI：<https://doi.org/10.1017/9781108339391.027>
+- 预计时间：8–10分钟
+- 语言：英文
+- 难度：中
+
+这7页已经足够建立：
+
+- metatheatre不是单纯“戏中戏”；
+- *Six Characters*让theatre-in-process暴露出来；
+- 舞台不再只是imitate life，而开始揭露life / theatre自身的theatricality。
+
+#### 阅读后核心材料 B2
+
+**“The Fourth Wall.”**
+
+- 收入：*Pirandello in Context*
+- Cambridge University Press
+- 2024
+- pp.**170–178**
+- DOI：<https://doi.org/10.1017/9781108339391.028>
+- 预计时间：10–12分钟
+- 语言：英文
+- 难度：中
+
+这章是本阶段极高价值材料。
+
+它把Pirandello放回：
+
+- electrified theatre；
+- darkened house；
+- proscenium；
+- audience / performance separation；
+- lighting；
+- acting “in character”；
+
+这些具体技术条件里。
+
+因此读者会明白：
+
+> **第四墙不是戏剧天然拥有、后来被Pirandello打碎的东西；它本身就是现代剧场制造出来的一种apparatus。**
+
+#### 可选深入 C：production history
+
+**Jennifer Lorch, Introduction to *Pirandello: Six Characters in Search of an Author*.**
+
+- Cambridge University Press
+- 2005
+- Introduction：pp.**1–14**
+- ISBN：9780521646185 / 9780521641517 editions
+- 预计时间：18–22分钟
+
+Lorch特别适合继续追：
+
+- 1921 Rome premiere；
+- 作品对naturalist theatre-making的挑战；
+- Pitoëff、Reinhardt等早期导演；
+- 不同舞台技术怎样反过来影响Pirandello的修订。
+
+默认B1+B2已经完成路线职责，所以不再强制。
+
+#### 默认辅助成本
+
+> **18–22分钟。**
+
+---
+
+### R7-7. Round 7真正的舞台变化地图
+
+这一轮不应该记成：
+
+> Greek tragedy → Shakespeare → realism → modernism
+
+几个时代名。
+
+真正要看到的是：
+
+| 节点 | 观众与舞台关系发生了什么 |
+|---|---|
+| **Antigone** | theatre首先是public/civic event；chorus是集体舞台身体 |
+| **Hamlet** | audience获得听见“私密思想”的特权；theatre又被用来测试truth |
+| **A Doll’s House** | audience像隔着第四墙进入bourgeois private interior；社会制度物质化成房间 |
+| **The Cherry Orchard** | audience必须从琐碎、停顿、错位对话和ensemble里感受重大变化 |
+| **Six Characters** | theatre apparatus、rehearsal、acting与representation本身被拖到台前 |
+
+于是：
+
+> **戏剧史不只是主题变化，也是“观众被安排在什么位置”不断变化。**
+
+---
+
+### R7-8. 关于“现实主义舞台”的一个重要修正
+
+Round 7进一步推翻：
+
+> **realism = 少做形式，让舞台尽量像现实。**
+
+实际上Ibsen式realism依赖高度人工的stage technology：
+
+- box set；
+- practical doors；
+- carefully placed furniture；
+- stage directions；
+- lighting；
+- illusion of private space。
+
+Nicholas Grene指出，box set / fourth wall等技术条件早已有前史；真正激进的是：
+
+> **ordinary bourgeois interior获得了严肃艺术与社会意义。**
+
+Chekhov随后又证明：
+
+> realistic detail本身也不能变成堆道具。
+
+所以：
+
+> **realism同样是一套高度设计的form。**
+
+这一点与小说Round 1对Flaubert的结论形成了非常漂亮的跨文类呼应：
+
+> “现实主义”从来不等于“形式较少”。
+
+---
+
+### R7-9. 本轮阅读前 / 阅读后结构
+
+#### Antigone
+
+- **A层例外保留**：
+  - Goldhill章首约5页；
+- 读剧；
+- Hall；
+- chorus / modern political reception为C。
+
+#### Hamlet
+
+- 直接读；
+- Folger modern perspective；
+- Cambridge 6页performance；
+- 不提前给“拖延 / 恋母 / 忧郁王子”标签。
+
+#### A Doll’s House
+
+- 直接读；
+- Grene；
+- 不把“女权主题”先写成标准答案。
+
+#### The Cherry Orchard
+
+- 直接读；
+- Loehlin 8页；
+- Smeliansky；
+- 不先教“subtext”。
+
+#### Six Characters
+
+- 直接读；
+- 两个2024年Cambridge超短章节；
+- 不先解释“metatheatre / fourth wall”。
+
+---
+
+### R7-10. 时间预算复核
+
+| 节点 | 默认辅助时间 |
+|---|---:|
+| 《安提戈涅》 | 32–40分钟 |
+| 《哈姆雷特》 | 23–30分钟 |
+| 《玩偶之家》 | 25–30分钟 |
+| 《樱桃园》 | 25–30分钟 |
+| 《六个寻找作者的剧中人》 | 18–22分钟 |
+| **Round 7合计** | **123–152分钟** |
+
+即：
+
+> **约2小时03分—2小时32分。**
+
+这已经包含每一部戏真正必要的最小舞台史，不另开完整“西方戏剧史课程”。
+
+---
+
+### R7-11. 本轮主动淘汰的材料类型
+
+#### 1. 《安提戈涅》=“古代自由主义反抗者”
+
+不收。
+
+可以作为现代reception，但不能冒充唯一古代意义。
+
+#### 2. chorus = “作者代言人 / 中心思想总结”
+
+不收。
+
+chorus首先是：
+
+> **表演中的集体身体。**
+
+#### 3. Hamlet =“拖延症心理案例”
+
+不收。
+
+至少必须连接：
+
+- revenge form；
+- soliloquy；
+- play-within-play；
+- performance。
+
+#### 4. “Shakespeare发明独白”
+
+不收。
+
+已有戏剧惯例不能被伟大作家单一起源神话吞掉。
+
+#### 5. 《玩偶之家》只讲feminist message
+
+不收。
+
+必须同时解释：
+
+> **bourgeois interior为什么是新的stage machine。**
+
+#### 6. realism =“自然、没有形式”
+
+不收。
+
+Ibsen恰好证明realism高度依赖舞台技术与构图。
+
+#### 7. Chekhov =“什么都没发生 + subtext”
+
+不收。
+
+必须进一步解释：
+
+- weak overt action；
+- ensemble；
+- comic / tragic instability；
+- performance interpretation。
+
+#### 8. Stanislavski =“Chekhov正确说明书”
+
+不收。
+
+二者合作极重要，也始终存在根本分歧。
+
+#### 9. Pirandello =“打破第四墙”
+
+若只到这句话，不收。
+
+必须继续问：
+
+> **什么历史性剧场装置制造了这堵墙？作品怎样把整个theatre-making apparatus暴露出来？**
+
+---
+
+### R7-12. 本轮形成的通用研究规则
+
+#### Rule AF — Stage convention is part of meaning
+
+正式冻结：
+
+> **戏剧的表演惯例不是作品外部背景。**
+
+chorus、soliloquy、box set、lighting、rehearsal等都可能直接参与意义生产。
+
+---
+
+#### Rule AG — Dramatic interiority is a public performance paradox
+
+Hamlet建立这一规则：
+
+> **戏剧中的“最私密内心”往往恰恰被最公开地表演给观众。**
+
+因此不能直接把戏剧独白等同于小说内心描写。
+
+---
+
+#### Rule AH — The fourth wall is historical, not natural
+
+Pirandello + Ibsen共同建立：
+
+> **第四墙是一种特定modern theatre apparatus制造的观看关系，不是戏剧天然默认状态。**
+
+这对后续Brecht尤其重要。
+
+---
+
+#### Rule AI — Realism is a technology, not absence of form
+
+Ibsen / Chekhov共同建立：
+
+> realistic stage同样依赖高度人工的空间、道具、灯光、节奏、acting与观众安排。
+
+所以：
+
+> natural-looking ≠ form-less。
+
+---
+
+#### Rule AJ — Production disagreement is evidence
+
+Chekhov / Stanislavski与Hamlet的performance history共同证明：
+
+> **不同制作之间的分歧不只是“导演乱改”，而能暴露剧本本身开放在哪里。**
+
+因此最终指南遇到关键production conflict时，允许把冲突本身作为导读材料。
+
+---
+
+#### Rule AK — Audience position is a formal variable
+
+Round 7正式把“观众位置”加入全项目分析框架。
+
+以后戏剧节点都要问：
+
+> 观众在这部戏里被安排成什么？
+
+可能是：
+
+- civic collective；
+- privileged confidant；
+- voyeur behind a fourth wall；
+- critical observer；
+- implicated participant。
+
+---
+
+### R7-13. Round 7后的职责卡修订
+
+#### Antigone
+
+由：
+
+> tragedy / law vs ethics / political rewriting
+
+进一步冻结为：
+
+> **public conflict + civic audience + chorus as collective body + later political refunctioning。**
+
+#### Hamlet
+
+由：
+
+> soliloquy / inner subject / play-within-play
+
+精化为：
+
+> **interiority as theatre-audience relation + theatre as truth-testing apparatus。**
+
+并禁止：
+
+> “Shakespeare invented soliloquy”。
+
+#### A Doll’s House
+
+由：
+
+> modern realist stage + social institutions in private relations
+
+进一步冻结为：
+
+> **bourgeois interior as material social machine。**
+
+#### The Cherry Orchard
+
+由：
+
+> low event / ensemble / subtext / tragicomedy
+
+进一步冻结为：
+
+> **weak overt action + ensemble + interpretive openness + Chekhov/MAT production tension。**
+
+#### Six Characters
+
+由：
+
+> metatheatre / fourth wall / rehearsal
+
+进一步冻结为：
+
+> **theatre apparatus itself becomes dramatic material：actor / character / director / rehearsal / lighting / audience separation。**
+
+---
+
+### R7-14. 对Round 8的影响
+
+Round 8将进入：
+
+- Brecht《母亲勇气和她的孩子们》；
+- Beckett《等待戈多》；
+- Fugard / Kani / Ntshona《岛》；
+- Caryl Churchill《Cloud Nine》；
+- Soyinka《死亡与国王的侍从》。
+
+Round 7留下六个硬约束：
+
+1. **Brecht不能简化成“打破第四墙”。**
+   现在已经知道第四墙本身有具体历史；必须研究Brecht到底怎样重新安排观众判断。
+
+2. **Beckett不能只讲“荒诞主题”。**
+   必须研究：
+   > stage time / repetition / bodies / waiting / minimal space。
+
+3. **《岛》不能只做反apartheid主题分析。**
+   Round 7的Antigone舞台 / reception研究会直接成为它的前端资源。
+
+4. **Cloud Nine的cross-casting不能只解释为“性别很先锋”。**
+   必须研究：
+   > actor body本身如何成为论证媒介。
+
+5. **Soyinka不能只读剧本文本。**
+   ritual / music / chorus / performance ontology必须进入最低背景。
+
+6. **Round 8必须继续逐项回答：**
+   > **观众被安排成什么？**
+   这将成为最后一个戏剧Round的共同问题。
+
+---
+
+
 # 12. 变更日志
 
 
@@ -7658,6 +8829,24 @@ Round 7进入戏剧：
 
 
 
+
+
+## v0.8 — 2026-10-05
+
+完成Round 7“戏剧：悲剧母体 → 内在主体 → 现实主义舞台 → 低事件舞台 → 元戏剧”深搜深研。
+
+主要更新：
+
+1. 完成《安提戈涅》/《哈姆雷特》/《玩偶之家》/《樱桃园》/《六个寻找作者的剧中人》全部A/B/C筛选，并首次把stage practice作为每个节点的强制验收维度；
+2. 《安提戈涅》保留Round 7唯一默认A层：Goldhill章首建立Athenian civic audience；读后Hall pp.30–51处理政治危机/tyranny/gender/free will；chorus performance与现代政治reception保持C层；
+3. Hamlet职责精化为“interiority as theatre-audience relation + theatre as truth-testing apparatus”，拒绝“Shakespeare发明独白/元戏剧”的单一起源表述；默认Folger modern perspective + Cambridge pp.270–275 performance history；
+4. 《玩偶之家》职责冻结为“bourgeois interior as material social machine”，默认Nicholas Grene pp.14–36，把doors/letters/furniture/domestic space纳入realist form；
+5. 《樱桃园》用Loehlin pp.1–8 + Smeliansky pp.29–40处理weak action / ensemble / tragic-comic instability / Moscow Art Theatre；明确Stanislavski传统极重要但不是Chekhov唯一“正确说明书”；
+6. Ibsen→Chekhov形成共享比较：同是家庭空间，前者依靠严密revelation与social causality，后者通过琐碎对话、错位、ensemble与弱事件让社会变化发生；
+7. Pirandello默认采用2024 *Pirandello in Context*连续两章Metatheatre pp.163–169 + Fourth Wall pp.170–178；职责从“打破第四墙”提升为“theatre apparatus itself becomes dramatic material”；
+8. 正式建立Rule AF–AK：stage convention is meaning；dramatic interiority是公开表演悖论；第四墙是历史装置；realism是舞台技术；production disagreement是证据；audience position是形式变量；
+9. Round 7默认辅助成本约123–152分钟，即约2小时03分—2小时32分；
+10. Round 8将以“观众被安排成什么”为共同检索问题，分别检查Brecht / Beckett / The Island / Cloud Nine / Soyinka。
 
 ## v0.7 — 2026-10-05
 
