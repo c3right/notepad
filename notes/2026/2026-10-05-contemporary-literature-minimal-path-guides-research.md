@@ -3791,10 +3791,1496 @@ Round 3已经给它留下三个硬约束：
 ---
 
 
+
+## Round 4 — 类型与推想文学谱系：从类型机制到21世纪混融
+
+**状态：COMPLETED**
+
+研究对象：
+
+- Edgar Allan Poe《莫格街凶杀案》《泄密的心》；
+- Mary Shelley《弗兰肯斯坦》；
+- Ursula K. Le Guin《离开奥梅拉斯的人》；
+- Ursula K. Le Guin《黑暗的左手》；
+- Kazuo Ishiguro《别让我走》；
+- 刘慈欣《流浪地球》；
+- 刘慈欣《三体》第一部。
+
+本轮一开始即确认：
+
+> **“类型文学”不能作为解释终点。**
+
+这七个阅读单元实际展示的是几种完全不同的类型机制：
+
+1. **Poe：类型如何规定读者与证据 / 叙述者的关系；**
+2. **Frankenstein：Gothic与新科学想象怎样在同一作品中交界；**
+3. **Omelas：极端压缩的伦理思想实验 / psychomyth；**
+4. **The Left Hand of Darkness：文化人类学式完整world-building；**
+5. **Never Let Me Go：把SF / biodystopia机制刻意埋进现实主义、回忆录与成长小说表面；**
+6. **The Wandering Earth：把科学假设放大成工程、历史和文明尺度的“史诗性”叙事；**
+7. **The Three-Body Problem I：把科学危机、现代中国历史和文明尺度未知重新组织成长篇悬疑式SF。**
+
+因此本轮最终拒绝三种常见捷径：
+
+> **“非现实 = 科幻”**  
+> **“硬科幻 = 科学很多，软科幻 = 人文很多”**  
+> **“文学小说借用了类型元素以后，类型性就不重要了”**
+
+---
+
+### R4-1. Poe《莫格街凶杀案》《泄密的心》
+
+#### 本路线中的职责：本轮重新定义为“一组相反的认识机制”
+
+原路线分别给两篇的任务是：
+
+- 《莫格街凶杀案》：侦探 / 推理类型起点；
+- 《泄密的心》：哥特、犯罪自白、不可靠叙述。
+
+本轮进一步发现：
+
+> **两篇放在一起的价值，比两个类型标签相加更高。**
+
+##### 《莫格街凶杀案》
+
+它训练读者相信：
+
+> 表面无序的事件可以通过证据、推理和重构，重新变成一个有因果顺序的故事。
+
+侦探的工作同时也是：
+
+- reader：读线索；
+- critic：区分相关 / 无关信息；
+- author：重新写出那一段隐藏的犯罪故事。
+
+##### 《泄密的心》
+
+它恰好反过来：
+
+> 一个第一人称叙述者不断试图用语言证明自己理性，却恰恰通过这套语言暴露其不可靠。
+
+因此Poe微节点真正提供的是：
+
+> **“叙事能否恢复秩序？”的两个极端。**
+
+- Dupin：从混乱恢复可解释秩序；
+- 《泄密的心》叙述者：越解释，可靠世界反而越崩坏。
+
+这使Poe成为本路线中非常早、成本极低的“读者角色训练”节点。
+
+#### 一个文学史措辞修正
+
+以后不再把：
+
+> “Poe发明了侦探小说”
+
+写成无条件、单一来源的绝对事实。
+
+更稳的表述是：
+
+> **Poe的Dupin故事把现代侦探 / ratiocination fiction的核心形式高度集中并经典化，是现代侦探小说最重要的奠基节点之一。**
+
+理由：
+
+后来的犯罪小说史研究已经明确提醒：
+
+- Poe作为modern exponent的地位非常稳；
+- 但crime fiction的历史来源是polygenetic，涉及更早的犯罪报道、法律改革、警务、forensics以及多种叙事传统。
+
+这不削弱《莫格街凶杀案》的路线价值，只避免“一个作家凭空创造整个文类”的文学史神话。
+
+#### 裸读最容易漏掉什么
+
+##### 《莫格街凶杀案》
+
+误读：
+
+> “它只是一个很古老、谜底今天看来有点奇怪的推理故事。”
+
+路线真正要看：
+
+> **Poe怎样创造“读者也跟着侦探阅读证据”的阅读协议。**
+
+##### 《泄密的心》
+
+误读：
+
+> “疯子杀人后因为良心发现而自首。”
+
+真正值得观察的是：
+
+> **叙述者一开口就要求我们相信他的sanity，而文本又不断制造理由不相信他。**
+
+恐怖的一部分因此来自：
+
+> reader无法稳定决定“哪些声音 / 感觉 / 判断属于世界，哪些属于叙述者”。
+
+#### 阅读前材料
+
+> **两篇都不建议预读。**
+
+尤其《莫格街凶杀案》不能先看“侦探小说规则”，否则会把原本需要亲身经历的类型机制变成核对清单。
+
+#### 阅读后核心材料 B1：《莫格街凶杀案》
+
+**Peter Thoms, “Poe’s Dupin and the power of detection.”**
+
+- 收入：*The Cambridge Companion to Edgar Allan Poe*
+- Cambridge University Press
+- 年份：2002
+- 全章：pp.133–147
+- DOI：<https://doi.org/10.1017/CCOL0521793262.009>
+- 本路线推荐范围：
+  > **只读章首解释 detective / reader / author 三者关系，以及“从mystery恢复order”的部分；不要求整章。**
+- 预计时间：7–10分钟
+- 语言：英文
+- 难度：中
+
+为什么比一般“Poe是侦探小说之父”介绍更好：
+
+它真正解释了类型形式：
+
+- reader变成detective；
+- detective也是reader；
+- detective最终像author一样重构隐藏的犯罪故事；
+- detective fiction把“不懂”重新组织为一个有起点、中间、结尾的解释。
+
+这恰好解决本路线的“类型如何训练读者”职责。
+
+#### 阅读后核心材料 B2：《泄密的心》
+
+**U.S. National Park Service, “Edgar Allan Poe and His Tales of Horror.”**
+
+- 机构：United States National Park Service
+- 推荐范围：
+  > **只读“first-person narration / unreliable narrator / The Tell-Tale Heart”相关段落**
+- 稳定链接：<https://www.nps.gov/articles/poe-horror.htm>
+- 预计时间：4–5分钟
+- 语言：英文
+- 难度：低
+
+为什么允许用机构普及材料：
+
+这个微节点只需要一个很精确的校准：
+
+> 第一人称亲近感并不等于可信；文本让读者在叙述者强烈的自我辩护与其逐渐崩坏之间保持距离。
+
+NPS几段文字已经完成，没必要为了“学术感”让20分钟短篇背负20页论文。
+
+#### 可选深入 C：侦探小说“起源神话”
+
+**Alistair Rolls, “Moving Fergus Hume’s *The Mystery of a Hansom Cab* and Breaking the Frame of Poe’s ‘The Murders in the Rue Morgue’.”**
+
+- 收入：*Criminal Moves*
+- Liverpool University Press
+- 2019
+- pp.45–59
+- 推荐范围：章首关于Poe“creation myth”与polygenetic origins的部分
+- 预计时间：10–15分钟
+- 语言：英文
+- 难度：中
+
+只给真正关心：
+
+> “Poe到底是不是第一个侦探小说家？”
+
+的读者。
+
+默认路线不需要这场文类起源争论。
+
+#### 默认辅助成本
+
+> **约11–15分钟。**
+
+---
+
+### R4-2. Mary Shelley《弗兰肯斯坦》（升级）
+
+#### 本路线中的职责：从“科幻起点”改为“边界祖先”
+
+1. Gothic horror；
+2. 新的实验科学 / natural philosophy想象；
+3. 创造生命不再由纯超自然力量完成，而与“现代实验”逻辑发生关系；
+4. 创造者—造物关系把技术问题转成：
+   - responsibility；
+   - abandonment；
+   - personhood；
+   - recognition；
+5. 成为后世science fiction、人工生命、robot / clone叙事不断回访的祖先文本；
+6. 同时不能把它从Gothic传统中拔出来，只留下“第一本科幻小说”的纪念碑。
+
+#### 一个重要文学史修正
+
+以后不写：
+
+> **“《弗兰肯斯坦》就是公认的第一部科幻小说。”**
+
+更稳的表述：
+
+> **它是现代science fiction最重要、最常被认定的早期祖先 / 边界节点之一；它把Gothic传统与新科学想象以前所未有的方式连接起来。**
+
+原因：
+
+- 有学者确实把1818年的《弗兰肯斯坦》视为first modern / futuristic SF；
+- 但科幻史研究同时指出，17—18世纪已经存在science-oriented speculative fiction，文类形成不可能被单一“第一本”完全解释。
+
+这与Round 4对Poe的修正形成同一个原则：
+
+> **文学类型通常是逐步结晶，而不是某一天由一个人凭空发明。**
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “疯狂科学家造怪物，科技失控。”
+
+这会把伦理问题压成：
+
+> 不该做危险实验。
+
+真正复杂的是：
+
+> **Victor真正的失败，不只发生在“创造”的那一刻，还发生在创造之后拒绝承担与造物的关系。**
+
+##### 误读二
+
+> “这是科幻的祖先，所以Gothic只是过时包装。”
+
+恰恰相反：
+
+- body horror；
+- secrecy；
+- fear；
+- sublime landscape；
+- transgression；
+
+并不是可以剥掉的包装，它们决定“现代科学”为什么在这里以恐惧形式出现。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+流行文化已经给普通读者太多“Frankenstein印象”，本路线更需要先让原作纠正：
+
+- 谁是Frankenstein；
+- Creature究竟会不会说话；
+- 它怎样学习成为一个社会主体；
+- Victor怎样对自己的行为解释。
+
+#### 阅读后核心材料 B
+
+**Charlotte Gordon, “Frankenstein.”**
+
+- 收入：*Mary Shelley: A Very Short Introduction*
+- Oxford University Press
+- 年份：2022
+- Chapter 3
+- pp.**33–52**
+- DOI：<https://doi.org/10.1093/actrade/9780198869191.003.0003>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：低—中
+- 建议：机器辅助阅读可选
+
+为什么它适合默认B：
+
+一本Very Short Introduction的单章已经足够把：
+
+- Gothic创作背景；
+- Mary Shelley与家族思想背景；
+- scientific creation；
+- early science fiction；
+- gender / social critique；
+
+放在一起。
+
+对“升级包”而言，这比再读一整本Frankenstein Companion有更好ROI。
+
+#### 可选深入 C：为何成为整个SF传统的持久祖先
+
+**Jay Clayton, “Frankenstein’s futurity: replicants and robots.”**
+
+- 收入：*The Cambridge Companion to Mary Shelley*
+- Cambridge University Press
+- 2003
+- pp.**84–100**
+- DOI：<https://doi.org/10.1017/CCOL0521809843.006>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：中
+
+它最适合解决：
+
+> 为什么这部1818年的Gothic novel后来能不断进入clone、robot、nuclear anxiety、biotechnology等完全不同的现代语境？
+
+但默认路线只需要知道“祖先功能”，无需完整追两百年afterlife。
+
+#### 默认辅助成本
+
+> **25–30分钟。**
+
+---
+
+### R4-3. Le Guin《离开奥梅拉斯的人》
+
+#### 本路线中的职责：本轮有明显修正
+
+原设计：
+
+> 以极低成本建立“创造另一世界来思考现实”的推想文学直觉。
+
+保留，但需要精化。
+
+本轮不再把Omelas描述成：
+
+> **一个微型world-building范本。**
+
+更准确：
+
+> **它是极端压缩的psychomyth / moral thought experiment，而且故意让读者参与建造这个假想世界。**
+
+也就是说，Omelas的重要性不是：
+
+- 有完整政治制度；
+- 有严密科技机制；
+- 有详尽社会学；
+
+恰恰相反，它把这些都压缩，只保留：
+
+> **“如果一个繁荣世界的全部幸福，以一个无辜孩子持续受苦为必要条件，你怎样理解这个世界？”**
+
+小说再让读者自己补充：
+
+> “你需要什么细节，才能相信Omelas真的幸福？”
+
+所以：
+
+> **thought experiment ≠ mini world-building。**
+
+#### 裸读最容易漏掉什么
+
+最容易被教成：
+
+> “功利主义选择题：你会不会离开？”
+
+这样会把小说缩成伦理课堂投票。
+
+更重要的形式问题是：
+
+1. narrator不断邀请reader一起想象Omelas；
+2. 幸福世界的很多细节由读者共同补；
+3. 直到child出现，读者才意识到自己参与建造的乌托邦带着什么代价；
+4. “walking away”并没有自动告诉我们一个可执行的政治解决方案。
+
+因此它不只是问：
+
+> **你的答案是什么？**
+
+还在问：
+
+> **一个fictional world怎样把你的道德直觉本身放进实验装置？**
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+尤其不要先告诉读者：
+
+- William James；
+- Dostoevsky；
+- scapegoat；
+- utilitarianism。
+
+先让结构自己完成冲击。
+
+#### 阅读后核心材料 B1：作者自己的两页说明
+
+**Ursula K. Le Guin, introductory note to “The Ones Who Walk Away from Omelas.”**
+
+- 收入：*The Wind’s Twelve Quarters*
+- Harper & Row
+- 1975
+- **pp.275–276**
+- 预计时间：3–5分钟
+- 语言：英文
+- 难度：低
+
+Le Guin自己把故事称为：
+
+> **psychomyth**
+
+并说明central idea与：
+
+- Dostoevsky《卡拉马佐夫兄弟》；
+- William James “The Moral Philosopher and the Moral Life”
+
+之间的关系。
+
+这两页足够建立思想史坐标。
+
+#### 阅读后核心材料 B2：小说如何让读者参与实验
+
+**Sarah Wyman, “Reading Through Fictions in Ursula Le Guin’s ‘The Ones Who Walk Away from Omelas’.”**
+
+- *ANQ: A Quarterly Journal of Short Articles, Notes and Reviews*
+- Vol.25, No.4
+- 2012
+- pp.**228–232**
+- DOI：<https://doi.org/10.1080/0895769X.2012.720854>
+- 预计时间：7–10分钟
+- 语言：英文
+- 难度：中
+
+这是一个非常符合微节点ROI的5页文章。
+
+它补Le Guin两页说明未完成的文学问题：
+
+> **reader怎样被story邀请进入fiction-making，并在其中形成 / 抵抗自己的伦理判断。**
+
+#### 默认辅助成本
+
+> **10–15分钟。**
+
+#### 资料层修订
+
+原：B。
+
+仍为：
+
+> **B only**
+
+但B由：
+
+> 一份泛伦理解释
+
+改成：
+
+> **作者2页思想来源 + 5页reader / fiction形式分析。**
+
+---
+
+### R4-4. Le Guin《黑暗的左手》（升级）
+
+#### 本路线中的职责：从“Omelas放大版”明确分离
+
+Omelas与《黑暗的左手》不是“短篇 / 长篇同一种推想”。
+
+二者的差异现在正式冻结：
+
+##### Omelas
+
+> **极端压缩一个伦理变量，让读者判断。**
+
+##### The Left Hand of Darkness
+
+> **改变一个深层社会 / 生物前提，然后观察它怎样进入亲属关系、政治、身份、语言、外交、战争 / 和平与观察者偏见。**
+
+也就是说：
+
+> **thought experiment → anthropological world-building**
+
+不是篇幅增大而已，而是推想机制发生变化。
+
+#### 本路线中的具体职责
+
+1. 完整world-building不是“设定很多”，而是让不同制度和习俗彼此产生关系；
+2. Gethen人的性别 / 生殖结构改变：
+   - family；
+   - sexuality；
+   - status；
+   - politics；
+   - self / other perception；
+3. 小说还包含类似anthropological field notes、myths、reports等不同文类；
+4. Genly Ai并不是透明的地球代表，他自己的性别 / 文化偏见也是world-building的一部分；
+5. “理解一个异文化”需要observer自己改变，而不只是积累更多设定知识；
+6. Cold War背景下的communication / cosmopolitanism同样重要，作品不能只剩“无固定性别星球”。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “如果人类都是双性人，社会就不会有性别不平等。”
+
+小说并没有提供如此简单的社会科学实验结论。
+
+##### 误读二
+
+> “world-building就是知道Karhide、Orgoreyn、kemmer、shifgrethor等设定。”
+
+更重要的是：
+
+> **这些概念怎样迫使Genly和读者改变原先分类世界的方式。**
+
+##### 误读三
+
+> “1969年的性别实验已经彻底超越性别二元。”
+
+Le Guin本人后来明确修正过自己：
+
+- generic “he”；
+- heterosexual assumptions；
+- male viewpoint；
+
+等局限。
+
+因此把作品放回历史位置，比把它当成今天仍然毫无问题的“正确性别模型”更重要。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+陌生词、制度和观察偏差本来就是“成为异文化观察者”的体验。
+
+#### 阅读后核心材料 B1：为什么这是真正的anthropological world-building
+
+**Tom Shippey, “Introduction: Serious Issues, Serious Traumas, Emotional Depth.”**
+
+- 收入：*Hard Reading: Learning from Science Fiction*
+- Liverpool University Press
+- 2016
+- pp.**182–184**
+- 预计时间：5–7分钟
+- 语言：英文
+- 难度：中
+
+只需要3页。
+
+Shippey直接指出：
+
+- Le Guin来自Kroeber人类学家庭背景；
+- *The Left Hand of Darkness*想象的是一套“radically different ground rules”；
+- 小说还嵌入多段anthropological field notes；
+- reader必须把这些材料与主故事自己连接起来。
+
+这几乎精确解释：
+
+> **为什么world-building不是“背景设定表”，而是一种认知任务。**
+
+#### 阅读后核心材料 B2：不要把整本书缩成gender experiment
+
+**陈榕：《厄休拉·勒古恩〈黑暗的左手〉中的世界主义》**
+
+- 《名作欣赏》
+- 2015年第14期
+- 中文全文有公开转载
+- 稳定页面：<https://www.chinasf.com/main/documentdetail.php?DocumentID=2761>
+- 推荐范围：
+  > **重点读讨论Ekumen、冷战、沟通 / recognition、异者理解的部分；作家生平和奖项可跳过。**
+- 预计时间：10–15分钟
+- 语言：中文
+- 难度：低—中
+
+它的重要作用是纠正：
+
+> 《黑暗的左手》 = 一篇性别理论小说。
+
+文章明确把：
+
+- cold-war binary opposition；
+- Ekumen；
+- communication；
+- acceptance of difference；
+- cosmopolitanism；
+
+一起带回来。
+
+#### 可选深入 C：作者自己后来怎样修正这本小说
+
+**Ursula K. Le Guin, “Is Gender Necessary? Redux.”**
+
+- 收入：*Dancing at the Edge of the World: Thoughts on Words, Women, Places*
+- Grove Press
+- 1989
+- pp.**7–16**
+- 原文1976；1987加入“Redux”修订
+- 预计时间：15–20分钟
+- 语言：英文
+- 难度：中
+
+这是一个高收益C层，因为Le Guin没有简单为自己辩护，而是：
+
+> **把早期论述保留下来，再直接插入多年后的反驳、修正和自我批评。**
+
+她承认自己曾：
+
+- 对批评过于defensive；
+- generic pronoun “he”有真实问题；
+- 不必要地把Gethenian sexuality锁进heterosexuality；
+- 主要让读者从一个conventionally male viewpoint进入androgyny。
+
+这是一份非常好的：
+
+> **“经典作品可以重要，同时也可以有历史局限”**
+
+的教学材料。
+
+但默认路线不要求增加。
+
+#### 默认辅助成本
+
+> **15–22分钟。**
+
+---
+
+### R4-5. Ishiguro《别让我走》
+
+#### 本路线中的职责：Round 4最重要的“类型边界”节点
+
+1. 21世纪当代出口；
+2. 科幻 / biodystopia设定被有意压低，而不是不断展示未来科技；
+3. 现实主义、boarding-school novel、memoir、Bildungsroman的熟悉表面承担主要情感工作；
+4. clones / organ harvesting并不是可以剥掉的隐喻外壳——正是这个SF装置使故事结构成立；
+5. dystopia也不一定需要：
+   - totalitarian spectacle；
+   - rebellion；
+   - escape plot；
+6. 最可怕之处之一是：
+   > **制度已经被人物内化成“普通生活”。**
+7. 它因此极适合证明：
+   > **21世纪literary fiction与genre fiction的边界松动，不等于genre被高级文学吸收后消失。**
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “这其实不是科幻，只是用克隆做一个关于死亡的比喻。”
+
+这种解释与Round 2《五号屠场》“其实不是真SF”是同一种错误。
+
+如果去掉cloning / donation：
+
+> Ishiguro自己曾尝试两次使用realist setting，都无法让这个故事成立。
+
+##### 误读二
+
+> “既然是反乌托邦，为什么没人逃跑、革命？”
+
+这恰恰是作品的特殊设计：
+
+> **biodystopia不主要通过外部强制，而通过教育、语言、社会化和身体命运变成normal。**
+
+##### 误读三
+
+> “这是未来科技预言。”
+
+Ishiguro刻意使用alternative 1990s和极少科学说明。
+
+小说关注的是：
+
+> **如果不公正制度已经成为普通日常，人们怎样理解自己的生命？**
+
+#### 阅读前材料
+
+> **强烈不建议预读。**
+
+尤其不要提前告诉第一次读者：
+
+- clones；
+- organ donation；
+- Hailsham的完整用途。
+
+小说怎样缓慢让读者明白这个世界，本身就是它“把科幻埋进现实主义”的形式机制。
+
+#### 阅读后核心材料 B1：现实主义表面怎样“埋掉”科幻
+
+**Jay Clayton, “Clones and Other Sorrows (Kazuo Ishiguro).”**
+
+- 收入：*Literature, Science, and Public Policy: From Darwin to Genomics*
+- Cambridge University Press
+- 2023
+- Chapter 9
+- 全章pp.**182–197**
+- Open Access
+- DOI：<https://doi.org/10.1017/9781009263504.014>
+- 本路线推荐范围：
+  > **从章首读到“Time and Sorrow”小节之前；后半关于policy / temporality可选。**
+- 预计时间：18–22分钟
+- 语言：英文
+- 难度：中
+- 建议：机器辅助阅读
+
+Clayton几乎精确解释本路线职责：
+
+- familiar boarding-school novel / memoir / Bildungsroman；
+- psychological interiority；
+- reader最初甚至几乎意识不到这是biodystopia；
+- “clone”一词几乎被taboo；
+- science被有意bury；
+- 作品不是写科学奇迹，而是写：
+  > **the normalization of science**
+- characters把制度内化，因此不需要典型dystopia的逃跑 / rebellion。
+
+它还把这种写法与更典型、外显world-building的SF做对比。
+
+#### 阅读后核心材料 B2：为什么Ishiguro自己需要跨过genre boundary
+
+**Neil Gaiman & Kazuo Ishiguro, “Breaking the Boundaries Between Fantasy and Literary Fiction.”**
+
+- *The New Republic*
+- 7 June 2015
+- 推荐范围：
+  > **只读从Gaiman问“Never Let Me Go的反应如何？”开始，到Ishiguro讲完1990年代年轻一代SF / graphic novel作家让他感到“liberated”为止。**
+- 预计时间：7–10分钟
+- 语言：英文
+- 难度：低
+
+这是非常少见的一份作者证据：
+
+Ishiguro明确说：
+
+- 他90年代曾两次试图用更现实主义的方式写同一个故事，都失败；
+- 到约2001年想到：
+  > clones + organ harvesting
+  才让故事真正成立；
+- 90年代文学文化中，一批更年轻作家对SF、graphic novel、zombie等类型资源更开放；
+- 这种变化让他觉得自己可以更自由地使用各种genre资源。
+
+这几段几乎就是本路线“21世纪文学小说与类型重新混合”的一手证词。
+
+#### 可选深入 C
+
+**Doug Battersby, “Ishiguro and Genre Fiction.”**
+
+- 收入：*The Cambridge Companion to Kazuo Ishiguro*
+- Cambridge University Press
+- 2023
+- pp.**138–151**
+- DOI：<https://doi.org/10.1017/9781108909525.013>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：中
+
+它适合继续研究：
+
+- detective；
+- dystopia；
+- fantasy；
+- science fiction；
+
+怎样贯穿Ishiguro后期小说，以及Ishiguro本人对“genre”标签的矛盾态度。
+
+默认B1+B2已足够。
+
+#### 默认辅助成本
+
+> **25–32分钟。**
+
+---
+
+### R4-6. 刘慈欣《流浪地球》
+
+#### 本路线中的职责：不只是“中国科幻存在”
+
+1. 建立21世纪中国科幻低成本入口；
+2. 一条大胆科学假设可以直接重写：
+   - 地球；
+   - 日常生活；
+   - 社会制度；
+   - 世代时间；
+3. engineering不是背景，而是审美对象和叙事尺度制造器；
+4. 从individual protagonist转向：
+   - species；
+   - civilization；
+   - long-duration history；
+5. 短中篇却使用类似“未来历史 / 编年史”的大跨度手法；
+6. 把中国当代文学中较少见的：
+   > **宏大工程 + 宇宙尺度 + collective history**
+   带入固定路线。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “它值不值得读，主要看行星发动机科学上可不可行。”
+
+科学合理性当然可以讨论，但文学阅读如果只剩“找硬伤”，会漏掉SF真正的形式能力：
+
+> **把一个现实中不存在的前提认真推进，观察它怎样重写人的尺度、历史和社会。**
+
+##### 误读二
+
+> “宏大设定意味着人物写得不够细，所以只是低配文学。”
+
+《流浪地球》的取舍本来就是：
+
+> 把一生、几代人、地球工程、时代划分压缩到中篇中。
+
+必须先理解这种“scale choice”，才能评价它做成了什么、牺牲了什么。
+
+##### 误读三
+
+> 把电影的家庭情节和价值结构直接带回小说。
+
+本路线研究对象是刘慈欣原始小说。
+
+电影研究只有在比较adaptation时才有意义，不作为默认导读。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+先让：
+
+- 地球发动机；
+- 刹车时代；
+- 逃逸时代；
+- 长时间尺度；
+
+作为fictional reality自己建立起来。
+
+#### 阅读后核心材料 B1：先纠正“科幻 = 预测”
+
+**《〈流浪地球〉作者刘慈欣：科幻作家不可能预测未来》**
+
+- 中国作家网
+- 2019
+- 推荐范围：
+  > **只读刘慈欣回答“科幻作家能预测未来世界吗？”的几段**
+- 预计时间：3–5分钟
+- 语言：中文
+
+刘慈欣的表述非常适合本路线：
+
+> 科幻不是预测最可能未来，而是在排列各种可能性，优先选择最有意思、最震撼的可能性。
+
+这可以立刻纠正：
+
+> “科学预测准不准 = SF价值”
+
+这一错误入口。
+
+#### 阅读后核心材料 B2：为什么一个中篇能获得“史诗”尺度
+
+**杨琼：《科幻文学史诗性的呈现——以〈流浪地球〉为中心》**
+
+- 《中国当代文学研究》
+- 2019年第2期
+- 起始页：**p.210**
+- 中国作家网有全文公开
+- 稳定链接：<https://www.chinawriter.com.cn/n1/2019/0403/c426230-31012019.html>
+- 推荐范围：
+  > **重点读“叙事跨度”“群体与个体叙事”及结论；前面的史诗概念史可以略读。**
+- 预计时间：15–20分钟
+- 语言：中文
+- 难度：中
+
+它特别适合本路线，因为它不是只讲“主题宏大”，而具体分析：
+
+- 一个有限人物生命怎样承载2500年计划；
+- spatial / temporal scale怎样被压进故事；
+- “刹车时代 / 逃逸时代 / 流浪时代”怎样制造类历史叙述；
+- individual与collective / civilization尺度怎样同时存在。
+
+#### 默认辅助成本
+
+> **18–25分钟。**
+
+---
+
+### R4-7. 刘慈欣《三体》第一部（升级）
+
+#### 一个非常重要的研究边界
+
+本路线固定阅读的是：
+
+> **《三体》第一部。**
+
+不是：
+
+> 《地球往事》三部曲全部。
+
+因此后续辅助材料必须严格防止：
+
+> **用《黑暗森林》《死神永生》才完整展开的“黑暗森林理论 / 宇宙社会学 / 更后期文明尺度”反过来替第一部规定意义。**
+
+这一轮检索中，大量著名《三体》论文实际讨论的是整个三部曲。
+
+它们即使质量很高，也默认淘汰出第一部核心导读。
+
+这成为本轮一个新的筛选原则。
+
+#### 本路线中的职责
+
+相对于《流浪地球》：
+
+1. 从一个压缩的mega-engineering premise升级为完整长篇；
+2. science不只是未来技术，而首先变成：
+   > **“现实的基本规律是否还可信？”**
+3. 物理学危机以mystery / investigation方式进入故事；
+4. 中国现代历史，尤其Cultural Revolution，不是和“宇宙SF”无关的背景，而进入：
+   - trust in science；
+   - human civilization；
+   - Ye Wenjie的选择；
+5. 地球现实、科学共同体、游戏 / virtual representation、外星文明逐步被连成同一体系；
+6. 这显示中国新世纪SF不仅有“宏大科技”，也能把：
+   > **modern Chinese history + scientific epistemology + planetary / cosmic imagination**
+   组织在同一部长篇里。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “前面的文革只是人物黑历史，真正科幻从三体游戏 / 外星文明才开始。”
+
+这会把作品一半结构切掉。
+
+##### 误读二
+
+> “《三体》的核心就是后来著名的黑暗森林。”
+
+对于**第一部**尤其错误。
+
+##### 误读三
+
+> “科学越硬、设定越震撼，就越能说明文学价值。”
+
+第一部真正有意思的一点恰恰是：
+
+> **科学认知本身出现危机时，人怎样判断世界仍然可知？**
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+尤其不做“三体世界观百科”，不预讲后两部理论。
+
+#### 阅读后核心材料 B1：历史不是SF的外部背景
+
+**王静静：《论刘慈欣〈三体〉中的“文革”叙事》**
+
+- 《小说评论》
+- 2016年第3期
+- pp.**170–175**
+- 预计时间：12–15分钟
+- 语言：中文
+- 难度：中
+
+为什么它很适合作为第一部核心：
+
+它专门追问：
+
+> 刘慈欣为什么把一个面向未来 / 宇宙的科幻故事，从Cultural Revolution开始？
+
+这能阻止读者把：
+
+> history
+
+和：
+
+> science fiction
+
+当成两个不相干模块。
+
+#### 阅读后核心材料 B2：放回中国科幻新浪潮 / 刘慈欣的位置
+
+**宋明炜、金雪妮译：《在崇高宇宙与微纪元之间：刘慈欣论》**
+
+- 《当代文坛》
+- 2021年第1期
+- pp.**200–209**
+- 推荐范围：
+  > **只读文章开头和“一 刘慈欣与新浪潮”的前段，用于建立中国科幻第三次浪潮、全球化 / 技术高速发展及刘慈欣位置；进入三部曲后两部具体分析前停止。**
+- 中国作家网有公开全文
+- 稳定链接：<https://www.chinawriter.com.cn/n1/2021/0202/c404080-32019994.html>
+- 预计时间：8–12分钟
+- 语言：中文
+- 难度：中
+
+保留它的原因不是“刘慈欣很重要”这种名家认证。
+
+它帮助读者理解：
+
+> 《三体》不应孤立成一个突然出现的世界畅销现象，而属于20世纪末—21世纪初中国科幻新一轮文学与社会转型。
+
+同时它特别强调：
+
+- technological power；
+- uncertainty；
+- utopian / dystopian tensions；
+- globalization；
+- science / nation / world秩序。
+
+#### 可选深入 C：若未来读完整个三部曲再开放
+
+以下材料本轮**暂不推荐**：
+
+- dark forest / cosmic sociology；
+- 全三部曲伦理；
+- 《死神永生》后人类；
+- trilogy整体政治哲学。
+
+不是它们不好，而是：
+
+> **destination尚未读到。**
+
+这相当于Bridge-after-destination规则在“同一系列内部”的新版本。
+
+#### 默认辅助成本
+
+> **20–27分钟。**
+
+---
+
+### R4-8. Round 4最重要的横向区分
+
+#### 1. Gothic ≠ Science Fiction
+
+Gothic主要调用：
+
+- fear；
+- transgression；
+- secrecy；
+- unstable self / body；
+- past returning；
+
+Science fiction通常要求读者把某种不同于现实的novel premise，当作具有一定认知 / 因果逻辑的世界条件继续推演。
+
+但：
+
+> **Frankenstein恰恰说明二者可以在一部作品里交界。**
+
+所以文类不是互斥盒子。
+
+---
+
+#### 2. Thought experiment ≠ world-building
+
+##### Omelas
+
+> 极端压缩条件，只保留足以迫使伦理判断的结构。
+
+##### Left Hand
+
+> 一个变化会扩散到文化、政治、亲属、语言、身份、外交等多层系统。
+
+二者都“推想”，但阅读任务完全不同。
+
+---
+
+#### 3. Dystopia ≠ “坏未来 + 反抗政权”
+
+*Never Let Me Go*显示：
+
+> dystopian order可以低调、正常、没有明显极权视觉，也不要求主人公发动革命。
+
+制度最有效的时候甚至可能是：
+
+> 人已经学会把自己的命运理解成normal。
+
+---
+
+#### 4. World-building ≠ setting encyclopedia
+
+本轮正式冻结：
+
+> **world-building的价值，不由专有名词和设定条数决定。**
+
+更重要的是：
+
+- 改变了什么ground rule；
+- 它怎样影响其他制度；
+- 人物怎样在其中自然生活；
+- outsider / reader怎样逐渐学会或误解这个世界。
+
+---
+
+#### 5. “硬 / 软科幻”不作为本路线核心分类
+
+可以把它当历史上存在的阅读习惯，但不用于判断质量，也不把：
+
+> hard = science  
+> soft = humanity
+
+当成有效二分。
+
+理由非常直接：
+
+- 《黑暗的左手》用社会 / 人类学推想，仍有严格world logic；
+- 《流浪地球》以工程 / physics为主要审美资源，同时涉及历史、集体、伦理；
+- 《别让我走》几乎不解释cloning science，但SF premise不可删除；
+- 《三体》把物理学认识危机与现代历史放在同一结构中。
+
+这四部已经足以让“science vs humanity”的粗分失效。
+
+---
+
+### R4-9. 一个轻量共享理论词：novum，只用于研究内部
+
+本轮大量资料最终都绕回一个有帮助但不应增加读者负担的概念：
+
+> **novum：一个使fictional world相对于经验世界发生关键变化的新条件。**
+
+Darko Suvin经典定义强调：
+
+> cognitive estrangement + fictional novum + cognitive logic。
+
+现代研究已经修正它，不再把这看作SF必须满足的绝对法律。
+
+因此本项目采用它作为：
+
+> **内部研究工具，不新增默认理论阅读。**
+
+它有助于问：
+
+- Frankenstein：新的生命创造可能性；
+- Omelas：一个幸福社会依赖单一受害者；
+- Left Hand：不同的性别 / 生殖ground rule；
+- Never Let Me Go：cloning / organ donation正常化；
+- Wandering Earth：移动整个地球；
+- Three-Body I：科学规律 / 外星联系改变人类现实。
+
+但读者**不需要为了这些作品先学Suvin理论**。
+
+---
+
+### R4-10. Round 4推荐实际用法
+
+#### 基础包
+
+##### 1. Poe两篇
+
+- 两篇都直接读；
+- 《莫格街》后读Thoms章首7–10分钟；
+- 《泄密的心》后读NPS相关段落4–5分钟；
+- 不把“Poe发明侦探小说”当考试答案。
+
+##### 2. Omelas
+
+- 直接读；
+- 后读Le Guin自己2页note；
+- 再读Wyman 5页；
+- 不提前变成功利主义课堂。
+
+##### 3. 《别让我走》
+
+- 强烈禁止预读SF设定；
+- 读完看Clayton章前半；
+- 再读Ishiguro / Gaiman访谈指定几段；
+- 此时才真正讨论“literary / genre boundary”。
+
+##### 4. 《流浪地球》
+
+- 直接读小说，不用电影当导读；
+- 先用刘慈欣3–5分钟纠正“SF=预测”；
+- 再读杨琼指定部分理解scale / epic / collective history。
+
+#### 升级包
+
+##### 5. 《弗兰肯斯坦》
+
+- 直接读；
+- 读Gordon VSI一章；
+- 若对SF祖先 / 后世机器人传统特别感兴趣，再加Clayton。
+
+##### 6. 《黑暗的左手》
+
+- 直接读；
+- Shippey 3页；
+- 陈榕指定部分；
+- 真正想追性别实验的历史局限，再读Le Guin “Redux”。
+
+##### 7. 《三体》第一部
+
+- 直接读；
+- 王静静pp.170–175；
+- 宋明炜文章只读开头 / 新浪潮段落；
+- **严格停在不涉及后两部核心机制的位置。**
+
+---
+
+### R4-11. 时间预算复核
+
+#### 基础包Round 4
+
+| 节点 | 默认辅助时间 |
+|---|---:|
+| Poe两篇 | 11–15分钟 |
+| Omelas | 10–15分钟 |
+| 《别让我走》 | 25–32分钟 |
+| 《流浪地球》 | 18–25分钟 |
+| **合计** | **64–87分钟** |
+
+即：
+
+> **约1小时04分—1小时27分。**
+
+#### 升级包Round 4
+
+| 节点 | 默认辅助时间 |
+|---|---:|
+| 《弗兰肯斯坦》 | 25–30分钟 |
+| 《黑暗的左手》 | 15–22分钟 |
+| 《三体》第一部 | 20–27分钟 |
+| **合计** | **60–79分钟** |
+
+#### Round 4基础 + 升级默认
+
+> **约124–166分钟，即2小时04分—2小时46分。**
+
+不计入默认成本：
+
+- Poe文类起源争论；
+- Frankenstein futurity；
+- Le Guin “Is Gender Necessary? Redux”；
+- Battersby / Ishiguro genre全章；
+- 《三体》三部曲整体研究。
+
+---
+
+### R4-12. 本轮主动淘汰的材料类型
+
+#### 1. “谁才是第一部科幻 / 第一篇侦探小说”的冠军赛
+
+不作为核心。
+
+文学史起源往往是多源的。
+
+路线关心：
+
+> **哪个作品最清楚、最低成本地让读者亲历后来成为核心的类型机制。**
+
+#### 2. “Omelas = 功利主义题库”
+
+不收。
+
+除非进一步讨论：
+
+> narrator怎样让reader参与建造这个乌托邦。
+
+#### 3. “Left Hand = 没有性别的社会实验报告”
+
+不收。
+
+必须至少加入：
+
+- anthropological observation；
+- outsider bias；
+- culture / politics；
+- communication / recognition。
+
+#### 4. “Never Let Me Go其实不是科幻”
+
+不收。
+
+它的“现实主义感”并不取消SF，恰恰是SF机制的特殊使用方式。
+
+#### 5. “流浪地球 / 三体的价值 = 科学预测准确”
+
+不收。
+
+科学推演的内部逻辑值得讨论，但：
+
+> **future prediction accuracy不是文学评价的中心尺度。**
+
+#### 6. 用电影《流浪地球》替小说导读
+
+默认不收。
+
+电影可以另做adaptation study，但不能偷换固定作品对象。
+
+#### 7. 用《三体》三部曲后两部替第一部解释自己
+
+默认不收。
+
+这是当前最容易发生、也最需要防止的“后见之明污染”。
+
+---
+
+### R4-13. 本轮形成的通用研究规则
+
+#### Rule P — 类型谱系不采用“单一起源冠军”
+
+正式冻结：
+
+> **历史位置可以说“奠基 / crystallization / canonical ancestor”，不轻率说“唯一第一”。**
+
+Poe与Frankenstein共同建立此规则。
+
+#### Rule Q — Thought experiment与world-building必须区分
+
+- Omelas：压缩变量；
+- Left Hand：系统扩散。
+
+以后处理SF / speculative fiction时不能仅按篇幅区分。
+
+#### Rule R — World-building按“关系密度”而不是“设定数量”判断
+
+核心问题：
+
+> 一个改变怎样进入制度、语言、身份、关系和人物习惯？
+
+不是世界观百科有多少条。
+
+#### Rule S — 类型边界松动 ≠ 类型消失
+
+正式冻结：
+
+> **literary fiction使用SF，不代表“其实不是SF”。**
+
+Never Let Me Go是本路线最清楚的21世纪示例。
+
+#### Rule T — 续作 / 系列后见之明不得污染当前阅读单元
+
+若路线只要求series的一部分：
+
+> **核心材料必须只解释当前已经授权的作品范围。**
+
+后续卷才成立的理论，不得提前反向成为当前卷“中心思想”。
+
+《三体》第一部建立此规则。
+
+#### Rule U — 作者自述只负责校准“写作问题”，不拥有最终解释权
+
+本轮：
+
+- Le Guin；
+- Ishiguro；
+- Liu Cixin；
+
+的自述都非常有价值。
+
+但使用方式是：
+
+> 了解作家当时试图解决什么形式问题 / 如何反思自己的作品，
+
+不是：
+
+> 作者说了什么，作品就只能是什么意思。
+
+---
+
+### R4-14. Round 4后的职责卡修订
+
+#### Poe
+
+原：
+
+> detective origin + Gothic / unreliable narrator。
+
+改为：
+
+> **一组相反的认识机制：rational reconstruction vs unreliable confession；同时训练两种reader position。**
+
+“侦探小说起点”措辞改成：
+
+> **现代detective/ratiocination fiction的核心奠基 / crystallization节点。**
+
+#### Frankenstein
+
+原：
+
+> Gothic / early SF / type ancestor。
+
+进一步冻结为：
+
+> **Gothic × experimental-science边界祖先；creation的伦理重点包括“创造之后的责任”。**
+
+删除：
+
+> “公认第一本科幻小说”
+
+这种绝对措辞。
+
+#### Omelas
+
+原：
+
+> 推想世界作为思想 / 伦理实验。
+
+进一步改成：
+
+> **psychomyth + compressed thought experiment + reader co-construction。**
+
+明确：
+
+> **不是完整world-building的微缩版。**
+
+#### The Left Hand of Darkness
+
+进一步冻结：
+
+> **anthropological world-building + observer revision。**
+
+不是单一gender thought experiment。
+
+#### Never Let Me Go
+
+进一步冻结：
+
+> **SF premise buried inside realism / memoir / Bildungsroman + normalized biodystopia。**
+
+其“当代出口”意义现在比原设计更有证据：
+
+> Ishiguro本人明确把genre资源解放与1990年代以后文学文化变化联系起来。
+
+#### The Wandering Earth
+
+进一步冻结：
+
+> **science / engineering premise → epic scale → quasi-history → collective / civilization perspective。**
+
+#### The Three-Body Problem I
+
+增加两个严格边界：
+
+1. Cultural Revolution不是“科幻之外的背景”；
+2. 不使用后两部dark forest / cosmic sociology反向定义第一部。
+
+---
+
+### R4-15. 对Round 5的影响
+
+Round 5进入中文小说：
+
+- 《聊斋》；
+- 鲁迅；
+- 施蛰存；
+- 张爱玲；
+- 白先勇《游园惊梦》 / 《台北人》；
+- 西西《我城》。
+
+Round 4留下四个直接可复用的问题：
+
+1. **“非现实”仍然不能自动用西方genre名称套。**
+   《聊斋》的志怪 / 传奇资源必须从自身文类史进入。
+
+2. **world-building / localization原则继续适用。**
+   现代主义进入中文语境后，要问：
+   > 它怎样改变上海、台湾、香港的具体社会经验？
+   而不是只找“谁受了Woolf / Freud影响”。
+
+3. **类型 / 形式标签不等于本土文学史意义。**
+   施蛰存不是“中文版心理现代主义”；白先勇不是“中文意识流”。
+
+4. **必须继续防止后见之明污染。**
+   不能因为后来某作家成为某种“代表”，就把早期文本所有细节都解释成那个标签的预告。
+
+---
+
+
 # 12. 变更日志
 
 
 
+
+
+## v0.5 — 2026-10-05
+
+完成Round 4“类型与推想文学谱系：从类型机制到21世纪混融”深搜深研。
+
+主要更新：
+
+1. 完成Poe / Frankenstein / Omelas / The Left Hand of Darkness / Never Let Me Go / The Wandering Earth / The Three-Body Problem I全部基础与升级节点A/B/C筛选；
+2. 拒绝“类型文学”总标签，把本轮拆成：reader-protocol、Gothic×science边界、compressed thought experiment、anthropological world-building、buried / normalized biodystopia、engineering-epic scale、history+science+cosmic long-form SF；
+3. Poe两篇重新组合成“rational reconstruction vs unreliable confession”两种相反认识机制；“Poe发明侦探小说”改为现代detective/ratiocination fiction核心奠基 / crystallization节点；
+4. Frankenstein从“第一本科幻小说”修订为Gothic与experimental science交界的canonical ancestor；强调creation之后的responsibility；
+5. Omelas职责改为psychomyth + compressed thought experiment + reader co-construction，不再描述成微型完整world-building；
+6. The Left Hand of Darkness职责冻结为anthropological world-building + observer revision；新增Le Guin “Is Gender Necessary? Redux”作为高收益C层自我修正材料；
+7. Never Let Me Go形成两份非重复B：Clayton解释现实主义 / Bildungsroman如何埋掉并正常化biodystopia；Ishiguro/Gaiman访谈直接证明SF premise为何使故事成立以及文学/类型边界变化；
+8. The Wandering Earth用刘慈欣短访谈纠正“SF=预测”，用杨琼文章解释epic scale / quasi-history / collective narrative；
+9. The Three-Body Problem I严格限定只研究第一部：王静静处理Cultural Revolution与SF现实关系，宋明炜只读新浪潮定位段；淘汰以后两部dark forest / cosmic sociology反向解释第一部的材料；
+10. 正式新增Rule P–U：文类多源起源、thought experiment≠world-building、world-building按关系密度、类型边界松动≠类型消失、系列后见之明不得污染当前单元、作者自述不等于最终解释；
+11. Round 4基础包默认辅助成本约64–87分钟；升级包约60–79分钟；全轮默认约124–166分钟。
 
 ## v0.4 — 2026-10-05
 
