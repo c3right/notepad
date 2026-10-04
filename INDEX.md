@@ -96,6 +96,10 @@
 
 ### 文学与阅读
 
+- **2026-10-04 — [阅读当代文学的最短经典路径：基础包与升级包 v1.0](./notes/2026/2026-10-04-contemporary-literature-minimal-path-final-packages.md)**  
+  七轮开放深研与作品级最终校验后的收口版本：基础包采用 Kernel + 高收益微节点，升级包负责短→长丰满化与高价值节点回收；固定具体篇目，保留小说、中文文学与戏剧三条主线。  
+  `contemporary-literature` `reading-path` `classics` `fiction` `drama` `final-framework`
+
 - **2026-10-04 — [阅读当代文学的最短作品路径：研究路线与分叉地图推进记录](./notes/2026/2026-10-04-contemporary-literature-minimal-path-research-log.md)**  
   从反思黄梵“小说阅读捷径”出发，改用“从当代倒推祖先”的研究方法，规划7轮深研，并在第1轮建立当代小说的 4+1 核心文学语法、三条横轴与后续祖先倒查任务。  
   `contemporary-literature` `reading-path` `literary-history` `fiction` `research-log`
@@ -124,6 +128,7 @@
 
 ### 2026
 
+- 2026-10-04 — [阅读当代文学的最短经典路径：基础包与升级包 v1.0](./notes/2026/2026-10-04-contemporary-literature-minimal-path-final-packages.md)
 - 2026-10-04 — [阅读当代文学的最短作品路径：研究路线与分叉地图推进记录](./notes/2026/2026-10-04-contemporary-literature-minimal-path-research-log.md)
 - 2026-10-04 — [中文文本细读资源：七轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移→汉语句子显微镜→长篇局部实验）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)
 - 2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)
