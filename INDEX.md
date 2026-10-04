@@ -96,6 +96,10 @@
 
 ### 文学与阅读
 
+- **2026-10-04 — [阅读当代文学路径：外国作品中文译本推荐 v1.0](./notes/2026/2026-10-04-contemporary-literature-foreign-translations-v1.md)**  
+  针对“基础包 + 微节点 + 升级包”的外国小说与戏剧逐项筛选简体中文译本，给出译者、出版社、出版年、ISBN、版本异名与购买可行性，并标出《岛》、Cloud Nine 两个当前简中版本风险点。  
+  `translations` `editions` `foreign-literature` `reading-path` `reference`
+
 - **2026-10-04 — [阅读当代文学的最短经典路径：基础包与升级包 v1.0](./notes/2026/2026-10-04-contemporary-literature-minimal-path-final-packages.md)**  
   七轮开放深研与作品级最终校验后的收口版本：基础包采用 Kernel + 高收益微节点，升级包负责短→长丰满化与高价值节点回收；固定具体篇目，保留小说、中文文学与戏剧三条主线。  
   `contemporary-literature` `reading-path` `classics` `fiction` `drama` `final-framework`
@@ -128,6 +132,7 @@
 
 ### 2026
 
+- 2026-10-04 — [阅读当代文学路径：外国作品中文译本推荐 v1.0](./notes/2026/2026-10-04-contemporary-literature-foreign-translations-v1.md)
 - 2026-10-04 — [阅读当代文学的最短经典路径：基础包与升级包 v1.0](./notes/2026/2026-10-04-contemporary-literature-minimal-path-final-packages.md)
 - 2026-10-04 — [阅读当代文学的最短作品路径：研究路线与分叉地图推进记录](./notes/2026/2026-10-04-contemporary-literature-minimal-path-research-log.md)
 - 2026-10-04 — [中文文本细读资源：七轮深搜深研过程记录（候选池→压力测试→同文异读→双盲读迁移→汉语句子显微镜→长篇局部实验）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)
