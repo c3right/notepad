@@ -2684,9 +2684,1139 @@ Round 2带入四个必须主动检查的问题：
 ---
 
 
+
+## Round 3 — 帝国、后殖民、魔幻现实主义与历史记忆
+
+**状态：COMPLETED**
+
+研究对象：
+
+- Joseph Conrad《黑暗的心》；
+- Chinua Achebe《瓦解》；
+- Gabriel García Márquez《百年孤独》；
+- Salman Rushdie《午夜之子》；
+- Toni Morrison《宠儿》。
+
+本轮最重要的前提是：
+
+> **“后殖民 / 世界文学 / 魔幻现实主义 / 历史记忆 / 创伤”不能被当成一包近义标签。**
+
+五部作品最终被拆成四个不同问题：
+
+1. **Conrad / Achebe：谁拥有叙述世界的权力？**
+2. **García Márquez：什么算“现实”？多种真理与经验如何同时存在？**
+3. **Rushdie：私人生命怎样与国家历史绑定，而历史又怎样被记忆和叙述重新加工？**
+4. **Morrison：当档案本身没有保存某些人的内在经验时，小说怎样面对这种结构性缺席？**
+
+由此也进一步明确：
+
+> **Kafka式不透明世界 ≠ Borges式文本建构现实 ≠ García Márquez式魔幻现实主义 ≠ Morrison式幽灵 / rememory。**
+
+它们都包含“非普通现实”的经验，但文学史功能不同。
+
+---
+
+### R3-1. Chinua Achebe《瓦解》
+
+> 实际基础包阅读顺序中先读《瓦解》；《黑暗的心》是后续升级。  
+> 因此本节先处理Achebe，等升级读Conrad时再启动二者的共享桥梁材料。
+
+#### 本路线中的职责
+
+1. 后殖民的关键不是简单增加“殖民受害者主题”，而是改变**谁拥有叙述世界的资格**；
+2. 小说在殖民者真正进入主舞台之前，先用较长篇幅让Igbo社会作为一个自足、复杂、内部有矛盾的世界存在；
+3. 语言、谚语、故事、宗教、空间与社会制度不是“异域背景资料”，而是叙述本身的组织原则；
+4. Achebe使用英语，但主动让英语承载Igbo语言节奏、谚语、口述传统与思维方式；
+5. 这不是把殖民前Igbo社会浪漫化成完美共同体：Okonkwo的暴力、性别秩序、Ikemefuna等问题仍被小说内部批判。
+
+#### 裸读最容易漏掉什么
+
+最容易出现的简化：
+
+> “前半写美好的非洲传统社会，后半殖民者来了，一切被破坏。”
+
+这会漏掉两个关键点。
+
+第一：
+
+> **前半不是背景铺垫，而本身就是叙述权的夺回。**
+
+在欧洲殖民文本里，Africa常常只是欧洲人物进入的“空间”或“他者”；Achebe先让一个社会拥有自己的：
+
+- 时间；
+- 伦理争论；
+- 谚语；
+- 宗教；
+- 家庭；
+- 内部冲突；
+- 叙事声音。
+
+第二：
+
+> Achebe并不要求读者把Igbo社会当成无瑕的道德乌托邦。
+
+真正变化的是：
+
+> **这个世界第一次不需要先经过欧洲观察者的眼睛，才获得可理解性。**
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+尤其不建议先看一份“18条Igbo习俗解释”。
+
+原因：
+
+小说前半本来就在训练读者：
+
+> **进入一个起初不熟悉、但不需要欧洲翻译者担保其合理性的世界。**
+
+把所有文化项提前翻译成背景知识，会部分破坏这个节点应提供的阅读经验。
+
+#### 阅读后核心材料 B
+
+**Chinua Achebe, “The African Writer and the English Language.”**
+
+- 收入：Isidore Okpewho ed., *Chinua Achebe’s Things Fall Apart: A Casebook*
+- Oxford University Press
+- 年份：2003收录；文章源于Achebe 1960年代的重要论述
+- 页码：**pp.55–66**
+- DOI：<https://doi.org/10.1093/oso/9780195147636.003.0002>
+- 预计时间：18–22分钟
+- 语言：英文
+- 难度：中
+- 建议：机器辅助阅读可明显降低语言负担
+
+为什么选作者自己的这篇，而不是一篇“后殖民理论导读”：
+
+它直接处理本路线最重要的形式问题：
+
+> **一个非洲作家为什么使用殖民语言英语，又怎样改变这种英语，使它能够承载非洲经验？**
+
+这能让读者重新回看小说中的：
+
+- 谚语；
+- 口述语气；
+- 翻译感；
+- 叙事共同体；
+
+并理解：
+
+> **叙述权的转换同时发生在“谁说”与“用什么英语说”两个层面。**
+
+#### 可选深入 C
+
+**Jarica Linn Watts, “‘He does not understand our customs’: Narrating orality and empire in Chinua Achebe’s *Things Fall Apart*.”**
+
+- *Journal of Postcolonial Writing*
+- 46.1
+- 2010
+- pp.65–75
+- DOI：<https://doi.org/10.1080/17449850903478189>
+- 预计时间：18–22分钟
+- 语言：英文
+- 难度：中高
+
+价值：
+
+它把小说第一部分反复出现的口述结构，与后部殖民者不能理解Igbo文化联系起来，特别适合进一步理解：
+
+> **“谁能理解谁”本身就是殖民权力的一部分。**
+
+默认路线不必加。
+
+#### 默认辅助成本
+
+> **18–22分钟。**
+
+---
+
+### R3-2. Joseph Conrad《黑暗的心》（升级）
+
+#### 本路线中的职责
+
+1. 作为19世纪帝国冒险叙事向现代主义转折的重要文本；
+2. 帝国不再被稳定地讲成文明扩张，而被写成暴力、自欺和认识失败；
+3. Marlow不是全知叙述者：框架叙事、延迟解码、含混使读者不断怀疑“他究竟知道什么”；
+4. 同时，文本对帝国的批判并不自动使它摆脱欧洲中心和对非洲人的去人化；
+5. 因此它与《瓦解》的真正强对读不是：
+   > “坏的殖民主义小说 → 好的反殖民小说”
+   
+   而是：
+   > **一个欧洲文本怎样批判帝国却仍把Africa放进欧洲精神危机的框架；后来Achebe怎样挑战这种叙述权限。**
+
+#### 裸读最容易漏掉什么
+
+两个相反的简化都要避免。
+
+##### 简化一
+
+> “Conrad就是揭露比利时殖民暴行，所以是反殖民经典。”
+
+问题：
+
+反帝国暴力不等于已经把非洲人物当作拥有同等叙述主体性的世界。
+
+##### 简化二
+
+> “Achebe说Conrad种族主义，所以这部小说只剩殖民偏见，没有形式价值。”
+
+问题：
+
+这样又会抹掉《黑暗的心》对：
+
+- 全知叙述；
+- 帝国自信；
+- 线性认知；
+- 直接意义；
+
+的现代主义破坏。
+
+最值得学习的恰恰是：
+
+> **一部作品可以同时对帝国具有批判洞察，又仍然受制于它所处时代的种族 / 帝国想象。**
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+第一次读先经历：
+
+- Thames与Congo之间的框架；
+- Marlow不断无法解释经历；
+- Kurtz长期只通过传闻存在；
+- 含混、延迟和叙述不可靠感。
+
+再补历史与批评争论，收益更高。
+
+#### 阅读后核心材料 B1：现代主义形式
+
+**Pericles Lewis, “Heart of Darkness,” Yale Modernism Lab.**
+
+- 机构：Yale University Modernism Lab
+- 内容改写自Lewis, *The Cambridge Introduction to Modernism* (2007), pp.60–61等
+- 稳定页面：<https://campuspress.yale.edu/modernismlab/heart-of-darkness/>
+- 预计时间：8–10分钟
+- 语言：英文
+- 难度：低—中
+
+它用非常短的篇幅解释：
+
+- frame narrator；
+- Marlow式意义并非“坚果里的果仁”，而像光晕；
+- delayed decoding；
+- 读者先获得感觉、后获得解释；
+- 时间连续性被打散；
+- 多层叙述如何削弱19世纪全知叙事。
+
+这正好补“现代主义前史”职责，而且不需要一整章Conrad研究。
+
+#### 共享阅读后核心材料 B2：等《瓦解》+《黑暗的心》都读完后
+
+**Chinua Achebe, “An Image of Africa: Racism in Conrad’s *Heart of Darkness*.”**
+
+- *The Massachusetts Review*
+- Vol.18, No.4
+- 1977
+- pp.**782–794**
+- JSTOR stable：<https://www.jstor.org/stable/25088813>
+- 后收于 *Hopes and Impediments*，1989版 pp.1–20
+- 预计时间：20–25分钟
+- 语言：英文
+- 难度：中
+- 建议：机器辅助阅读
+
+这是本轮最重要的共享材料之一。
+
+使用位置严格是：
+
+> **基础包《瓦解》读完 → 以后升级《黑暗的心》读完 → 才读Achebe。**
+
+不要在读Conrad之前预先把结论告诉读者。
+
+为什么它值得成为共享B，而不是普通C层：
+
+因为这篇1975年演讲 / 1977年文章本身已经成为《黑暗的心》接受史的转折点，后续关于Conrad、Africa、racism和colonialism的讨论几乎无法绕过它。
+
+它让读者真正看到：
+
+> **文学史不只是“后来作品受前辈影响”，也包括后来作家反过来改变我们阅读前辈的方式。**
+
+这正好对应本项目所需的“谱系不是单向箭头”。
+
+#### 可选深入 C：在Achebe之后再平衡争论
+
+**Ian Watt, “Conrad’s *Heart of Darkness* and the critics.”**
+
+- 收入：*Essays on Conrad*
+- Cambridge University Press
+- 2000
+- pp.85–96
+- DOI：<https://doi.org/10.1017/CBO9780511485343.005>
+- 预计时间：18–22分钟
+- 语言：英文
+- 难度：中
+
+它很适合作为Achebe之后的二级校准：
+
+- 承认Conrad长期被视为对Leopold Congo暴行的攻击；
+- 又直接进入Achebe挑战之后的批评争论。
+
+默认路线不需要把“Conrad是否racist”变成学术辩论课，所以放C。
+
+#### 默认辅助成本
+
+若已读《瓦解》：
+
+> **Lewis 8–10分钟 + 共享Achebe 20–25分钟 = 28–35分钟。**
+
+其中Achebe是《瓦解》/Conrad两站共享材料，不应重复计时。
+
+---
+
+### R3-3. García Márquez《百年孤独》
+
+#### 本路线中的职责：本轮进一步精化
+
+1. 魔幻现实主义不是“现实里加入一些魔法”；
+2. 文本同时调用不同的：
+   - mentalities；
+   - genres；
+   - kinds of truth；
+   - modes of experience；
+3. “神奇”事件往往以最平静、最日常的语调出现，而现代化、商业资本和政治暴力反而可以呈现出荒谬 / 神话般形态；
+4. Macondo的家族史与拉美历史、现代化、战争、香蕉公司、遗忘彼此纠缠；
+5. 它是魔幻现实主义从拉美走向世界文学的重要全球扩散节点。
+
+#### 裸读最容易漏掉什么
+
+最常见误读：
+
+> “作者把现实和魔法混在一起，所以叫魔幻现实主义。”
+
+这只描述表面现象。
+
+更准确的问题是：
+
+> **谁有权规定什么才算‘正常现实’？**
+
+在小说中：
+
+- 神话；
+- 家族口述；
+- 宗教解释；
+- 政治历史；
+- 官方否认；
+- 民间记忆；
+- 现代科学 / 技术；
+
+可以同时组织经验。
+
+因此“magic”不一定是对一个稳定、单一现实的装饰性违反。
+
+#### 与Kafka / Borges的区别：本轮正式冻结
+
+##### Kafka
+
+> 一个不可能事件进入普通世界；世界规则不透明。
+
+##### Borges
+
+> 文本、作者、分类和解释系统具有world-making power。
+
+##### García Márquez
+
+> **不同文化 / 历史主体所承认的现实方式可以并存，且政治权力本身会决定什么被记录为“事实”。**
+
+这三个节点以后不得再合并成：
+
+> “现实变得不可靠 / 奇幻化”。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+不提前解释：
+
+- 哪些事件对应具体拉美历史；
+- 哪些场景是“魔幻现实主义范例”。
+
+先让作品自己的语调重新训练读者的现实感。
+
+#### 阅读后核心材料 B
+
+**Steven Boldy, “One Hundred Years of Solitude by Gabriel García Márquez.”**
+
+- 收入：*The Cambridge Companion to the Latin American Novel*
+- Cambridge University Press
+- 2005
+- pp.**258–269**
+- DOI：<https://doi.org/10.1017/CCOL0521825334.015>
+- 预计时间：20–25分钟
+- 语言：英文
+- 难度：中
+- 建议：机器辅助阅读
+
+这是本轮最匹配职责的核心材料之一。
+
+其关键优点是：
+
+> 它明确把魔幻现实主义理解为不同mentalities、genres、truths和experiences的同时调用，而不是“现实 + 魔法”。
+
+它还把：
+
+- 神奇；
+- 日常；
+- 宗教；
+- 历史；
+- United Fruit Company；
+
+放在同一叙事逻辑中解释。
+
+#### 可选深入 C1：真正追问“什么是现实”
+
+**Michael Wood, “Invisible Ink.”**
+
+- 收入：*Gabriel García Márquez: One Hundred Years of Solitude*
+- Cambridge University Press
+- 1990
+- pp.56–75
+- DOI：<https://doi.org/10.1017/CBO9780511620492.007>
+- 预计时间：30–35分钟
+- 语言：英文
+- 难度：中
+
+Wood特别适合进一步追问：
+
+> 当García Márquez说小说中的一切都“基于现实”时，他到底是什么意思？
+
+它区分：
+
+- factual truth；
+- 人们真实相信 / 讲述过的事情；
+- 因而构成生活世界一部分的“real”。
+
+默认B已足够，所以不强制增加20页。
+
+#### Bridge-after-destination正式执行：Faulkner → Latin American Boom
+
+如果已经读过升级包《我弥留之际》，现在——**而不是Round 2**——才读：
+
+**Emron Esplin, “Faulkner and Latin America; Latin America in Faulkner.”**
+
+- 收入：*William Faulkner in Context*
+- Cambridge University Press
+- 2015
+- pp.270–278
+- DOI：<https://doi.org/10.1017/CBO9781107279438.037>
+- 预计时间：15–20分钟
+- 语言：英文
+- 难度：中
+
+使用条件：
+
+> **仅限已经实际读过Faulkner +《百年孤独》的读者。**
+
+作用：
+
+- 把“Faulkner影响拉美Boom”从一句文学史常识变成可理解关系；
+- 看地域、失败、家族历史、封闭地方世界等为什么对拉美作家有吸引力；
+- 同时防止把《百年孤独》简单解释成“Faulkner + 奇幻”。
+
+这是本项目Bridge-after-destination规则的第一次正式落地。
+
+#### 默认辅助成本
+
+基础包：
+
+> **20–25分钟。**
+
+条件桥梁另加：
+
+> **15–20分钟**，只对已读Faulkner者。
+
+---
+
+### R3-4. Salman Rushdie《午夜之子》（升级）
+
+#### 本路线中的职责
+
+1. 南亚 / 印度独立与Partition进入路线；
+2. Saleem的私人生命与国家历史被结构性绑在一起；
+3. “个人”与“国家”都不是单一、稳定的身份，而是多重、冲突、不断重述；
+4. narrator会记错、纠正、夸张、混合历史；
+5. 历史因此不是纯客观档案，但也不是“什么都可以是真的”；
+6. García Márquez之后，魔幻现实主义在南亚后殖民国家形成语境中被重新转化；
+7. 元小说和历史叙述结合。
+
+#### 裸读最容易漏掉什么
+
+最容易把它读成：
+
+> “印度版《百年孤独》。”
+
+这样会直接抹掉其最大新增。
+
+《午夜之子》真正做的是：
+
+> **把一个身体、一段家庭史、一个不断出错的第一人称叙述，与一个新国家的诞生、分裂和政治危机绑定。**
+
+这里的“magic”不能脱离：
+
+- nation；
+- Partition；
+- linguistic plurality；
+- memory；
+- historiography。
+
+#### 阅读前材料 A：本轮唯一明确保留A层的作品
+
+**Marina MacKay, “Salman Rushdie, *Midnight’s Children* (1981).”**
+
+- 收入：*The Cambridge Introduction to the Novel*
+- Cambridge University Press
+- 2010
+- pp.**172–175**
+- DOI：<https://doi.org/10.1017/CBO9780511781544.021>
+- 预计时间：6–8分钟
+- 语言：英文
+- 难度：低—中
+- 剧透：轻
+
+为什么值得预读：
+
+普通中文读者若对：
+
+- 1947印度独立；
+- 印度 / 巴基斯坦分治；
+- “午夜之子”与国家诞生的对应；
+
+完全没有坐标，很容易把宏大历史当成纷乱人名 / 背景噪声。
+
+这4页只建立：
+
+> **Saleem个人身份与nation identity绑定**
+
+的最小坐标，没有必要扩展成印度现代史课程。
+
+#### 阅读后核心材料 B
+
+**李胜伟：《〈午夜之子〉中的历史真相：对后现代自恋叙事的一种解读》**
+
+- 《北京第二外国语学院学报》
+- 2016
+- 38(6)
+- pp.**104–114**
+- 稳定页面：<https://journal.bisu.edu.cn/CN/Y2016/V38/I6/104>
+- 预计时间：15–20分钟
+- 语言：中文
+- 难度：中
+
+它非常适合本路线的“历史怎样被重新叙述”职责：
+
+- 自我意识叙述；
+- 读者参与；
+- 多版本历史；
+- personal history与written history的关系；
+- history被混合、加工，而不是单纯复制。
+
+这比单纯介绍：
+
+> “Rushdie = 魔幻现实主义 + 后殖民”
+
+有明显增量。
+
+#### 可选共享桥梁 C：García Márquez → Rushdie → world literature
+
+**Michael Bell, “García Márquez, magical realism and world literature.”**
+
+- *The Cambridge Companion to Gabriel García Márquez*
+- 2010
+- pp.179–195
+- DOI：<https://doi.org/10.1017/CCOL9780521867498.013>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：中高
+
+阅读位置：
+
+> **必须在《百年孤独》和《午夜之子》两部都读完以后。**
+
+它首先会挑战一个过度整齐的文学史故事：
+
+> “拉美Boom发明magic+realism，然后这套公式输出全球。”
+
+Bell承认这个故事有相当真实成分，也明确提到Rushdie等作家承认García Márquez的重要性，但同时指出“magical realism”已经成为容易混乱的全球标签。
+
+因此它特别适合作为：
+
+> **从拉美形式 → 世界文学扩散 → 跨文化重新编码**
+
+的二级校准。
+
+默认升级路线可不读，以免把Rushdie辅助成本推高；若要真正获得“全球扩散”这一职责，优先读它，而不是另找一堆“谁影响谁”的资料。
+
+#### 默认辅助成本
+
+> **A 6–8分钟 + B 15–20分钟 = 21–28分钟。**
+
+共享桥梁另加：
+
+> **25–30分钟（可选）。**
+
+---
+
+### R3-5. Toni Morrison《宠儿》
+
+#### 本路线中的职责：本轮进一步精化
+
+1. 历史档案没有保存什么；
+2. “memory”不仅是个人回忆，也包括被压抑的国家历史；
+3. rememory使过去不是“已经结束的东西”，而是能重新进入现在的存在；
+4. 创伤改变小说时间：过去不是按年代整齐被回忆，而以侵入、重复、空白和延迟形式出现；
+5. Beloved这个幽灵不是普通奇幻装置，也不能简单贴成“魔幻现实主义”；
+6. 现代主义 / Faulkner遗产进入黑人历史、奴隶制记忆和档案缺席问题以后发生了根本功能变化。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “Beloved是个鬼，所以这是带魔幻元素的历史小说。”
+
+问题：
+
+幽灵在这里不是装饰，也不是把严肃历史“奇幻化”。
+
+它让：
+
+> **没有被正常埋葬、记录和结束的过去变成物理在场。**
+
+##### 误读二
+
+> “碎片时间很像Faulkner，所以主要是现代主义技巧继承。”
+
+问题：
+
+技巧在这里承担了新的历史伦理功能：
+
+> **读者自己也会经历信息缺失、时间断裂、过去突然侵入现在。**
+
+##### 误读三
+
+> “后现代告诉我们历史没有真相。”
+
+这尤其危险。
+
+Morrison面对的问题更接近：
+
+> **现有档案根本没有保存完整的人类经验。**
+
+因此小说不是为了证明“真相不存在”，而是要进入被档案压低、删去或无法书写的内部生命。
+
+#### 阅读前材料
+
+> **不建议预读。**
+
+尤其不要预先解释：
+
+- Beloved是谁；
+- Margaret Garner对应关系；
+- 全部时间线。
+
+第一次阅读中的迷失感，本身部分模拟了小说对创伤记忆的形式设计。
+
+#### 阅读后核心材料 B1：作者自己的创作问题
+
+**Toni Morrison, “The Site of Memory.”**
+
+- 收入：William Zinsser ed., *Inventing the Truth: The Art and Craft of Memoir*, 2nd ed.
+- Houghton Mifflin
+- 1995
+- 全文pp.83–102
+- 本路线推荐：**优先pp.90–93**
+- 预计时间：8–10分钟
+- 语言：英文
+- 难度：中
+- 建议：机器辅助阅读
+
+这4页几乎精确回答本路线最重要的职责：
+
+Morrison指出奴隶叙事常常不得不对：
+
+> “too terrible to relate”
+
+的经验拉上帷幕，尤其缺少被奴役者的**interior life**。
+
+她把自己的小说工作描述为：
+
+> **一种literary archaeology。**
+
+即：
+
+- 从残存资料出发；
+- 使用memory；
+- 使用imagination；
+- 重建档案没有保存的生活世界。
+
+这比先读“trauma theory”有效得多。
+
+#### 阅读后核心材料 B2
+
+**Claudine Raynaud, “Beloved or the shifting shapes of memory.”**
+
+- 收入：*The Cambridge Companion to Toni Morrison*
+- Cambridge University Press
+- 2007
+- pp.**43–58**
+- DOI：<https://doi.org/10.1017/CCOL052186111X.004>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：中
+- 建议：机器辅助阅读
+
+它承担B1没有完整解决的部分：
+
+- remembrances of slavery；
+- memory作为小说主题和poetics；
+- individual psyche；
+- 被美国国家压抑的slavery memory；
+- 小说怎样填补slave narratives留下的blanks。
+
+因此两份B并不重复：
+
+> **Morrison：为什么必须这样写；  
+> Raynaud：这种memory形式在《宠儿》中怎样运作。**
+
+#### 可选深入 C：创伤时间怎样让读者也失去定位
+
+**Jean Wyatt, “Dislocating the Reader: Slave Motherhood and The Disrupted Temporality of Trauma in Toni Morrison’s *Beloved*.”**
+
+- *The Cambridge Companion to Literature and Psychoanalysis*
+- Cambridge University Press
+- 2021
+- pp.90–106
+- DOI：<https://doi.org/10.1017/9781108763691.007>
+- 预计时间：30–35分钟
+- 语言：英文
+- 难度：高
+
+Wyatt进一步解释：
+
+> 过去的视觉碎片不加解释地侵入现在，读者的困惑不是缺点，而是小说让读者体验创伤如何扭曲时间、思想和记忆的方法。
+
+这已经进入较完整的trauma theory，所以保持C层。
+
+#### 本轮正式限制：不要默认把《宠儿》归为“魔幻现实主义”
+
+Morrison当然可以被置于magic / myth / haunting等讨论中。
+
+但对本路线来说，直接把：
+
+> Beloved = 魔幻现实主义里的幽灵
+
+会产生错误迁移。
+
+与《百年孤独》相比：
+
+- Márquez重点在多种现实方式共存及其历史 / 文化语境；
+- Morrison重点在被压抑历史如何重新获得物质在场、记忆和叙述形式。
+
+因此指南以后使用：
+
+> **haunting / rememory / historical presence**
+
+优先于把它快捷归入magical realism。
+
+#### 默认辅助成本
+
+> **B1 8–10分钟 + B2 25–30分钟 = 33–40分钟。**
+
+---
+
+### R3-6. Round 3最重要的横向区分
+
+#### 1. Conrad / Achebe：谁能讲世界？
+
+核心问题：
+
+> **imperial gaze / narrative authority**
+
+不是“殖民主义主题”四个字。
+
+Conrad已经使帝国叙事失去自信，但Africa仍大量作为欧洲意识危机发生的空间。
+
+Achebe进一步改变：
+
+> 谁被允许拥有完整世界、语言、内部矛盾与叙述声音。
+
+---
+
+#### 2. García Márquez：什么算现实？
+
+核心问题：
+
+> **plural realities / historical reality**
+
+它不等于Kafka的荒诞，也不等于Borges的文本游戏。
+
+---
+
+#### 3. Rushdie：谁在制造历史版本？
+
+核心问题：
+
+> **personal memory + national history + metafictional mediation**
+
+历史不是透明镜子，而是被：
+
+- 记忆；
+- 错误；
+- 身体；
+- 家族；
+- 国家；
+
+重新混合。
+
+---
+
+#### 4. Morrison：如果档案本来就缺了一块怎么办？
+
+核心问题：
+
+> **archive absence + rememory + trauma**
+
+这与Rushdie形成非常重要的差异：
+
+##### Rushdie
+
+> 已经存在的历史如何被不同主体重新讲述、混合、误记？
+
+##### Morrison
+
+> **如果被奴役者的某些经验根本没有进入可用档案，文学还能怎样追求truth？**
+
+所以：
+
+> “历史不是透明的”  
+> 与  
+> “历史档案结构性缺席”
+
+不是同一个问题。
+
+---
+
+### R3-7. Round 3的推荐实际用法
+
+#### 基础包阶段
+
+##### 1. 《瓦解》
+
+- 直接读；
+- 后读Achebe “The African Writer and the English Language”。
+
+不要先上“postcolonial theory”。
+
+##### 2. 《百年孤独》
+
+- 直接读；
+- 后读Boldy；
+- 若已经读过《我弥留之际》，**现在**才读Esplin Faulkner→Latin America桥梁。
+
+##### 3. 《宠儿》
+
+- 直接读；
+- 先读Morrison “The Site of Memory” pp.90–93；
+- 再读Raynaud；
+- 真想深究创伤时间再进Wyatt。
+
+#### 升级阶段
+
+##### 4. 《黑暗的心》
+
+- 直接读；
+- 后看Yale Modernism Lab短文；
+- 此时回看已经读过的《瓦解》；
+- 再读Achebe “An Image of Africa”。
+
+##### 5. 《午夜之子》
+
+- 读前MacKay 4页建立国家历史最小坐标；
+- 读后李胜伟；
+- 如果要认真理解García Márquez→global magical realism→Rushdie，再读Bell作为共享桥梁。
+
+---
+
+### R3-8. 时间预算复核
+
+#### 基础包Round 3
+
+| 节点 | 默认辅助时间 |
+|---|---:|
+| 《瓦解》 | 18–22分钟 |
+| 《百年孤独》 | 20–25分钟 |
+| 《宠儿》 | 33–40分钟 |
+| **合计** | **71–87分钟** |
+
+即：
+
+> **约1小时11分—1小时27分。**
+
+#### 升级包Round 3
+
+| 节点 | 默认新增辅助时间 |
+|---|---:|
+| 《黑暗的心》 | 28–35分钟（含Conrad/Achebe共享材料） |
+| 《午夜之子》 | 21–28分钟 |
+| **合计** | **49–63分钟** |
+
+#### 条件 / 可选桥梁
+
+- Faulkner → Latin America：15–20分钟；
+- García Márquez → Rushdie / world literature：25–30分钟。
+
+均不计入最小默认成本。
+
+#### Round 3基础 + 升级默认
+
+> **约120–150分钟，即2小时—2小时30分。**
+
+即使包含两个高密度世界文学超级节点，仍然控制在合理范围。
+
+---
+
+### R3-9. 本轮主动淘汰的材料类型
+
+#### 1. “《瓦解》= 殖民前天堂被欧洲摧毁”
+
+不收。
+
+它抹掉Igbo社会内部：
+
+- 性别；
+- 暴力；
+- 代际；
+- 宗教；
+- 个体与共同体；
+
+自身的冲突。
+
+#### 2. “Conrad反殖民，所以没有种族问题”
+
+不收。
+
+#### 3. “Achebe批评Conrad，所以《黑暗的心》只剩错误”
+
+也不收。
+
+本路线必须保留二者之间的**批评张力**。
+
+#### 4. “魔幻现实主义 = 现实 + 魔法”
+
+不收。
+
+Round 3以后这被正式视为不合格解释。
+
+#### 5. “《午夜之子》= 印度版《百年孤独》”
+
+不收。
+
+它必须增加：
+
+- nation formation；
+- Partition；
+- narrator error；
+- historiography。
+
+#### 6. “《宠儿》的鬼 = 魔幻现实主义元素”
+
+不收。
+
+必须进一步回答：
+
+> 为什么过去需要以haunting / rememory的方式进入现在？
+
+#### 7. “后现代 = 历史没有真相”
+
+不收。
+
+Rushdie与Morrison已经足以证明：
+
+> **质疑官方 / 透明历史，不等于放弃truth。**
+
+---
+
+### R3-10. 本轮形成的通用研究规则
+
+#### Rule K — 后殖民不是一种形式
+
+“后殖民”首先是一条历史 / 权力轴。
+
+它可以调用：
+
+- realism；
+- modernism；
+- magical realism；
+- metafiction；
+- oral forms。
+
+以后不能像“意识流”一样把它当单一技巧标签。
+
+#### Rule L — 非现实元素不得自动归入magical realism
+
+正式冻结：
+
+> **Kafka ≠ Borges ≠ García Márquez ≠ Morrison。**
+
+任何后续辅助材料若看到“奇异事件”就直接写“魔幻现实主义”，需要降权。
+
+#### Rule M — 对历史的怀疑至少有两种
+
+##### Mediation problem
+
+> 历史已经存在，但谁讲、怎么记、怎样组织？
+
+Rushdie典型。
+
+##### Archive absence problem
+
+> 某些经验根本没被现存档案保存。
+
+Morrison典型。
+
+两者不得混成“后现代历史不可信”。
+
+#### Rule N — 作者批评文章可以成为核心材料，但条件严格
+
+只有当作者自己的文章：
+
+1. 精确指出创作问题；
+2. 能明显解锁作品形式；
+3. 又不只是“作者拥有最终解释权”；
+
+才升为B。
+
+Round 3两个高价值案例：
+
+- Achebe：“The African Writer and the English Language”；
+- Morrison：“The Site of Memory”。
+
+#### Rule O — 谱系可以反向改变祖先的阅读
+
+Achebe “An Image of Africa”建立另一个重要模型：
+
+> **后来的作家 / 批评不只是继承前人，也可以迫使文学史重新阅读前人。**
+
+所以路线箭头不是单向影响图。
+
+---
+
+### R3-11. Round 3后的职责卡修订
+
+#### 《瓦解》
+
+进一步明确：
+
+> 核心不是“殖民主义主题”，而是**叙述世界的权限转换**。
+
+新增：
+
+> 英语本身如何被Igbo语言 / 口述传统重构。
+
+#### 《黑暗的心》
+
+进一步明确双重状态：
+
+> **anti-imperial insight + imperial/racial implication可以同时成立。**
+
+不得要求读者二选一。
+
+#### 《百年孤独》
+
+把原“魔幻现实主义”职责精化成：
+
+> **plural realities + multiple kinds of truth / experience + historical power over memory。**
+
+新增与Kafka / Borges的正式区分。
+
+#### 《午夜之子》
+
+A层正式保留。
+
+新增：
+
+> **historical mediation ≠ historical relativism。**
+
+#### 《宠儿》
+
+进一步冻结：
+
+> **archive absence + literary archaeology + rememory + disrupted trauma time。**
+
+新增限制：
+
+> 默认不使用“魔幻现实主义代表”作为主标签。
+
+---
+
+### R3-12. 对Round 4的影响
+
+Round 4将进入：
+
+- Poe；
+- 《弗兰肯斯坦》；
+- Omelas；
+- 《黑暗的左手》；
+- 《别让我走》；
+- 《流浪地球》；
+- 《三体》第一部。
+
+Round 3已经给它留下三个硬约束：
+
+1. **类型不能被“文学化”后消失。**
+   《五号屠场》的Rule I继续有效。
+
+2. **“非现实”不能再统称magical realism。**
+   Round 4必须明确：
+   - gothic；
+   - science fiction；
+   - speculative fiction；
+   - dystopia；
+   - thought experiment；
+   各自怎样工作。
+
+3. **世界建构不能只研究设定。**
+   从Achebe / García Márquez得到的新问题是：
+   > 一个“世界”不仅是什么规则，还包括谁能自然地生活在这些规则中、谁把它当异世界、谁拥有解释权。
+
+---
+
+
 # 12. 变更日志
 
 
+
+
+## v0.4 — 2026-10-05
+
+完成Round 3“帝国、后殖民、魔幻现实主义与历史记忆”深搜深研。
+
+主要更新：
+
+1. 完成Conrad / Achebe / García Márquez / Rushdie / Morrison全部基础与升级节点的A/B/C筛选；
+2. 将本轮从泛“世界文学 / 后殖民”标签拆成四个问题：
+   - colonial gaze / narrative authority；
+   - plural realities / magical realism；
+   - personal memory + national history；
+   - archive absence + rememory + trauma；
+3. 《瓦解》职责由“后殖民基础坐标”进一步精化为“叙述世界的权限转换”，并增加“英语如何被Igbo口述传统重构”；
+4. 《黑暗的心》明确冻结“双重状态”：anti-imperial insight 与 imperial/racial implication 可以同时成立；
+5. Achebe “An Image of Africa”升为《瓦解》+《黑暗的心》共享B层，但严格在两部作品都读完后出现；
+6. 《百年孤独》正式与Kafka / Borges区分：其核心不是“不现实”，而是不同mentalities、truths、experiences与历史现实并存；
+7. Bridge-after-destination首次正式执行：读完《百年孤独》后，已读Faulkner者才进入Esplin的Faulkner→Latin America桥梁；
+8. 《午夜之子》保留Round 3唯一A层，用4页建立1947 nation-identity最小坐标；读后用中文论文处理历史真相与元小说；
+9. 《宠儿》形成两份非重复B：Morrison “The Site of Memory”解决档案缺席 / literary archaeology，Raynaud解决rememory与记忆poetics；Wyatt创伤时间保持C层；
+10. 正式建立四条新规则：后殖民不是形式；非现实不自动等于magical realism；historical mediation与archive absence必须区分；后继作家可以反向改变祖先作品的阅读；
+11. Round 3基础包默认辅助成本约71–87分钟；升级包约49–63分钟；全轮默认约120–150分钟。
 
 ## v0.3 — 2026-10-05
 
