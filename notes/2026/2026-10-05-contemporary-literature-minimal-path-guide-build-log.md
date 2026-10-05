@@ -2,7 +2,7 @@
 title: "阅读当代文学的最短经典路径：执行指南构建进展"
 date: 2026-10-05
 updated: 2026-10-05
-status: working
+status: completed
 type: research-note
 topics:
   - contemporary-literature
@@ -91,7 +91,7 @@ Round 1–8 的开放式“找什么导读 / 解读材料”研究已完成。�
 | **2. 去重与跨节点整合** | **COMPLETED** | 处理共享材料、Bridge-after-destination、中文替代、B/C边界与重复职责 | 精简后的最终材料网络 |
 | **3. 单作品执行卡** | **COMPLETED** | 把每个作品压成普通读者能直接照着执行的一张卡 | 全部作品 Reading Companion Cards |
 | **4. 路线级组装** | **COMPLETED** | 组装基础包、升级包、桥梁出现时点、checkpoint与总预算 | 完整可执行路线 |
-| **5. 对抗性验收与发布** | **PENDING** | 书目、教学、ROI、偏科与可执行性QA；冻结正式版本 | 最终指南 + 速查表 |
+| **5. 对抗性验收与发布** | **COMPLETED** | 书目、教学、ROI、偏科与可执行性QA；冻结正式版本 | 最终指南 + 速查表 |
 
 状态约定：
 
@@ -571,11 +571,11 @@ Final Guide v1.0
 - Step 2：**COMPLETED**
 - Step 3：**COMPLETED**
 - Step 4：**COMPLETED**
-- Step 5：**PENDING**
+- Step 5：**COMPLETED**
 
 下一实际动作：
 
-> **Step 5 — 对抗性验收与发布：完成Bibliographic / Pedagogical / ROI / Adversarial QA，修复硬错误后冻结正式指南v1.0与速查版。**
+> **Step 1–5 全部完成。正式指南 v1.0 与执行速查 v1.0 已发布。**
 
 ---
 
@@ -743,12 +743,12 @@ Step 1没有重新打开候选池，而是把既有Round 1–8研究当作版本
 
 - **R2-B01 | B | Elaine Showalter，《对意识与现代性的探索：《达洛维夫人》的导读》。** British Library中文站；route range：开头至“小说构想”结束；15–20m；ZH/低中；稳定页 https://www.britishlibrary.cn/zh-cn/articles/introduction-to-mrs-dalloway/ 。
 - **R2-C01 | C | Michael Whitworth, “Virginia Woolf and Modernism.”** The Cambridge Companion to Virginia Woolf, Cambridge UP, 2000, **146–163**；DOI https://doi.org/10.1017/CCOL0521623936.008；30–35m；EN/中高。
-- **R2-B02 | B | 范捷平，《床上百无聊赖中想到的〈变形记〉》。** 原收《德国文学散论》，南京大学出版社；route range：讨论文类/寓言/多重解释至结尾；10–15m；ZH/低中；稳定转载 https://www.sinobook.com.cn/comment/newsdetail.cfm?iCntno=22010 ；**年份/页码待Step 5 QA**。
+- **R2-B02 | B | 范捷平，《床上百无聊赖中想到的〈变形记〉》。** 收入《德国文学散论》，南京大学出版社，2022，ISBN 9787305245107；执行版直接使用出版社授权网页节选，读“文类/寓言/多重解释”至结尾；10–15m；ZH/低中；https://www.sinobook.com.cn/comment/newsdetail.cfm?iCntno=22010 。
 - **R2-C02 | C | Vivian Liska, “The Beetle and the Butterfly: Nabokov’s Lecture on Kafka’s The Metamorphosis.”** Kafka after Kafka, 2019, **143–154**；DOI https://doi.org/10.1017/9781787444201.009；20–25m；EN/中高。
 - **R2-B03 | B | Steven Boldy, “Fictions Part I: The Garden of Forking Paths (1941).”** A Companion to Jorge Luis Borges, 2009, **71–104**；只按四个固定篇目小标题跳读；DOI https://doi.org/10.1017/9781846157059.007；30–40m；EN/中。
 - **R2-C03 | C | Efraín Kristal, “Jorge Luis Borges’s Fictions and the Two World Wars.”** Jorge Luis Borges in Context, Cambridge UP, 2020, **35–42**；DOI https://doi.org/10.1017/9781108635981.006；12–15m；EN/中。
 - **R2-B04 | B | Deborah Martinsen, “Freedom and Polyphony: Notes from Underground.”** Fyodor Dostoevsky: A Very Short Introduction, OUP, 2024, Chapter 3, **from p.45**；DOI https://doi.org/10.1093/actrade/9780198864332.003.0003；20–25m；EN/中。
-- **R2-A01/R2-B05 | A+B同源 | Robert W. Hamblin, As I Lay Dying: The Oprah Book Club Lectures.** Center for Faulkner Studies, Southeast Missouri State University；A只读“Viewpoint”第一小段3–5m；B读“Stream of Consciousness”“Viewpoint”“The Problem of Language”15–20m；EN/低中；**稳定入口待Step 5 QA**。
+- **R2-A01/R2-B05 | A+B同源 | Robert W. Hamblin, As I Lay Dying: The Oprah Book Club Lectures.** Center for Faulkner Studies, Southeast Missouri State University；A只读“Viewpoint”第一小段3–5m；B读“Stream of Consciousness”“Viewpoint”“The Problem of Language”15–20m；EN/低中；公开稳定入口 https://semo.edu/faulkner-studies/teaching-faulkner/oprah-book-lecture ；修订本收入 Critical Essays on William Faulkner, pp.152–175, DOI 10.14325/mississippi/9781496841124.003.0009。
 - **R2-S02 | 条件Bridge | Emron Esplin, “Faulkner and Latin America; Latin America in Faulkner.”** William Faulkner in Context, Cambridge UP, 2015, **270–278**；DOI https://doi.org/10.1017/CBO9781107279438.037；15–20m；EN/中；在U10+B08之后。
 - **R2-B06 | B1 | 田俊武，《“时空旅行”、解构“时空旅行”与创伤叙事的互文性建构——论库尔特·冯尼古特的〈五号屠场〉》。** 《外国文学》2017(1), **117–124,159**；15–20m；ZH/中。
 - **R2-B07 | B2 | Amanda Wicks, “‘All This Happened, More or Less’: The Science Fiction of Trauma in Slaughterhouse-Five.”** Critique 55.3 (2014), **329–340**；DOI https://doi.org/10.1080/00111619.2013.783786；20–25m；EN/中。
@@ -785,9 +785,9 @@ Step 1没有重新打开候选池，而是把既有Round 1–8研究当作版本
 - **R4-B07 | B2 | 陈榕，《厄休拉·勒古恩〈黑暗的左手〉中的世界主义》。** 《名作欣赏》2015(14)；route range Ekumen/冷战/沟通部分；10–15m；ZH/低中；https://www.chinasf.com/main/documentdetail.php?DocumentID=2761 。
 - **R4-C03 | C | Ursula K. Le Guin, “Is Gender Necessary? Redux.”** Dancing at the Edge of the World, Grove, 1989, **7–16**；15–20m；EN/中。
 - **R4-B08 | B1 | Jay Clayton, “Clones and Other Sorrows (Kazuo Ishiguro).”** Literature, Science, and Public Policy, Cambridge UP, 2023, Chapter 9, **182–197**；route range章首至“Time and Sorrow”前；DOI https://doi.org/10.1017/9781009263504.014；18–22m；EN/中。
-- **R4-B09 | B2 | Neil Gaiman & Kazuo Ishiguro, “Breaking the Boundaries Between Fantasy and Literary Fiction.”** The New Republic, 7 Jun 2015；route range Never Let Me Go问题至Ishiguro“liberated”段；7–10m；EN/低；**稳定URL待Step 5 QA**。
+- **R4-B09 | B2 | Neil Gaiman & Kazuo Ishiguro, “Breaking the Boundaries Between Fantasy and Literary Fiction.”** The New Republic, 7 Jun 2015；route range Never Let Me Go问题至Ishiguro“liberated”段；7–10m；EN/低；https://newrepublic.com/article/121982/neil-gaiman-and-kazuo-ishiguro-talk-books-storytelling-dragons 。
 - **R4-C04 | C | Doug Battersby, “Ishiguro and Genre Fiction.”** The Cambridge Companion to Kazuo Ishiguro, 2023, **138–151**；DOI https://doi.org/10.1017/9781108909525.013；25–30m；EN/中。
-- **R4-B10 | B1 | 《〈流浪地球〉作者刘慈欣：科幻作家不可能预测未来》。** 中国作家网，2019；只读“能否预测未来”回答；3–5m；ZH；**稳定URL待Step 5 QA**。
+- **R4-B10 | B1 | 《〈流浪地球〉作者刘慈欣：科幻作家不可能预测未来》。** 中国作家网转央视新闻客户端，2019；只读“科幻作家能预测未来世界吗？”回答；3–5m；ZH；https://www.chinawriter.com.cn/n1/2019/0210/c405057-30616359.html 。
 - **R4-B11 | B2 | 杨琼，《科幻文学史诗性的呈现——以〈流浪地球〉为中心》。** 《中国当代文学研究》2019(2), 起始**210**；route range“叙事跨度”“群体与个体叙事”及结论；15–20m；ZH/中；https://www.chinawriter.com.cn/n1/2019/0403/c426230-31012019.html 。
 - **R4-B12 | B1 | 王静静，《论刘慈欣〈三体〉中的“文革”叙事》。** 《小说评论》2016(3), **170–175**；12–15m；ZH/中。
 - **R4-B13 | B2 | 宋明炜、金雪妮译，《在崇高宇宙与微纪元之间：刘慈欣论》。** 《当代文坛》2021(1), **200–209**；route range开头及“刘慈欣与新浪潮”前段；8–12m；ZH/中；https://www.chinawriter.com.cn/n1/2021/0202/c404080-32019994.html 。
@@ -796,9 +796,9 @@ Step 1没有重新打开候选池，而是把既有Round 1–8研究当作版本
 
 - **R5-B01 | B1 | 《全球研究视域下的〈聊斋志异〉》。** 中国社会科学网 / 《中国社会科学报》，2025；只读“揭示《聊斋志异》中‘异’的精髓”；7–10m；ZH/低；https://www.cssn.cn/skgz/bwyc/202501/t20250103_5830640.shtml 。
 - **R5-B02 | B2 | 马振方，《〈聊斋〉如何揭露官场黑暗？》。** 中国文化研究院，2019-12-12；只读《促织》部分；3–5m；ZH；https://chiculture.org.hk/sc/china-five-thousand-years/2733 。
-- **R5-B03 | B3 | 陈建华，《评〈异史氏〉｜北美汉学界的“晚明时刻”》。** 《上海书评》/澎湃，2023；route range李惠仪“欲望与秩序”及《婴宁》几段；6–8m；ZH/中；**稳定URL待Step 5 QA**。
+- **R5-B03 | B3 | 陈建华，《评〈异史氏〉｜北美汉学界的“晚明时刻”》。** 《上海书评》/澎湃，2023-11-28；route range李惠仪“欲望与秩序”及《婴宁》几段；6–8m；ZH/中；https://www.thepaper.cn/newsDetail_forward_25434409 。
 - **R5-C01 | C | Wai-yee Li, Enchantment and Disenchantment: Love and Illusion in Chinese Literature.** Princeton UP, 1993；Liaozhai相关“Late Ming Moment”；默认不计时。
-- **R5-B04 | B1 | 鲁迅，《〈呐喊〉自序》。** route range“铁屋子”对话至《狂人日记》附近；5–7m；ZH；**公开稳定URL待Step 5 QA**。
+- **R5-B04 | B1 | 鲁迅，《〈呐喊〉自序》。** route range“铁屋子”对话至《狂人日记》附近；5–7m；ZH；公共领域稳定文本 https://zh.wikisource.org/zh-hans/%E5%90%B6%E5%96%8A 。
 - **R5-B05 | B2 | Ann Huss, “The Madman That Was Ah Q: Tradition and Modernity in Lu Xun’s Fiction.”** The Columbia Companion to Modern East Asian Literature, 2003, **385–394**；15–20m；EN/中；JSTOR章节稳定入口 https://www.jstor.org/stable/10.7312/most11314.70 。
 - **R5-C02 | C | Xiaobing Tang, “Lu Xun’s ‘Diary of a Madman’ and a Chinese Modernism.”** PMLA 107.5 (1992), **1222–1234**；DOI https://doi.org/10.2307/462876；22–28m；EN/高。
 - **R5-C03 | C | 季进, “Literary Translation and Modern Chinese Literature.”** The Oxford Handbook of Modern Chinese Literatures, 2016, **521–530**；DOI https://doi.org/10.1093/oxfordhb/9780199383313.013.26；用于translation-as-constitutive。
@@ -812,20 +812,20 @@ Step 1没有重新打开候选池，而是把既有Round 1–8研究当作版本
 
 ### Round 6
 
-- **R6-B01 | B1 | 郭帅，《王愿坚的意义》。** 《当代作家评论》2023(4)；route range开头“十七年文学”/短篇位置/史中寻诗与真实来源；8–10m；ZH/低中；**中国作家网稳定URL待Step 5 QA**。
+- **R6-B01 | B1 | 郭帅，《王愿坚的意义》。** 《当代作家评论》2023(4)；route range开头“十七年文学”/短篇位置/史中寻诗与真实来源；8–10m；ZH/低中；https://www.chinawriter.com.cn/n1/2023/0912/c404064-40075510.html 。
 - **R6-B02 | B2 | 茅盾，《谈最近的短篇小说》中论《百合花》部分。** 《人民文学》1958(6)；route range约2000字；8–10m；ZH/低。
 - **R6-C01 | C | 吴辰，《茹志鹃的〈百合花〉及其周边》。** 中国作家网 / 《文艺报》，2018；15–20m；ZH。
-- **R6-B03 | B | 《有意味的形式：先锋小说与1980年代文学思想转型》。** 中国作家网专题，2025；route range“二、立意在创新：形式即意义”中马原/吴亮部分；6–8m；ZH/低中；**稳定URL待Step 5 QA**。
+- **R6-B03 | B | 蒋裕涵、王本朝，《有意味的形式：先锋小说与1980年代文学思想转型》。** 《中国当代文学研究》2025(1):46–52；route range“二、立意在创新：形式即意义”中马原/吴亮部分；6–8m；ZH/低中；https://www.chinawriter.com.cn/n1/2025/0224/c460092-40424818.html 。
 - **R6-C02 | C | 吴亮，《马原的叙述圈套》。** 《当代作家评论》1987(3), **45–51**；15–18m；ZH/中。
 - **R6-B04 | B | 余华，《虚伪的作品》。** 初刊《上海文论》1989(5)；后收《我能否相信自己》，人民日报出版社1999；route range **160–163**；8–10m；ZH/低中。
-- **R6-C03 | C | 陈思和《中国当代文学史教程》“残酷与冷漠的人性发掘：《现实一种》”。** 默认不计时；**具体版本/页码待Step 5 QA**。
+- **R6-C03 | C | 陈思和主编《中国当代文学史教程》“第十七章第四节 残酷与冷漠的人性发掘：《现实一种》”。** 复旦大学出版社，1999起多次印刷；不同版页码有差异，最终指南按章节定位，不硬写页码；默认不计时。
 - **R6-B05 | B | 刘艳，《心理描写的嬗变：由“心理性”人物观到“功能性”人物观的叙事演变——以余华〈活着〉为例》。** 《山东师范大学学报（社会科学版）》2021, 66(5), **39–51**；DOI https://doi.org/10.16456/j.cnki.1001-5973.2021.05.004；20–25m；ZH/中。
-- **R6-ALT01 | 可选作者校准 | 余华，《文学、时代和我的写作》访谈。** 中国作家网，2022；只读“是否往后撤退/回归现实主义”问答；3–5m；ZH；**稳定URL待Step 5 QA**。
-- **R6-C04 | C | 叶立文，《论余华长篇小说叙事结构的历史演变》。** 《文学评论》2018；25–30m；ZH；**卷期/页码待Step 5 QA**。
-- **R6-B07 | B1 | 曹霞，《如何“传统”，怎样“民间”》。** 中国作家网，2016；route range“二、‘民间’的激活：古典‘说书人’”中《红高粱》段；8–10m；ZH/中；**稳定URL待Step 5 QA**。
-- **R6-B08 | B2/Bridge | 莫言，《我期盼下一个中国作家得诺贝尔文学奖》访谈相关段落。** 中国作家网，2018；route range《聊斋》/魏晋传奇/Marquez-Faulkner影响三段；8–10m；ZH/低；**稳定URL待Step 5 QA**。
+- **R6-ALT01 | 可选作者校准 | 余华、张英，《文学、时代和我的写作》。** 原载《作品》2022年第10期，中国作家网转载；只读关于文学观念“退步/保守”与写作转变的问答；3–5m；ZH；https://www.chinawriter.com.cn/n1/2022/1125/c405057-32574066.html 。
+- **R6-C04 | C | 叶立文，《形式的权力——论余华长篇小说叙事结构的历史演变》。** 《文学评论》2015(1)；25–30m；ZH；中国作家网2018全文转载 https://www.chinawriter.com.cn/n1/2018/1107/c404030-30386387.html 。
+- **R6-B07 | B1 | 曹霞，《如何“传统”，怎样“民间”——论批评家对莫言写作资源的发现与命名》。** 中国作家网，2016-10-17；route range“二、‘民间’的激活：古典‘说书人’”中《红高粱》段；8–10m；ZH/中；https://www.chinawriter.com.cn/n1/2016/1017/c404052-28784844.html 。
+- **R6-B08 | B2/Bridge | 莫言，《我期盼下一个中国作家得诺贝尔文学奖》访谈相关段落。** 中国作家网，2018-01-04；route range《聊斋》/魏晋传奇/Márquez-Faulkner影响相关段；8–10m；ZH/低；https://www.chinawriter.com.cn/n1/2018/0104/c405057-29744253.html 。
 - **R6-B09 | B | 王金胜，《莫言文学与“1980年代”——以〈红高粱家族〉为方法的研讨》。** 《中国现代文学研究丛刊》2020(9), **171–180**；18–22m；ZH/中。
-- **R6-C05 | C | 丛新强，《论〈红高粱家族〉的“抗战”“情爱”与“历史观”》。** 默认C；**完整元数据待Step 5 QA**。
+- **R6-C05 | C | 丛新强，《论〈红高粱家族〉的“抗战”“情爱”与“历史观”》。** 《山东师范大学学报（社会科学版）》2019, 64(1):26–34；DOI https://doi.org/10.16456/j.cnki.1001-5973.2019.01.003；中国作家网转载 https://www.chinawriter.com.cn/n1/2019/0312/c404030-30971438.html 。
 
 ### Round 7 — v0.9有效值
 
@@ -977,7 +977,7 @@ Step 1只修复了“能在不重新研究候选的前提下迅速确认”的�
 - Ann Huss章节：JSTOR章节稳定入口；
 - Keru Cai论文：DOI与59–84页元数据再次确认。
 
-### 留到Step 5 Bibliographic QA，不在Step 1猜测
+### Step 1遗留QA队列（已在Step 5处理）
 
 1. 范捷平《德国文学散论》的精确出版年、文章原始页码；
 2. Hamblin Faulkner lectures的稳定永久入口与版本信息；
@@ -992,7 +992,7 @@ Step 1只修复了“能在不重新研究候选的前提下迅速确认”的�
 
 原则：
 
-> **Step 1宁可标QA，也不根据记忆补一个看似完整但未核实的书目。**
+> **Step 1宁可标QA，也不根据记忆补一个看似完整但未核实的书目。Step 5已逐项处理；不能稳定到跨版本页码的材料改用章节/网页小节定位。**
 
 ---
 
@@ -3937,7 +3937,289 @@ Step 5将第一次把当前成果当成“即将交付给陌生普通读者的�
 5. 戏剧卡是否能让纯文学读者真正切换到performance reading；
 6. 最终成品应该拆成“完整版 + 速查版”还是保留单文件双层结构。
 
+
+# 14. Step 5 — Final QA & Release v1.0
+
+**状态：COMPLETED**
+
+## 14.1 Bibliographic QA
+
+默认A/B发布标准：
+
+1. 作者/机构、标题、出处可确认；
+2. route range可执行；
+3. DOI或稳定网页至少有一种；
+4. 不同版本页码漂移时改用章节/小节，不猜页码。
+
+C层只要求可稳定追索，不为形式整齐继续补低收益ISBN。
+
+### 唯一明确硬错误
+
+R6-C04旧记录把叶立文论文写成《文学评论》2018。
+
+正确为：
+
+> **叶立文，《形式的权力——论余华长篇小说叙事结构的历史演变》，《文学评论》2015年第1期。**
+
+2018只是中国作家网转载日期。Canonical Registry与正式指南均已修正。
+
+### 其他repair
+
+- 范捷平《德国文学散论》确认南京大学出版社2022、ISBN 9787305245107；执行仍用出版社授权网页节选，不虚构原书页码；
+- Hamblin Faulkner lectures找到Southeast Missouri State University长期公开入口，并确认后收入 Critical Essays on William Faulkner, pp.152–175；
+- Ishiguro/Gaiman New Republic稳定链接确认；
+- 刘慈欣《流浪地球》访谈稳定入口确认；
+- 陈建华《异史氏》评论稳定澎湃入口确认；
+- 鲁迅《〈呐喊〉自序》采用公共领域稳定文本入口；
+- 郭帅、蒋裕涵/王本朝、余华/张英、曹霞、莫言等中国作家网入口确认；
+- 陈思和教材改用“第十七章第四节”定位，避免印次页码漂移；
+- 丛新强补齐2019, 64(1):26–34及DOI；
+- Keru Cai DOI与59–84页再次交叉确认。
+
+结论：
+
+> **默认A/B达到普通读者可追索的发布标准。**
+
+“可追索”不等于全部open access。
+
+---
+
+## 14.2 Pedagogical QA
+
+### Spoiler gate
+
+重点复核《别让我走》《白象似的群山》《赎罪》《三体》第一部：
+
+> **PASS。**
+
+继续禁止：
+
+- 先解释《别让我走》的核心制度设定；
+- 先告诉《白象似的群山》隐藏议题；
+- 预讲《赎罪》后部结构；
+- 用《三体》后两部理论反向解释第一部。
+
+### A层膨胀
+
+> **PASS。**
+
+没有因为“材料找到了”就前置更多背景。
+
+### 术语门槛
+
+最终指南增加8项最小术语表：
+
+- free indirect style/discourse；
+- unreliable narrator；
+- metafiction；
+- world-building；
+- subtext；
+- Gestus；
+- fourth wall；
+- cross-casting。
+
+用途是降低执行摩擦，不新增理论课。
+
+### 戏剧阅读切换
+
+> **PASS。**
+
+并增加一条非强制建议：
+
+若能合法取得专业舞台录像，剧本+B之后可观看一次片段或完整演出；不计固定完成度。
+
+---
+
+## 14.3 ROI QA
+
+重点攻击默认成本较高节点：
+
+- Borges 30–40m；
+- Morrison 33–40m；
+- Antigone 35–42m；
+- Godot 35–42m；
+- Soyinka 39–49m；
+- Shared Daniel Just 35–45m。
+
+结论：
+
+> **没有新的默认B需要整体降级。**
+
+这些高成本项都承担多个不可互换职责，且Shared材料已经是去重结果。
+
+---
+
+## 14.4 Adversarial QA
+
+### 现代主义/形式中心
+
+有形式倾向，但基础同时保留现实主义、后殖民/历史、中文制度与区域分流、类型/SF、戏剧performance。
+
+结论：
+
+> PASS，但最终Scope只声称“高复用文学谱系的最短学习路径”，不冒充完整文学史。
+
+### 欧美中心
+
+仍有欧美骨架；基础已有Achebe、Márquez、完整中文路线和The Island，升级再加入Rushdie、Xi Xi、Soyinka。
+
+阿拉伯、日本、东南亚、加勒比等没有系统覆盖。
+
+结论：
+
+> 把限制写明，不通过无限加国家解决。
+
+### 中文大陆中心
+
+基础仍以大陆谱系为主，但白先勇已进入基础，香港由U14《我城》补入。
+
+结论：
+
+> U14继续作为高优先级地域广度升级。
+
+### 戏剧欧洲中心
+
+基础有欧洲历史骨架，但《岛》进入基础；Soyinka负责真正不同的Yoruba performance grammar升级。
+
+结论：
+
+> 可接受，前提是禁止“非洲版希腊悲剧”式翻译。
+
+### 主题思想课风险
+
+> **PASS。**
+
+所有戏剧卡仍有actor body / space / duration / audience / casting / non-verbal system的实际任务。
+
+### 正典中立幻觉
+
+最终指南明确：
+
+- 缺席不等于低价值；
+- 入选不等于唯一代表；
+- 这是学习路径优化，不是“世界最伟大48部”排行榜。
+
+---
+
+## 14.5 Route QA：唯一顺序修订
+
+Step 4 C3旧序：
+
+> B24马原 → B19余华 → B20莫言 → B21刘慈欣
+
+最终改为：
+
+> **B24马原《冈底斯的诱惑》(1985)  
+> → B20莫言《红高粱》(1986)  
+> → B19余华《现实一种》(1988)+《活着》(1992)  
+> → B21刘慈欣《流浪地球》**
+
+原因：
+
+1. 《红高粱》先于《现实一种》；
+2. 马原→莫言先展示1980年代两种并行突破：form/meta 与 folk/history/body；
+3. 随后余华双节点更清楚展示avant-garde experiment → 1990s re-narration；
+4. 最后刘慈欣把尺度推向engineering/civilization。
+
+U05插槽同步改为：
+
+> B24 → B20 → U05 → B19 → B21 → U06。
+
+其余8个Phase无同等级顺序问题。
+
+---
+
+## 14.6 最终发布架构
+
+裁决：
+
+> **完整版 + 速查版分文件发布。**
+
+### 正式完整版
+
+notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-v1.md
+
+包含：
+
+- 9 Phase；
+- Checkpoint；
+- Upgrade slots；
+- Interest playlists；
+- 48张Reading Companion Cards；
+- 最小术语表；
+- 材料总表；
+- Bridge / Alt制度；
+- Dynamic Exit；
+- Scope / QA说明。
+
+发布commit：
+
+7578fc449a639ea3f61dcfadad3258b20fb03057
+
+### 执行速查
+
+notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-quick-reference-v1.md
+
+只保留：
+
+- Base顺序；
+- 9 Checkpoint；
+- Upgrade slots；
+- Bridge触发；
+- 替代规则；
+- 预算；
+- 6条Interest playlist。
+
+发布commit：
+
+73d966234f439901ef2661d4c278fa106c0efadf
+
+---
+
+## 14.7 Step 5完成判定
+
+- [x] Step 1 QA queue逐项处理；
+- [x] 默认A/B达到可追索标准；
+- [x] 修正叶立文题名/年份硬错误；
+- [x] spoiler gate复核；
+- [x] A层膨胀复核；
+- [x] 高成本默认B ROI复核；
+- [x] 现代主义/欧美/大陆/戏剧欧洲中心四类偏置审查；
+- [x] 戏剧performance-reading复核；
+- [x] C3顺序修订并明确记录；
+- [x] 完整版与速查版正式生成；
+- [x] build log状态更新为completed。
+
+因此：
+
+> **Step 1–5全部完成。执行指南构建阶段结束。**
+
+后续若再发生修改：
+
+> 不再新开Step 6，而以v1.0 errata / v1.1 revision方式维护正式指南。
+
+
 # 9. Revision log
+
+
+## 2026-10-05 — v1.0
+
+完成Step 5 — Final QA & Release。
+
+主要更新：
+
+1. Bibliographic QA处理Step 1遗留队列，默认A/B达到可追索发布标准；
+2. 修正叶立文论文完整题名与原刊年份：改为《文学评论》2015年第1期，2018仅为中国作家网转载时间；
+3. 补齐Hamblin、New Republic、刘慈欣、陈建华、郭帅、蒋裕涵/王本朝、余华/张英、曹霞、莫言、丛新强等稳定入口/元数据；
+4. 对高剧透节点、A层膨胀、术语门槛和戏剧performance reading做最终教学QA；
+5. ROI复核没有新增默认B降级；
+6. 对现代主义中心、欧美中心、中文大陆中心、戏剧欧洲中心做对抗性审查，以明确Scope而非继续扩张固定包；
+7. 唯一路线修订：C3由马原→余华→莫言→刘慈欣改为马原→莫言→余华→刘慈欣；U05随《红高粱》就近插入；
+8. 正式发布完整版 2026-10-05-contemporary-literature-minimal-path-reading-guide-v1.md；
+9. 正式发布速查版 2026-10-05-contemporary-literature-minimal-path-reading-guide-quick-reference-v1.md；
+10. Step 1–5全部COMPLETED；后续维护进入v1.0 errata / v1.1，不再新开Step 6。
+
+
 
 
 ## 2026-10-05 — v0.5
