@@ -90,7 +90,7 @@ Round 1–8 的开放式“找什么导读 / 解读材料”研究已完成。�
 | **1. Research → Canonical Data** | **COMPLETED** | 从Round 1–8抽取每个作品当前唯一有效结论，消解初版/修订版冲突，统一字段 | Canonical Materials Master Table |
 | **2. 去重与跨节点整合** | **COMPLETED** | 处理共享材料、Bridge-after-destination、中文替代、B/C边界与重复职责 | 精简后的最终材料网络 |
 | **3. 单作品执行卡** | **COMPLETED** | 把每个作品压成普通读者能直接照着执行的一张卡 | 全部作品 Reading Companion Cards |
-| **4. 路线级组装** | **PENDING** | 组装基础包、升级包、桥梁出现时点、checkpoint与总预算 | 完整可执行路线 |
+| **4. 路线级组装** | **COMPLETED** | 组装基础包、升级包、桥梁出现时点、checkpoint与总预算 | 完整可执行路线 |
 | **5. 对抗性验收与发布** | **PENDING** | 书目、教学、ROI、偏科与可执行性QA；冻结正式版本 | 最终指南 + 速查表 |
 
 状态约定：
@@ -570,12 +570,12 @@ Final Guide v1.0
 - Step 1：**COMPLETED**
 - Step 2：**COMPLETED**
 - Step 3：**COMPLETED**
-- Step 4：**PENDING**
+- Step 4：**COMPLETED**
 - Step 5：**PENDING**
 
 下一实际动作：
 
-> **Step 4 — 路线级组装：把48张卡、Shared/Bridge与升级节点装回基础最短版、基础+升级版和兴趣分支版。**
+> **Step 5 — 对抗性验收与发布：完成Bibliographic / Pedagogical / ROI / Adversarial QA，修复硬错误后冻结正式指南v1.0与速查版。**
 
 ---
 
@@ -2931,7 +2931,1034 @@ Step 4不再逐作品编辑，而解决：
 5. 怎样同时提供“基础最短版 / 基础+升级版 / 兴趣分支版”而不制造三套互相竞争的课程。
 
 
+
+# 13. Step 4 — Route Assembly v1
+
+**状态：COMPLETED**
+
+## 13.1 Step 4的核心判断：package编号不是执行顺序
+
+final-packages v1.0的B01–B33 / U01–U15编号负责：
+
+> **“哪些作品属于哪一层”**
+
+不负责：
+
+> **“用户应该按什么顺序读”。**
+
+Step 4第一次把两者严格分开。
+
+执行顺序采用三条原则：
+
+1. **dependency before comparison**  
+   只有先获得两端作品经验，Bridge才出现；
+
+2. **keep local genealogy contiguous**  
+   能形成清楚短谱系的节点尽量连续，例如Chekhov→Hemingway→Carver；
+
+3. **capstone closes a phase**  
+   当代综合节点放在阶段末，用来测试此前工具能否处理混合型作品。
+
+因此发生几项只改变顺序、不改变作品集合的移动：
+
+- B12 Hemingway、B13 Carver前移到B03 Chekhov之后；
+- B11 Poe移入“类型/推想前史”段；
+- B22施蛰存前移到B17张爱玲之前；
+- B24马原前移到B19余华之前；
+- B33 Pirandello从戏剧列表末尾移回B28 Chekhov与B29 Brecht之间。
+
+这不是重新设计“读什么”，而是把已有作品变成真正可学习的路径。
+
+---
+
+## 13.2 主路线结构：9个Phase + 9个Checkpoint
+
+最终基础路线不是33个节点的一条长队，而是9个短Phase。
+
+| Phase | 主题 | 基础节点 | 默认辅助成本 |
+|---|---|---|---:|
+| **F1** | 社会现实主义 → 现代短篇 | B01 → B02 → B03 → B12 → B13 → Shared S1 | **85–112m** |
+| **F2** | 现代主体与叙述自反 | B04 → B05 → B06 | **55–75m** |
+| **F3** | 殖民、世界现实、历史记忆 | B07 → B08 → B09 | **71–87m** |
+| **F4** | 类型前史、推想与21世纪混融 | B11 → B14 → B10 | **46–62m** |
+| **C1** | 中国：本土资源 → 现代都市 | B15 → B16 → B22 → B17 | **68–92m** |
+| **C2** | 1949后制度与分流 | B18 → B23 | **31–40m** |
+| **C3** | 后毛形式重组 → 21世纪科幻 | B24 → B19 → B20 → B21 | **68–88m** |
+| **D1** | 公共悲剧 → 现代现实主义舞台 | B25 → B26 → B27 → B28 | **113–139m** |
+| **D2** | 自反剧场 → 政治/时间/身体/当代舞台 | B33 → B29 → B30 → B31 → B32 | **134–168m** |
+| **基础合计** | 33个节点 |  | **671–863m** |
+
+9个Phase都完成以后，才算完成固定基础包。
+
+### 为什么不是严格年代顺序
+
+这是：
+
+> **pedagogical genealogy**
+
+而不是文学史年表。
+
+例如F4故意从Poe“倒带”到类型前史，再走向Le Guin、Ishiguro。
+
+目的不是声称：
+
+> Poe → Le Guin → Ishiguro存在一条单线影响史，
+
+而是让读者比较：
+
+> **类型协议如何从强类型装置，变成思想实验，再进入21世纪文学/类型混融。**
+
+同理，Achebe→Conrad的升级路线会故意先读后来的Achebe，再反向读Conrad，因为项目采用：
+
+> **Bridge-after-destination**
+
+而不是“祖先必须先读”的机械年代规则。
+
+---
+
+# 13.3 Mode A — 基础最短版
+
+## Phase F1 — 社会现实主义 → 现代短篇
+
+顺序：
+
+> **B01《夏倍上校》  
+> → B02《一颗简单的心》  
+> → B03 Chekhov双篇  
+> → B12《白象似的群山》  
+> → B13 Carver双篇  
+> → R1-S01 Daniel Just**
+
+### 为什么这样排
+
+B01 / B02建立：
+
+> society as system → narration as form
+
+随后Chekhov / Hemingway / Carver保持连续，才能真正看见：
+
+- event怎样变弱；
+- omission怎样变强；
+- understated prose并非同一种技术反复缩减。
+
+Daniel Just只能在三站结束后出现。
+
+### CP1 — 3–5分钟
+
+不查材料，只写三句：
+
+1. Balzac里“现实”主要由什么制造？
+2. Flaubert之后，叙述者的位置发生什么变化？
+3. Chekhov/Hemingway/Carver的“少说”分别少掉了什么，又增加了什么？
+
+---
+
+## Phase F2 — 现代主体与叙述自反
+
+顺序：
+
+> **B04《达洛维夫人》  
+> → B05《变形记》  
+> → B06 Borges四篇**
+
+这一段不试图定义“现代主义是什么”，而让读者经历三种不同问题：
+
+- consciousness / time；
+- opaque world rules；
+- text / author / interpretation成为world-making machinery。
+
+### CP2 — 3–5分钟
+
+回答：
+
+> **当“现实”不再只是外部社会时，Woolf、Kafka、Borges分别把现实放到了哪里？**
+
+禁止回答：
+
+> “他们都是现代主义/后现代主义。”
+
+必须落到叙述机制。
+
+---
+
+## Phase F3 — 殖民、世界现实、历史记忆
+
+顺序：
+
+> **B07《瓦解》  
+> → B08《百年孤独》  
+> → B09《宠儿》**
+
+三站分别把：
+
+- world-description authority；
+- plural realities；
+- archive absence / rememory
+
+连成一条线。
+
+### CP3 — 3–5分钟
+
+回答：
+
+> **“谁有权说明发生过什么？”在三部作品中分别遇到什么障碍？**
+
+只比较：
+
+- language / orality；
+- competing realities；
+- archive / trauma / memory。
+
+---
+
+## Phase F4 — 类型前史、推想与21世纪混融
+
+顺序：
+
+> **B11 Poe双篇  
+> → B14《离开奥梅拉斯的人》  
+> → B10《别让我走》**
+
+这是整个外国小说基础路线的Capstone段。
+
+作用不是讲一套完整genre history，而是经历三个层级：
+
+1. reader protocol高度类型化；
+2. fictional world作为thought experiment；
+3. genre premise被埋入低调现实主义/回忆录形式。
+
+### CP4 — 3–5分钟
+
+回答：
+
+1. Poe怎样明确告诉你“该怎么读”？
+2. Le Guin怎样让读者参与造世界？
+3. Ishiguro为什么既不能被“纯文学”吸收，也不能只按SF设定读？
+
+完成CP4后：
+
+> **外国小说基础路线结束。**
+
+---
+
+## Phase C1 — 中国：本土资源 → 现代都市
+
+顺序：
+
+> **B15《聊斋》双篇  
+> → B16鲁迅双篇  
+> → B22《梅雨之夕》  
+> → B17《倾城之恋》**
+
+为什么把B22前移：
+
+> 施蛰存在历史和形式上位于鲁迅之后、张爱玲之前的都市心理现代性位置。
+
+这比原package编号顺序更能显示：
+
+> 本土非现实资源 → 五四现代主体 → 上海都市心理 → 日常/物质现代性
+
+并避免把现代中文文学读成：
+
+> 鲁迅 → 革命 → 后毛
+
+单一路线。
+
+### Round-level context：translation
+
+此处只需记住一句研究结论：
+
+> **翻译/外来形式是现代中文文学内部构成机制之一，而不是作品外面的“外国影响清单”。**
+
+不因此增加季进论文为默认作业。
+
+### CP5 — 3–5分钟
+
+回答：
+
+> **这四站里，“现代”分别来自语言、城市、制度、欲望还是叙述方式？**
+
+允许多个答案同时存在。
+
+---
+
+## Phase C2 — 1949后制度与分流
+
+顺序：
+
+> **B18《党费》+《百合花》  
+> → B23《游园惊梦》**
+
+这里故意不假装：
+
+> 1949以后只有一条“中国文学”。
+
+B18内部已经用两篇短文展示：
+
+> 同一大陆制度环境里也存在不同文学中介。
+
+随后B23把视野转到台湾流亡/现代主义。
+
+### CP6 — 3–5分钟
+
+回答：
+
+1. 《党费》和《百合花》怎样把同一历史价值写成不同文学？
+2. 到《游园惊梦》，1949这个历史断裂为什么又变成记忆/表演/流亡问题？
+
+若以后加入U14《我城》，再把香港放进这一Checkpoint扩展。
+
+---
+
+## Phase C3 — 后毛形式重组 → 21世纪科幻
+
+顺序：
+
+> **B24《冈底斯的诱惑》  
+> → B19《现实一种》+《活着》  
+> → B20《红高粱》  
+> → B21《流浪地球》**
+
+B24必须前移到余华之前，因为它是：
+
+> **“形式取得思想自主权”的历史标记。**
+
+然后才能看：
+
+- 余华如何从先锋实验进入重新叙事；
+- 莫言如何把家族/身体/民间/历史混合；
+- 刘慈欣如何把文学尺度进一步推向工程/文明。
+
+### CP7 — 3–5分钟
+
+回答：
+
+> **1980年代以后，“现实”被重新取得的四种方式分别是什么？**
+
+不要回答：
+
+> “都更自由了。”
+
+至少区分：
+
+- meta/form；
+- narration/voice；
+- folk/history/body；
+- speculation/civilizational scale。
+
+完成CP7：
+
+> **中文小说基础路线结束。**
+
+---
+
+## Phase D1 — 公共悲剧 → 现代现实主义舞台
+
+顺序：
+
+> **B25《安提戈涅》  
+> → B26《哈姆雷特》  
+> → B27《玩偶之家》  
+> → B28《樱桃园》**
+
+这四站重新定义：
+
+- public collective watching；
+- publicly performed interiority；
+- domestic room as social machine；
+- ensemble/duration/subtext。
+
+### CP8 — 3–5分钟
+
+只回答一个问题：
+
+> **从《安提戈涅》到《樱桃园》，什么东西开始被算作“舞台行动”？**
+
+至少必须涉及：
+
+- chorus/body；
+- soliloquy/audience；
+- room/object；
+- pause/listening/duration。
+
+---
+
+## Phase D2 — 自反剧场 → 政治/时间/身体/当代舞台
+
+顺序：
+
+> **B33《六个寻找作者的剧中人》  
+> → B29《母亲勇气》  
+> → B30《等待戈多》  
+> → B31《岛》  
+> → B32《Cloud Nine》**
+
+为什么B33必须从package列表末尾移到这里：
+
+> Pirandello历史/形式上正好是Chekhov以后、Brecht/Beckett以前的“representation machinery becomes visible”节点。
+
+这样路线成为：
+
+> realism → metatheatre apparatus → spectator judgment → duration → imprisoned body/performance → casting as embodied syntax。
+
+B31完成后执行：
+
+> **Antigone→The Island零材料回看。**
+
+### CP9 — 3–5分钟
+
+最终戏剧问题：
+
+> **这五部戏分别把观众变成了什么？**
+
+可能包括：
+
+- watcher of representation；
+- judge/inquirer；
+- co-waiter；
+- double witness；
+- comparator of body/role/history。
+
+完成CP9：
+
+> **固定基础包全部完成。**
+
+---
+
+# 13.4 基础路线预算：材料成本与路线操作成本分开
+
+### 辅助材料
+
+保持Step 2冻结值：
+
+> **671–863m = 11h11m–14h23m**
+
+### Checkpoint
+
+9 × 3–5m：
+
+> **27–45m**
+
+Checkpoint不需要新材料。
+
+因此若把路线操作也算进辅助时间：
+
+> **698–908m  
+> = 11h38m–15h08m**
+
+这仍不包括primary text阅读时间。
+
+---
+
+# 13.5 Mode B — 基础 + 升级：使用“插槽”而不是第二条平行课程
+
+升级包不重新排成U01→U15。
+
+每个升级都有一个**唯一推荐插槽**。
+
+这样读者只有一条主路线；选择升级时，把作品插入最近的谱系位置。
+
+## 外国小说升级插槽
+
+### F1
+
+> B01 → **U01《高老头》** → B02 → **U02《包法利夫人》** → B03 → B12 → B13
+
+U01/U02都是：
+
+> **direct fullness upgrade**
+
+读完短锚点后立即进入长篇，最容易感觉：
+
+> “同一作者功能被完整作品世界放大后，多了什么？”
+
+若不想早期路线变重：
+
+> 可以先完成整个F1，再回头读U01/U02；
+
+但不建议拖到外国路线全部结束。
+
+---
+
+### F2
+
+推荐：
+
+> **U07《地下室手记》  
+> → B04 Woolf → B05 Kafka → B06 Borges → U10 Faulkner**
+
+U07放在Woolf之前：
+
+> 它不是现实主义长篇升级，而是现代主体/自我矛盾的前史增强。
+
+U10放在F2末尾：
+
+> 完成多视角现代主义中继，再进入F3世界文学。
+
+---
+
+### F3
+
+推荐：
+
+> B07 Achebe  
+> → **U09 Conrad**  
+> → R3-S01 Achebe批评  
+> → B08 Márquez  
+> → **此时若已读U10，自动R2-S02 Esplin**  
+> → **U12 Rushdie**  
+> → B09 Morrison
+
+这里严格执行Bridge-after-destination：
+
+- Conrad必须在Achebe之后；
+- Achebe批评必须在Conrad之后；
+- Faulkner→Márquez必须等Márquez读完；
+- Márquez→Rushdie的Michael Bell仍然可选，不自动加。
+
+这是全路线dependency最密集的一段，不建议自行重排。
+
+---
+
+### F4
+
+推荐：
+
+> **U08 Frankenstein  
+> → B11 Poe  
+> → B14 Omelas  
+> → U03《黑暗的左手》  
+> → U11《五号屠场》  
+> → B10《别让我走》  
+> → U13《赎罪》**
+
+逻辑：
+
+- Frankenstein：类型/科学前史；
+- Poe：强genre reader protocol；
+- Omelas：压缩thought experiment；
+- Left Hand：完整world-building；
+- Slaughterhouse-Five：SF × trauma × metafiction；
+- Never Let Me Go：21世纪低调类型混融；
+- Atonement：现实主义/现代主义/元小说重新服务强故事。
+
+U13不再是唯一“终点”，而是：
+
+> **与Ishiguro形成两个不同的当代综合样本。**
+
+---
+
+## 中文小说升级插槽
+
+### C1
+
+> 无统一必插升级。
+
+这一段故意保持轻量。
+
+---
+
+### C2
+
+推荐：
+
+> B18  
+> → B23《游园惊梦》  
+> → **U04《台北人》全本**  
+> → **U14《我城》**
+
+这形成：
+
+> mainland institutional history  
+> → Taiwan exile/modernism  
+> → full Taipei-ren world  
+> → Hong Kong local-making
+
+如果只选一个区域升级：
+
+- 想加深白先勇：U04；
+- 想补香港/Sinophone广度：U14。
+
+---
+
+### C3
+
+推荐：
+
+> B24  
+> → B19  
+> → B20《红高粱》  
+> → **U05《红高粱家族》**  
+> → B21《流浪地球》  
+> → **U06《三体》第一部**
+
+U05 / U06均是direct fullness upgrade：
+
+- 中篇→家族长篇；
+- 短篇文明想象→长篇科学/历史/宇宙未知。
+
+U06完成后：
+
+> **后两部理论仍然关闭。**
+
+---
+
+## 戏剧升级插槽
+
+只有U15：
+
+> B25 → B26 → B27 → B28 → B33 → B29 → B30 → B31  
+> → **U15 Soyinka**  
+> → B32 Cloud Nine
+
+为什么放在《岛》之后：
+
+《岛》仍大量复用：
+
+> Antigone / European tragedy / metatheatre
+
+Soyinka在这里承担一次主动断裂：
+
+> **现在停止用Greek/Ibsen/Brecht当翻译字典，建立另一套Yoruba performance grammar。**
+
+然后再回到Cloud Nine的当代英语剧场，欧洲中心的线性叙述已经被打破。
+
+---
+
+# 13.6 Mode B阶段增量预算
+
+升级节点按插槽后的增量：
+
+| Phase | 升级增量 |
+|---|---:|
+| F1：U01 + U02 | **55–73m** |
+| F2：U07 + U10 | **38–50m** |
+| F3：U09 + U12 + Faulkner→Márquez Triggered Bridge | **64–83m** |
+| F4：U08 + U03 + U11 + U13 | **100–127m** |
+| C1 | **0** |
+| C2：U04 + U14 | **32–40m** |
+| C3：U05 + U06 | **38–49m** |
+| D：U15 | **39–49m** |
+| **升级实际增量** | **366–471m** |
+
+因此：
+
+> **基础 + 全升级材料：1037–1334m  
+> = 17h17m–22h14m**
+
+若仍执行9个Checkpoint：
+
+> **1064–1379m  
+> = 17h44m–22h59m**
+
+这取代“把48张卡机械首尾相接”的路线。
+
+---
+
+# 13.7 Mode C — 兴趣分支版：同一张图的不同切面
+
+Interest Mode不是第三套课程。
+
+它是：
+
+> **从同一个48节点图中抽取一条主题playlist。**
+
+若用户没有任何基础：
+
+> 至少先完成该playlist标记的入口节点；
+
+不要直接从后端理论作品开始。
+
+---
+
+## Branch R — 现实主义 / 叙述距离 / 短篇
+
+推荐：
+
+> B01 Balzac  
+> → U01 Goriot  
+> → B02 Flaubert  
+> → U02 Madame Bovary  
+> → B03 Chekhov  
+> → B12 Hemingway  
+> → B13 Carver  
+> → B10 Ishiguro  
+> → U13 Atonement
+
+问题：
+
+> **“现实”从社会制度、细节、叙述距离到21世纪类型混融，究竟如何持续改变？**
+
+---
+
+## Branch M — 现代主体 / 现代主义 / 自反叙述
+
+推荐：
+
+> U07 Dostoevsky  
+> → B04 Woolf  
+> → B05 Kafka  
+> → B06 Borges  
+> → U10 Faulkner  
+> → U11 Vonnegut  
+> → B24 Ma Yuan  
+> → U13 McEwan
+
+戏剧延伸：
+
+> B26 Hamlet → B33 Six Characters
+
+问题：
+
+> **主体、视角、文本自觉和“谁在制造故事”如何逐步成为作品本身的问题？**
+
+---
+
+## Branch W — 后殖民 / 世界文学 / 历史记忆
+
+推荐：
+
+> B07 Achebe  
+> → U09 Conrad + Achebe critique  
+> → B08 Márquez  
+> → U12 Rushdie  
+> → B09 Morrison  
+> → B20 Mo Yan  
+> → B31 The Island  
+> → U15 Soyinka
+
+问题：
+
+> **历史/现实的解释权由谁拥有？不同语言、殖民制度、记忆和performance如何竞争？**
+
+---
+
+## Branch S — 类型 / SF / 推想
+
+推荐：
+
+> U08 Frankenstein  
+> → B11 Poe  
+> → B14 Omelas  
+> → U03 The Left Hand of Darkness  
+> → U11 Slaughterhouse-Five  
+> → B21 The Wandering Earth  
+> → U06 Three-Body I  
+> → B10 Never Let Me Go
+
+问题：
+
+> **类型规则、科学设定和另类世界什么时候只是情节机关，什么时候会改变读者理解现实的方式？**
+
+---
+
+## Branch C — 中文现代性 / 本土化
+
+推荐：
+
+> B15 Liaozhai  
+> → B16 Lu Xun  
+> → B22 Shi Zhecun  
+> → B17 Eileen Chang  
+> → B18 Mao-era double anchor  
+> → B23 Bai Xianyong  
+> → U04 Taipei People  
+> → U14 My City  
+> → B24 Ma Yuan  
+> → B19 Yu Hua  
+> → B20 Mo Yan  
+> → U05 Red Sorghum Family  
+> → B21 Liu Cixin  
+> → U06 Three-Body I
+
+问题：
+
+> **“现代中国文学”为什么不能被压成单数路线？外来形式、本土资源、制度历史、区域分流和类型文学怎样不断重新组合？**
+
+---
+
+## Branch D — 戏剧 / performance
+
+推荐即完整戏剧路线：
+
+> B25 Antigone  
+> → B26 Hamlet  
+> → B27 A Doll’s House  
+> → B28 The Cherry Orchard  
+> → B33 Six Characters  
+> → B29 Mother Courage  
+> → B30 Waiting for Godot  
+> → B31 The Island  
+> → U15 Death and the King’s Horseman  
+> → B32 Cloud Nine
+
+只问一个贯穿问题：
+
+> **“什么算舞台行动，以及观众被安排在哪里？”**
+
+进入：
+
+- postdramatic；
+- devised；
+- documentary；
+- immersive
+
+以后，就已经越过固定经典包边界，必须增加观演而不能继续只读剧本。
+
+---
+
+# 13.8 Upgrade选择规则：不要把15项升级理解为“第二份必读书单”
+
+如果用户不想全部升级，按目标选。
+
+## 只想增加“长篇驻留感”
+
+优先：
+
+1. U02《包法利夫人》
+2. U03《黑暗的左手》
+3. U04《台北人》
+4. U05《红高粱家族》
+5. U06《三体》第一部
+
+这是最纯粹的：
+
+> short anchor → full world
+
+升级。
+
+---
+
+## 想增加被基础包压掉的文学史分辨率
+
+优先：
+
+1. U07《地下室手记》
+2. U08《弗兰肯斯坦》
+3. U09《黑暗的心》
+4. U10《我弥留之际》
+
+---
+
+## 想增加战后/当代综合节点
+
+优先：
+
+1. U11《五号屠场》
+2. U12《午夜之子》
+3. U13《赎罪》
+
+---
+
+## 想补地域/非欧洲中心
+
+优先：
+
+1. U14《我城》
+2. U15《死亡与国王的侍从》
+3. U12《午夜之子》
+
+注意：
+
+> “区域覆盖”不是按国家配额补齐，而是选择能增加新文学机制的节点。
+
+---
+
+# 13.9 Dynamic Exit — 当代现场测试
+
+固定基础包完成后，允许进入一个**非固定节点**：
+
+> **近期小说年选 / 重要文学奖短名单 / 高质量文学刊物新作中抽样1–3篇。**
+
+这不属于固定经典包，也不需要在v1.0冻结具体作品。
+
+目的只有一个：
+
+> **测试此前工具能否处理还没有“标准答案”的作品。**
+
+建议只问：
+
+1. 它主要调用了哪几种既有文学语法？
+2. 哪个部分是旧工具解释不了的？
+3. 是作品真的新，还是自己还缺某条历史坐标？
+
+Dynamic Exit不会反向修改基础包，除非未来长期、多次出现同一结构性缺口。
+
+---
+
+# 13.10 路线级使用协议
+
+## Protocol 1 — 一次只执行一个节点
+
+节点定义：
+
+> primary text + A（若有）+ B + 当场完成标志。
+
+不要：
+
+> 一口气先读十篇作品，再回头批量读评论。
+
+因为项目的教学逻辑依赖：
+
+> **experience → calibration**
+
+而不是：
+
+> experience pile → theory pile。
+
+---
+
+## Protocol 2 — C层不参与完成度
+
+完成一个节点的判断：
+
+> primary + required A/B
+
+不是：
+
+> “这张卡里所有链接都点完”。
+
+---
+
+## Protocol 3 — Checkpoint不查资料
+
+Checkpoint只用于：
+
+> retrieval / comparison / transfer。
+
+一旦查research log再抄答案，它就失去作用。
+
+---
+
+## Protocol 4 — Upgrade在最近插槽进入
+
+不要：
+
+> 基础33本全部读完以后，再把15个升级从U01顺序重读一遍。
+
+那样会丢失：
+
+- immediate contrast；
+- bridge timing；
+- shared context。
+
+---
+
+## Protocol 5 — 可以暂停，但尽量在Phase边界暂停
+
+推荐暂停点：
+
+> CP1–CP9以后。
+
+这样重启时不必重新恢复一条未完成的局部谱系。
+
+---
+
+## Protocol 6 — 作品正文时间与辅助材料时间分开记录
+
+当前所有预算都只是：
+
+> **辅助材料/路线操作成本。**
+
+不要把它误写成“完成文学路线只需要17小时”。
+
+primary text仍是主体。
+
+---
+
+# 13.11 Step 4后的三种视图，不是三套课程
+
+最终用户界面应理解成：
+
+### View 1 — Base
+
+> 9个Phase、33个节点、9个Checkpoint。
+
+适合：
+
+> “我要先建立地图。”
+
+### View 2 — Base + Upgrades
+
+> 同一9 Phase，在固定插槽插入U01–U15。
+
+适合：
+
+> “我愿意在重要位置多住一天。”
+
+### View 3 — Interest Playlist
+
+> 从同一图中按现实主义 / modernism / world / SF / Chinese / drama抽取纵向路线。
+
+适合：
+
+> “我已经知道自己对哪条传统感兴趣。”
+
+因此不存在：
+
+> “我到底选三套课程中的哪一套？”
+
+只有：
+
+> **一张地图，三种缩放方式。**
+
+---
+
+# 13.12 Step 4完成判定
+
+- [x] package membership与execution order正式分离；
+- [x] 33个基础节点全部进入唯一执行顺序；
+- [x] 基础路线分为9个Phase；
+- [x] Shared Daniel Just只出现一次；
+- [x] Triggered Bridges放在真实触发点；
+- [x] 15个升级全部获得唯一推荐插槽；
+- [x] Pirandello / Shi Zhecun / Ma Yuan等从package位置恢复到教学上合理的位置；
+- [x] 形成9个不增加材料的3–5分钟Checkpoint；
+- [x] Base与Base+Upgrade预算分别重算；
+- [x] 形成6条Interest Playlist；
+- [x] Dynamic Exit保留，但不固定具体当代作品；
+- [x] 明确三种模式是一张图的三种视图，不是三套竞争课程；
+- [x] 形成6条路线执行协议。
+
+因此：
+
+> **Route Assembly v1 冻结。**
+
+下一步：
+
+> **Step 5 — 对抗性验收与发布。**
+
+Step 5将第一次把当前成果当成“即将交付给陌生普通读者的产品”而不是研究项目内部文件，重点攻击：
+
+1. bibliographic metadata是否真的可找；
+2. 卡片是否仍有隐性剧透/术语过载；
+3. 默认B是否存在不必要的高成本项；
+4. 三条大路线是否仍有现代主义/欧美/大陆中心偏置；
+5. 戏剧卡是否能让纯文学读者真正切换到performance reading；
+6. 最终成品应该拆成“完整版 + 速查版”还是保留单文件双层结构。
+
 # 9. Revision log
+
+
+## 2026-10-05 — v0.5
+
+完成Step 4 — Route Assembly v1。
+
+主要更新：
+
+1. 正式区分package编号与execution order；作品集合不变，但按教学依赖重排；
+2. 基础33节点组装为9个Phase：外国4段、中国3段、戏剧2段；
+3. B12/B13前移到Chekhov后形成短篇谱系；B22前移到张爱玲前；B24前移到余华前；B33移回Chekhov与Brecht之间；
+4. 为9个Phase建立9个3–5分钟checkpoint，不增加新材料；
+5. 基础材料预算维持671–863分钟；含checkpoint的路线操作预算约698–908分钟（11h38m–15h08m）；
+6. 15个升级节点全部获得唯一推荐插槽，不再作为U01→U15第二条平行课程；
+7. 全升级依dependency执行后的材料预算维持1037–1334分钟；含checkpoint约1064–1379分钟（17h44m–22h59m）；
+8. 建立6条Interest Playlist：现实主义、现代主义/自反、世界/后殖民、SF/推想、中文现代性、戏剧/performance；
+9. Dynamic Exit继续作为基础包之后的非固定当代现场测试，不冻结具体作品；
+10. 建立6条Route Protocol：单节点执行、C不计完成度、checkpoint不查资料、upgrade就近插槽、Phase边界暂停、正文与辅助时间分开；
+11. Step 4状态更新为COMPLETED；下一步进入Step 5最终QA与发布。
+
+
 
 
 ## 2026-10-05 — v0.4
