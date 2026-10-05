@@ -88,7 +88,7 @@ Round 1–8 的开放式“找什么导读 / 解读材料”研究已完成。�
 | Step | 状态 | 核心任务 | 主要产出 |
 |---|---|---|---|
 | **1. Research → Canonical Data** | **COMPLETED** | 从Round 1–8抽取每个作品当前唯一有效结论，消解初版/修订版冲突，统一字段 | Canonical Materials Master Table |
-| **2. 去重与跨节点整合** | **PENDING** | 处理共享材料、Bridge-after-destination、中文替代、B/C边界与重复职责 | 精简后的最终材料网络 |
+| **2. 去重与跨节点整合** | **COMPLETED** | 处理共享材料、Bridge-after-destination、中文替代、B/C边界与重复职责 | 精简后的最终材料网络 |
 | **3. 单作品执行卡** | **PENDING** | 把每个作品压成普通读者能直接照着执行的一张卡 | 全部作品 Reading Companion Cards |
 | **4. 路线级组装** | **PENDING** | 组装基础包、升级包、桥梁出现时点、checkpoint与总预算 | 完整可执行路线 |
 | **5. 对抗性验收与发布** | **PENDING** | 书目、教学、ROI、偏科与可执行性QA；冻结正式版本 | 最终指南 + 速查表 |
@@ -568,14 +568,14 @@ Final Guide v1.0
 - Round 8及v0.10：**COMPLETED**
 - 执行指南总体构建方案：**RECORDED**
 - Step 1：**COMPLETED**
-- Step 2：**PENDING**
+- Step 2：**COMPLETED**
 - Step 3：**PENDING**
 - Step 4：**PENDING**
 - Step 5：**PENDING**
 
 下一实际动作：
 
-> **Step 2 — 去重与跨节点整合：建立 Final Materials Dependency Graph。**
+> **Step 3 — 单作品执行卡：把Canonical Data与Dependency Graph压成可直接照着读的Reading Companion Cards。**
 
 ---
 
@@ -1079,7 +1079,1133 @@ Step 2的重点不再逐书重新判断好坏，而是对Canonical Data做依赖
 5. 去重后最终默认路线的真实成本是多少。
 
 
+
+# 11. Step 2 — Final Materials Dependency Graph v1
+
+**状态：COMPLETED**
+
+## 11.1 Step 2的核心结论
+
+Step 2没有发现“研究阶段堆了大量可以直接删除的重复论文”。
+
+相反，Round 1–8在研究过程中已经多次执行ROI stop rule、shared-B与Bridge-after-destination，因此真正需要优化的是：
+
+> **材料之间的执行语义，而不是继续砍书目。**
+
+最终把所有辅助材料关系冻结成六种边：
+
+1. **CORE**：该节点默认必读A/B；
+2. **SHARED**：一份材料服务多个节点，只读一次；
+3. **TRIGGERED BRIDGE**：只有两端作品都进入所选路线后才自动触发；
+4. **OPTIONAL BRIDGE**：两端都读过也仍然可选；
+5. **OR / SUBSTITUTE**：二选一，绝不叠读；
+6. **C / EVIDENCE-ONLY**：可支撑指南叙述，但不因此变成用户必读。
+
+这一步最重要的方法修正是：
+
+> **“研究证据源”与“读者作业”必须脱钩。**
+
+一篇C层论文可以是我们写指南时的重要证据，却不意味着读者必须亲自读它。
+
+---
+
+## 11.2 Dependency Graph：正式执行语义
+
+### Edge Type 1 — CORE
+
+形式：
+
+> Work → A（若有）→ Primary Text → B1/B2
+
+规则：
+
+- A只能在“预读收益 > 首读损失”时出现；
+- B可以有两份，但必须解决不同职责；
+- 同一节点的两份B若职责高度重合，Step 2必须降为OR，而不是累计。
+
+压力测试结果：
+
+> **现有默认双B / 三B节点均能证明职责不重合，不做进一步删除。**
+
+典型：
+
+- Morrison：Morrison “Site of Memory”回答“为什么必须这样写”；Raynaud回答“memory/rememory怎样在小说里运作”；
+- Ishiguro：Clayton回答“SF如何被埋进现实主义表面”；Ishiguro/Gaiman回答“为什么作者必须跨genre boundary”；
+- The Island：Crow/Banfield回答workshop theatre；Mda回答共同创作署名；
+- Soyinka：Crow/Banfield回答ritual grammar；Rohmer回答实际演出中的non-verbal system。
+
+---
+
+### Edge Type 2 — SHARED：只付一次成本
+
+#### S1. Chekhov → Hemingway → Carver
+
+\`\`\`text
+B03 Chekhov
+      \
+B12 Hemingway ---> R1-S01 Daniel Just
+      /
+B13 Carver
+\`\`\`
+
+触发：
+
+> B03 + B12 + B13全部完成之后。
+
+性质：
+
+> **默认SHARED B。**
+
+成本：
+
+> 35–45m，只读一次。
+
+严禁：
+
+- 在三张作品卡中各算一次；
+- 提前在Chekhov后就读；
+- 把它拆成三份“各自的极简主义说明”。
+
+这条边已经包含在基础包671–863m总账内。
+
+---
+
+### Edge Type 3 — TRIGGERED BRIDGE：选了两端就自动触发
+
+这是Step 2相对Step 1最重要的实质性修订。
+
+#### T1. Achebe ↔ Conrad
+
+\`\`\`text
+B07 Things Fall Apart
+          \
+           -> R3-S01 Achebe, "An Image of Africa"
+          /
+U09 Heart of Darkness
+\`\`\`
+
+触发：
+
+> B07 + U09均完成。
+
+性质：
+
+> **Triggered-default Bridge。**
+
+状态：
+
+- 已经被包含在U09的28–35m默认成本中；
+- 不增加新的总预算；
+- 绝不在Conrad首读前提前使用。
+
+原因：
+
+如果用户选择U09，《黑暗的心》的升级职责本身就包括：
+
+> anti-imperial insight与imperial/racial implication可以同时成立，并让后来的Achebe反向改变Conrad接受史。
+
+不读这篇会使U09职责缺一块。
+
+---
+
+#### T2. Faulkner → García Márquez / Latin American Boom
+
+\`\`\`text
+U10 As I Lay Dying
+          \
+           -> R2-S02 Esplin
+          /
+B08 One Hundred Years of Solitude
+\`\`\`
+
+触发：
+
+> U10 + B08均完成。
+
+**Step 1状态：条件Bridge，未计入全升级默认预算。**
+
+**Step 2修订：升级为 Triggered-default Bridge。**
+
+原因：
+
+Round 2只是把它延后；
+Round 3明确写：
+
+> 如果已经读过《我弥留之际》，读完《百年孤独》以后“现在才读”。
+
+它的目的不是兴趣扩展，而是兑现U10中：
+
+> Faulkner作为现代主义地域/多视角中继，后来与Latin American Boom形成重要对话
+
+这一升级职责。
+
+因此执行规则改为：
+
+> **不选U10：不读。  
+> 选了U10并完成B08：读，15–20m。**
+
+这使“全基础 + 全升级”的真实执行预算发生修订，见11.9。
+
+---
+
+### Edge Type 4 — EMBEDDED BRIDGE：桥梁已经藏在后端默认B里，不再另收费
+
+#### E1. Balzac → Flaubert
+
+- B01《夏倍上校》；
+- B02《一颗简单的心》；
+- R1-B03 James Wood本身已经比较Flaubert与Balzac式现实主义。
+
+结论：
+
+> 不另加“Balzac→Flaubert文学史”材料。
+
+---
+
+#### E2. Woolf → 白先勇
+
+\`\`\`text
+B04 Mrs Dalloway
+      ↓
+B23 游园惊梦
+      ↓
+R5-B09 李奭学
+\`\`\`
+
+R5-B09本身就是Bridge材料。
+
+结论：
+
+> B23的15–20m已经包含Bridge成本。
+
+---
+
+#### E3. 《聊斋》→莫言
+
+\`\`\`text
+B15 聊斋
+   \
+    -> B20 红高粱 -> R6-B08 莫言访谈
+\`\`\`
+
+R6-B08在后端同时调用：
+
+- 《聊斋》；
+- 魏晋传奇；
+- García Márquez / Faulkner影响；
+- “远离两座高炉”。
+
+因此：
+
+> 不再额外配“《聊斋》如何影响莫言”论文。
+
+---
+
+#### E4. García Márquez / Faulkner → 莫言
+
+同一R6-B08完成。
+
+但执行细节分层：
+
+- 已读B08《百年孤独》：Márquez段有实际Bridge价值；
+- 已读U10 Faulkner：Faulkner段也成为实际Bridge；
+- 未读U10：不要求读者为了一个人名补Faulkner知识。
+
+同一材料按读者已经走过的路线激活不同层次，不新增成本。
+
+---
+
+#### E5. Antigone → The Island
+
+\`\`\`text
+B25 Antigone
+     ↓
+B31 The Island
+     ↓
+回看：谁在监狱里扮演Antigone、演给谁看、身体承担什么风险？
+\`\`\`
+
+这里没有新增论文。
+
+Bridge本身是一项：
+
+> **post-reading comparison action**
+
+而不是：
+
+> “再读一篇影响研究”。
+
+因此成本记为0外部材料分钟；Step 4将把它变成checkpoint。
+
+---
+
+### Edge Type 5 — OPTIONAL BRIDGE：即使两端完成仍可跳过
+
+#### O1. García Márquez → Rushdie → world literature
+
+材料：
+
+> R3-S02 Michael Bell。
+
+触发前提：
+
+> B08 + U12均完成。
+
+但仍然：
+
+> **OPTIONAL。**
+
+原因：
+
+U12默认A+B已经能够完成：
+
+- nation formation；
+- Partition；
+- narrator error；
+- historical mediation。
+
+Bell新增的是：
+
+> magical realism怎样在世界文学中扩散、被重新编码，以及“magical realism”这个全球标签本身怎样变得混乱。
+
+它提高谱系解释精度，但不决定《午夜之子》能否读懂。
+
+成本：
+
+> 25–30m，不计默认预算。
+
+---
+
+#### O2. Woolf → McEwan
+
+材料：
+
+> R2-C04 Thom Dancer, “Limited Modernism.”
+
+触发：
+
+> B04 + U13完成后。
+
+性质：
+
+> 可选回看，不是U13默认Bridge。
+
+原因：
+
+Seaboyer已经能完成《赎罪》的realist legacies职责；
+Dancer增加的是更精确的Woolf/modernism回路。
+
+---
+
+### Edge Type 6 — DEFER / NEGATIVE DEPENDENCY
+
+有些dependency的正确动作不是“加材料”，而是：
+
+> **暂时禁止一类材料进入。**
+
+#### D1. 《三体》第一部 → 后两部
+
+在只完成U06时：
+
+- dark forest；
+- cosmic sociology；
+- 《死神永生》后人类；
+- trilogy总体政治哲学；
+
+全部保持deferred。
+
+只有真正读到后两部以后才开放。
+
+这是：
+
+> **series-internal Bridge-after-destination。**
+
+---
+
+## 11.3 Final Materials Dependency Graph v1
+
+\`\`\`text
+REALISM / SHORT STORY
+B01 Balzac ──> B02 Flaubert
+                 │
+                 └─ R1-B03 已内嵌 Balzac→Flaubert bridge
+
+B03 Chekhov ─┐
+B12 Hemingway├──> R1-S01 Daniel Just [SHARED / DEFAULT / ONCE]
+B13 Carver ──┘
+
+
+MODERNISM / WORLD LITERATURE
+B04 Woolf ───────> B23 Bai Xianyong
+                    └─ R5-B09 [EMBEDDED BRIDGE]
+
+U10 Faulkner ─┐
+              ├──> R2-S02 Esplin [TRIGGERED DEFAULT]
+B08 Márquez ──┘
+
+B08 Márquez ──┐
+              ├──> R3-S02 Bell [OPTIONAL]
+U12 Rushdie ──┘
+
+B07 Achebe ───┐
+              ├──> R3-S01 "An Image of Africa" [TRIGGERED DEFAULT]
+U09 Conrad ───┘
+
+
+CHINESE / LOCALIZATION
+B15 Liaozhai ───────────────┐
+B08 Márquez ────────────────┼──> B20 Mo Yan
+U10 Faulkner [if selected] ─┘       └─ R6-B08 [EMBEDDED]
+
+B19 现实一种 ──> 活着
+     [internal author trajectory; no extra bridge paper]
+
+
+DRAMA
+B27 Ibsen ──> B28 Chekhov
+              [comparison is synthesized from existing B; no new reading]
+
+B25 Antigone ──> B31 The Island
+                  └─ post-reading re-performance checkpoint [0 external minutes]
+
+U06 Three-Body I ──X──> later-volume theory
+                      [DEFER until destination read]
+\`\`\`
+
+---
+
+## 11.4 “同一本书/同一来源”不等于重复：Source Bundles
+
+Step 2另识别出一类实际使用上很有价值、但不能误当“删减”的关系：
+
+> **同一容器里的不同章节。**
+
+这会降低找资料的摩擦，但不会自动降低阅读时间。
+
+### Bundle A — Peter Brooks, Realist Vision
+
+- R1-B02：Balzac；
+- R1-B04：Flaubert。
+
+价值：
+
+> 若走U01+U02，只找一本到手即可。
+
+但两章解决不同职责，不合并。
+
+---
+
+### Bundle B — Martin Scofield, The Cambridge Introduction to the American Short Story
+
+- R1-B06：Hemingway；
+- R1-B07：Carver。
+
+价值：
+
+> 同一书完成两个微节点。
+
+不删，因为：
+
+- Hemingway读省略/对白；
+- Carver读战后短篇复兴与内部变化。
+
+---
+
+### Bundle C — Crow & Banfield, An Introduction to Post-Colonial Theatre
+
+- R8-B05：South African workshop play / The Island；
+- R8-B09：Soyinka / ritual vision。
+
+若同时走B31+U15：
+
+> 一书解决两个后殖民戏剧节点。
+
+但两章代表完全不同的production grammar，不能共享成一章。
+
+---
+
+### Bundle D — Pirandello in Context
+
+- R7-B07 Witt “Metatheatre”；
+- R7-B08 Worthen “The Fourth Wall”。
+
+两章连续，适合一次取得。
+
+但：
+
+> metatheatre机制 ≠ fourth-wall apparatus史。
+
+仍保留两份B。
+
+---
+
+### Bundle E — The Cambridge Companion to Chekhov
+
+- R7-B06 Smeliansky为默认；
+- R7-C06 Aronson为深入。
+
+取得同一本书不意味着C自动升级为必读。
+
+---
+
+## 11.5 Alternative / Substitute制度正式统一
+
+为避免与“资料层A/B/C”混淆，替代等级写成：
+
+- **Alt-A**：职责覆盖等价或为原核心的超集，可真正替换；
+- **Alt-B**：能完成主要职责，但覆盖明显较窄；
+- **Alt-C**：只能补充，不能替代。
+
+替代关系一律使用：
+
+> **OR**
+
+而不是：
+
+> **AND**。
+
+除非明确标记“补充”。
+
+---
+
+### Alt-A — 等价 / 超集替代
+
+#### U14《我城》：R5-C04中文原论文 ↔ R5-B11英文压缩版
+
+Step 1把：
+
+> 謝曉虹中文原论文（41页）
+
+仅列作C。
+
+Step 2重新检查出版关系后修订：
+
+- 中文原论文：《思与言》56(2), 2018, pp.73–113；
+- 英文版：Chinese Literature Today 8(1), 2019, pp.50–57；
+- 英文发表页明确说明：
+  > 它是较长文章的**abridged version**。
+
+因此：
+
+> **中文原论文在职责覆盖上是英文B的超集。**
+
+最终分类：
+
+- **R5-B11英文8页：默认B，12–15m，ROI最高；**
+- **R5-C04中文全文：Alt-A，45–60m；**
+- 两者**二选一，不叠读**。
+
+这成为目前唯一明确的中文Alt-A。
+
+它不是默认方案，只因为时间成本高约33–45分钟，而不是质量不足。
+
+---
+
+### Alt-B — 主要职责可完成，但有明确损失
+
+#### U02《包法利夫人》
+
+默认：
+
+> R1-B04 Brooks，25–30m。
+
+替代：
+
+> R1-ALT01 Vargas Llosa / King，约10m。
+
+损失：
+
+- 能抓Flaubert的形式意识、narrator与现代小说；
+- 但对Balzac/Flaubert现实主义内部差异及“scandal of realism”覆盖较窄。
+
+执行：
+
+> 时间极紧可替；不叠读。
+
+---
+
+#### B03 Chekhov双篇
+
+默认：
+
+> R1-B05 Loehlin，12–15m，覆盖两篇。
+
+中文：
+
+> R1-ALT02 熊宗慧，只覆盖《带小狗的女人》。
+
+最终分类：
+
+> **Alt-B-partial。**
+
+也就是说：
+
+- 英文障碍很高时可以作为低门槛入口；
+- 但它**不能宣称完整替代B03**，因为《苦恼》与双篇谱系职责会丢失。
+
+这是Step 2对Step 1“替代/补充”模糊表述的收紧。
+
+---
+
+#### U13《赎罪》
+
+默认：
+
+> R2-B08 Seaboyer，25–30m。
+
+中文替代：
+
+> R2-ALT01 付昌玲，12–15m。
+
+外部元数据与摘要再次确认，其强项是：
+
+- 多视角；
+- Briony自我辩护；
+- metafiction；
+- reality/fiction关系。
+
+损失：
+
+> 对19世纪realism → modernism → post-realism的文学史链条覆盖较窄。
+
+因此：
+
+> **Alt-B，二选一。**
+
+---
+
+#### B28《樱桃园》B2
+
+默认组合：
+
+> Loehlin B1 + Smeliansky B2 = 25–30m。
+
+中文路径：
+
+> Loehlin B1 + 杨莉莉R7-ALT02 = 22–30m。
+
+杨莉莉文章确实讨论：
+
+- Chekhov / Stanislavski；
+- modern directing；
+- 不同欧洲production；
+- 写实演技反思。
+
+但它不是对1904 MAT / Chekhov史的等量替换。
+
+因此：
+
+> **Alt-B。**
+
+优点是中文门槛低；
+代价是历史证据密度略低。
+
+---
+
+#### U15 Soyinka的B1
+
+默认：
+
+> R8-B09 Crow/Banfield 20–25m + Rohmer B2。
+
+中文替代：
+
+> R8-ALT02 宋志明 15–20m + Rohmer B2。
+
+宋志明能很好覆盖：
+
+- Yoruba myth；
+- ritual；
+- tradition的提炼/重构；
+- “反仪式”。
+
+但它不能替代Rohmer关于：
+
+- visual/acoustic pattern；
+- music/dance；
+- mise-en-scène；
+- intercultural performance
+
+的实际舞台证据。
+
+最终：
+
+> **宋志明 = R8-B09的Alt-B，不是整个U15 packet的替代。**
+
+使用中文B1后：
+
+> U15默认辅助可由39–49m降到约34–44m。
+
+---
+
+### Alt-C — 只能补充
+
+以下全部保留为：
+
+> **不要用来替掉默认B。**
+
+1. R1-ALT03 Carver访谈  
+   - 强在作者自述“《大教堂》更开放、更丰满”；
+   - 不承担文学史位置。
+
+2. R6-ALT01 余华访谈  
+   - 强在纠正“前进/后退”线性观；
+   - 不替代刘艳对90年代叙事结构的分析。
+
+3. R7-ALT01 Ledger / Ibsen  
+   - 只做3页舞台校准；
+   - 不能替代Grene的interior-as-social-machine。
+
+4. R8-ALT01 李言实 / Beckett  
+   - “身体的复活”非常直观；
+   - 但没有Asmus那种Beckett本人导演的production evidence。
+
+---
+
+## 11.6 C层压力测试
+
+问题：
+
+> **如果删掉每一份C，默认路线是否还能完成它承诺的核心职责？**
+
+总体结论：
+
+> **能。没有一份C需要整体晋升为所有读者默认B。**
+
+但产生两个结构修订。
+
+---
+
+### 修订一：R5-C04《我城》从“纯C”改成“双重身份”
+
+见11.5：
+
+> **默认情况下它仍不是附加必读；  
+> 若读者需要中文，则它是R5-B11的Alt-A。**
+
+所以它的正确状态不是：
+
+> C only
+
+而是：
+
+> **Alt-A / 若已读英文B则不再读。**
+
+---
+
+### 修订二：鲁迅节点的“translation-as-constitutive”从单作必达职责降为路线级context
+
+Step 1的B16 canonical record包含：
+
+> 翻译是现代中文文学的构成性机制。
+
+但默认B：
+
+- 《呐喊》自序；
+- Ann Huss；
+
+主要解决：
+
+> 两种现代主体失败与传统/现代张力。
+
+真正系统证明：
+
+> translation与modern Chinese literature是symbiotic relationship
+
+的是R5-C03季进。
+
+外部核验也再次确认该章明确主张：
+
+- 翻译不是简单语言转换；
+- 它改变叙事结构、技术、文类与形式；
+- 可以被视为modern Chinese literature的内部组成。
+
+Step 2有两种选择：
+
+A. 把季进10页升级成B16第三份默认B；  
+B. 收紧B16用户必须完成的职责，把translation保留为**Round 5路线级context**，季进继续C。
+
+ROI判断选择：
+
+> **B。**
+
+理由：
+
+- 鲁迅双篇的核心节点职责是现代主体 / 语言 / 社会批判；
+- 再加一份10页translation history会使单节点负担向文学制度史偏移；
+- Rule V仍然必须保留在整个中文路线的解释框架里；
+- Step 3卡片可用1–2句把这一研究结论告诉读者，但不要求读者亲自读季进。
+
+这是本阶段第一次明确应用：
+
+> **Evidence source ≠ reader assignment。**
+
+因此不是删掉Rule V，而是改变它在用户产品中的呈现位置。
+
+---
+
+## 11.7 哪些C虽然不是作业，但会进入指南正文的“事实底座”
+
+为了避免Step 3误把“C可选”理解成“指南不能使用它”，这里显式列出：
+
+- R7-C01 Andújar：支持“chorus的不回应也可成为舞台行动”；
+- R7-C05 Merlin：支持《海鸥》1896/1898与Chekhov/Stanislavski productive mismatch；
+- R7-C07 Lorch：支持1921《六个寻找作者的剧中人》首演史；
+- R8-C01 Bradley：支持Brecht预期观众≠实际观众；
+- R8-C05 Harding：支持radical casting device≠guaranteed radical reception；
+- R5-C03季进：支持translation-as-constitutive；
+- R4-C03 Le Guin Redux：支持经典作品的历史局限与作者后来自我修正。
+
+执行规则：
+
+> Step 3可以把这些结论压成一两句“必要校准”；  
+> 但只有读者对这个问题产生兴趣时，才把原论文列进C。
+
+---
+
+## 11.8 重复阅读审计：最终没有删除哪些材料，以及为什么
+
+### 未删除：Morrison双B
+
+不是重复：
+
+- B1 = archive problem / literary archaeology；
+- B2 = memory/rememory形式。
+
+### 未删除：Ishiguro双B
+
+不是重复：
+
+- B1 = genre mechanism；
+- B2 = author-side genre-boundary evidence。
+
+### 未删除：Poe双B
+
+分别服务两篇相反reader protocol，且总成本只有11–15m。
+
+### 未删除：Omelas双B
+
+- Le Guin note = idea genealogy / psychomyth；
+- Wyman = reader co-construction。
+
+总成本10–15m，继续保留。
+
+### 未删除：Antigone双A
+
+- Rayor = stage geometry / chorus physicality；
+- Goldhill = civic spectatorship institution。
+
+v0.9已经证明不重复。
+
+### 未删除：Hamlet双B
+
+- Neill = text/performance mechanism；
+- “Hamlet in performance” = reception/production variability。
+
+### 未删除：Brecht双B
+
+- Leach = play/history/form；
+- Frimberger = Gestus落到actor/prop。
+
+### 未删除：Godot双B
+
+- Kennedy = dramatic structure；
+- Asmus = rehearsal/directing precision。
+
+### 未删除：Cloud Nine双B
+
+- Churchill = workshop process / authorship；
+- Patterson = political stage strategy。
+
+### 未删除：Soyinka双B
+
+这是最不能为了减时误删的一组：
+
+> ritual grammar + performance evidence
+
+二者正好对应戏剧阶段的文本职责 / 舞台职责双轨。
+
+---
+
+## 11.9 去重后的最终时间预算
+
+### 11.9.1 基础包
+
+没有新的重复扣减。
+
+原因：
+
+- R1-S01已经只计一次；
+- embedded Bridges都藏在现有B中；
+- 其余双B经压力测试均不重复。
+
+因此仍为：
+
+> **671–863分钟 = 11小时11分—14小时23分。**
+
+---
+
+### 11.9.2 “单独看升级节点”的新增成本
+
+若只把每个升级节点看成独立增量，不考虑路线条件触发：
+
+> **351–451分钟 = 5小时51分—7小时31分。**
+
+这个数字保留作为：
+
+> “升级作品自身材料成本”。
+
+---
+
+### 11.9.3 真正执行“基础 + 全部15个升级”时
+
+因为全升级一定同时包含：
+
+- U10 Faulkner；
+- B08 Márquez；
+
+所以R2-S02 Esplin的Triggered Bridge自动生效：
+
+> +15–20m。
+
+因此Step 2修订全升级真实执行预算：
+
+- 升级层实际新增：
+  > **366–471分钟 = 6小时06分—7小时51分**
+- 基础 + 全升级：
+  > **1037–1334分钟**
+  > **17小时17分—22小时14分**
+
+这取代Step 1的：
+
+> 17小时02分—21小时54分
+
+作为“全路线真正执行”的预算。
+
+Step 1数字仍可保留，其含义改为：
+
+> **节点材料机械合计，不含条件触发Bridge。**
+
+---
+
+### 11.9.4 若再选择可选Márquez→Rushdie桥
+
+R3-S02：
+
+> +25–30m。
+
+则完整路线为：
+
+> **1062–1364分钟 = 17小时42分—22小时44分。**
+
+但这不是默认正式预算。
+
+---
+
+## 11.10 替代路线的时间影响
+
+这些数字不进入正式总预算，因为它们交换的是：
+
+> 时间 / 语言门槛 / 职责覆盖。
+
+| 节点 | 默认 | 替代 | 时间变化 | 代价 |
+|---|---:|---:|---:|---|
+| U02《包法利夫人》 | 25–30m Brooks | ~10m Vargas Llosa/King | **省15–20m** | 文学史覆盖变窄 |
+| U13《赎罪》 | 25–30m Seaboyer | 12–15m 付昌玲 | **省13–15m** | realist-legacies链条变弱 |
+| B28《樱桃园》 | 25–30m | 22–30m 中文B2 | **最多省约3m** | production-history密度略降 |
+| U15 Soyinka | 39–49m | 34–44m 中文B1+英文B2 | **省约5m** | ritual background证据密度略降 |
+| U14《我城》 | 12–15m 英文压缩 | 45–60m 中文原文 | **多33–45m** | 无质量损失，换取中文阅读 |
+
+因此最终指南不能再写成：
+
+> “中文替代 = 更省时间”。
+
+实际有三种情况：
+
+- 中文更短；
+- 中文差不多；
+- 中文更长但覆盖更完整。
+
+---
+
+## 11.11 Execution Rules E1–E6
+
+这是Step 2形成的构建规则，不替代research log的Rule A–AU。
+
+### E1 — Shared material is paid once
+
+> 一份SHARED B在所有前置节点完成后读一次，不回填到每张卡重复计时。
+
+---
+
+### E2 — A bridge can be conditional but mandatory once triggered
+
+> “条件”描述的是它何时出现，不等于出现以后仍然可有可无。
+
+Faulkner→Márquez建立此规则。
+
+区分：
+
+- **Triggered-default Bridge**
+- **Optional Bridge**
+
+---
+
+### E3 — Alternative means OR, not AND
+
+若材料标：
+
+> Alt-A / Alt-B
+
+最终卡必须用：
+
+> “二选一”
+
+而不是：
+
+> “中文读者可以再补一篇”。
+
+否则所谓替代反而增加负担。
+
+---
+
+### E4 — Evidence source ≠ reader assignment
+
+指南可以依赖学术材料形成可靠的一句话背景校准，而无需把每个证据源升级成读者作业。
+
+适用于：
+
+- translation；
+- production history；
+- reception history；
+- 观众研究；
+- 作者/导演分歧。
+
+---
+
+### E5 — Embedded bridge should stay embedded
+
+如果后端B已经承担跨节点比较：
+
+> 不再为了“体系完整”另配一篇影响研究。
+
+适用：
+
+- Balzac→Flaubert；
+- Woolf→白先勇；
+- 《聊斋》/Márquez→莫言。
+
+---
+
+### E6 — Procurement bundling is not intellectual deduplication
+
+同一本Cambridge Companion / 同一专著中的不同章节：
+
+> 可以一次找到、一次借阅；
+
+但只有职责重复时才允许删阅读。
+
+“找资料成本下降”不能伪装成“理解成本已经重复”。
+
+---
+
+## 11.12 Step 2完成后的Final Materials Dependency Graph摘要
+
+### 默认共享一次
+
+1. R1-S01 Chekhov/Hemingway/Carver。
+
+### 条件触发后默认
+
+2. R3-S01 Achebe/Conrad；
+3. R2-S02 Faulkner/Márquez。
+
+### 已内嵌，不新增时间
+
+4. Balzac→Flaubert；
+5. Woolf→白先勇；
+6. 《聊斋》→莫言；
+7. Márquez/Faulkner→莫言；
+8. Antigone→The Island。
+
+### 两端完成仍可选
+
+9. Márquez→Rushdie；
+10. Woolf→McEwan。
+
+### 延后禁止
+
+11. 《三体》第一部→后两部理论。
+
+### 替代等级
+
+- **Alt-A：1组**
+  - 《我城》中文原论文 ↔ 英文压缩版；
+- **Alt-B：5组**
+  - 《包法利夫人》短替代；
+  - Chekhov中文部分替代；
+  - 《赎罪》中文替代；
+  - 《樱桃园》中文B2替代；
+  - Soyinka中文B1替代；
+- **Alt-C：4组**
+  - Carver作者访谈；
+  - 余华作者访谈；
+  - Ibsen短校准；
+  - Beckett中文身体补充。
+
+---
+
+## 11.13 Step 2完成判定
+
+- [x] Shared B全部显式化，且只计一次；
+- [x] Bridge分成triggered-default / embedded / optional / deferred；
+- [x] Faulkner→Márquez的触发语义纠正；
+- [x] 中文/低门槛替代全部改成OR关系，不再默认叠读；
+- [x] 找到1个真正Alt-A：《我城》中文原论文；
+- [x] C层逐项压力测试，没有隐性“必须全员晋升”的C；
+- [x] translation-as-constitutive从鲁迅单卡必达职责移到Round 5路线级context；
+- [x] Source Bundle与真正内容去重分开；
+- [x] 基础预算复核；
+- [x] 全升级预算按Triggered Bridge重算；
+- [x] Dependency Graph可以直接供Step 3制卡使用。
+
+因此：
+
+> **Final Materials Dependency Graph v1 冻结。**
+
+下一步：
+
+> **Step 3 — 单作品执行卡。**
+
+Step 3不再判断“材料好不好”，而把：
+
+> Canonical Node + Dependency Edge + Alternative Policy + Time
+
+压成用户拿起来就能执行的Reading Companion Card。
+
+
 # 9. Revision log
+
+
+## 2026-10-05 — v0.3
+
+完成Step 2 — 去重与跨节点整合。
+
+主要更新：
+
+1. 建立Final Materials Dependency Graph v1，定义CORE / SHARED / TRIGGERED BRIDGE / OPTIONAL BRIDGE / OR SUBSTITUTE / C-EVIDENCE六类执行边；
+2. 确认研究阶段已有较强去重，Step 2的主要收益来自执行语义而不是继续删除论文；
+3. 将Faulkner→García Márquez的R2-S02从“条件但预算外”修订为“条件触发后默认”，使全基础+全升级真实预算改为1037–1334分钟（17h17m–22h14m）；
+4. Achebe↔Conrad保持Triggered-default且已包含于U09预算；
+5. Márquez→Rushdie与Woolf→McEwan保持optional bridge；
+6. 明确Balzac→Flaubert、Woolf→白先勇、《聊斋》/Márquez/Faulkner→莫言、Antigone→The Island为embedded bridge，不新增文献成本；
+7. 替代制度统一为Alt-A / Alt-B / Alt-C，并强制执行OR而非AND；
+8. 将謝曉虹《我城》中文原论文从纯C重新识别为R5-B11的Alt-A：英文8页版为原长文的abridged version；默认仍保留英文版因为ROI更高；
+9. 鲁迅节点的translation-as-constitutive从单卡必达职责移为Round 5路线级context，季进继续C，确立“evidence source ≠ reader assignment”；
+10. 建立Source Bundles，区分“获取成本去重”与“认知职责去重”；
+11. Step 2状态更新为COMPLETED，下一步进入Step 3 Reading Companion Cards。
+
+
 
 
 ## 2026-10-05 — v0.2
