@@ -98,7 +98,7 @@
 
 - **2026-10-05 — [阅读当代文学的最短经典路径：执行指南构建进展](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guide-build-log.md)**  
   记录从Round 1–8累计研究成果收敛为最终可执行阅读指南的全过程：依次完成Canonical Data、跨节点去重与Bridge整合、单作品执行卡、路线级组装、对抗性QA与最终发布；后续每完成一个Step都持续追加到同一文件。  
-  contemporary-literature reading-path reading-guides execution-guide build-log
+  `contemporary-literature` `reading-path` `reading-guides` `execution-guide` `build-log`
 
 - **2026-10-05 — [经典文学最短路径：导读与解读资料指南——研究设计与累积记录](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guides-research.md)**  
   “阅读当代文学的最短经典路径”辅助材料阶段的持续研究基线：从作品职责反推导读/文学史/批评材料，按A阅读前、B阅读后核心、C深入批评分层，并持续累积各轮深搜结果、时间预算、淘汰理由与方法规则。  
