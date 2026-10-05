@@ -7833,7 +7833,7 @@ Goldhill的关键校准是：
 
 #### 可选深入 C1：真正把chorus当舞台身体
 
-**Rosa Andújar, “The Reticent Chorus in Sophocles’ Antigone.”**
+**Rosa Andújar, Chapter 4 “Interacting with the Chorus,” §4.3.3 “The Reticent Chorus in Sophocles’ Antigone.”**
 
 - 位于：*Playing the Chorus in Greek Tragedy*
 - Cambridge University Press
@@ -7979,9 +7979,11 @@ Hamlet几百年的performance history本身已经证明：
 
 #### 阅读后核心材料 B2：舞台史极短校准
 
-**Richard Andrews & Rex Gibson, “Hamlet in performance.”**
+**“Hamlet in performance.”**
 
 - 收入：Cambridge School Shakespeare, *Hamlet*
+- 原作：William Shakespeare
+- 版本编者：Richard Andrews & Rex Gibson
 - Cambridge University Press
 - 2005
 - pp.**270–275**
@@ -8415,7 +8417,7 @@ Pirandello做得更根本：
 
 #### 阅读后核心材料 B2
 
-**“The Fourth Wall.”**
+**W. B. Worthen, “The Fourth Wall.”**
 
 - 收入：*Pirandello in Context*
 - Cambridge University Press
@@ -8822,7 +8824,832 @@ Round 7留下六个硬约束：
 ---
 
 
+
+### R7-15. Round 7 深化复核（v0.9）：来源级审计、缺口攻击与有效修订
+
+> **本节是对 v0.8 Round 7 的增量复核，不是第二套 Round 7。**  
+> 除本节明确写出的修订外，R7-1—R7-14继续有效。  
+> 这一轮的目标不是继续增加“著名戏剧理论”，而是攻击 v0.8 里仍可能残留的五种误差：
+>
+> 1. 把制度性的观众位置误写成实际观众人口构成；
+> 2. 把舞台惯例写成演员必须遵循的唯一表演方式；
+> 3. 把已有舞台技术的重新赋义误写成“某作家发明了某技术”；
+> 4. 把 playwright / director 的冲突整理成“谁理解得正确”；
+> 5. 把 metatheatre / subtext / fourth wall 再次退化成文学课标签。
+
+复核后的总判断是：
+
+> **v0.8 的五节点路线与默认核心材料总体成立，不需要推翻；真正需要的是更精确地说明“舞台条件提供了什么可能性”，以及“历史创新往往是重新组织已有剧场资源，而不是单点发明”。**
+
+这次复核也使“舞台实践职责”进一步收敛为四个共同问题：
+
+1. **空间**：演员、角色、观众实际怎样被摆放？
+2. **可见 / 可听**：谁能看见谁、谁能听见谁？
+3. **行动载体**：意义落在台词、身体、停顿、物件、灯光、排练还是观看反应上？
+4. **制作差异**：不同演出为什么可以把同一文本变成不同的剧场对象？
+
+---
+
+#### R7-15.1 《安提戈涅》：把“civic audience”与“观众人口构成”严格拆开
+
+v0.8用Simon Goldhill建立：
+
+> 雅典悲剧属于公共 / civic performance culture，观众身份与民主社会中的公共观看、辩论和判断经验相连。
+
+这一方向保留。
+
+但深化复核必须加入一个重要限定：
+
+> **“theatre是civic institution”不等于“实际观众就是一个同质的成年男性公民群体”。**
+
+David Kawalko Roselli对古代剧场观众的系统研究正是针对这一旧假设。他利用考古、铭文学、社会史和表演史材料，强调：
+
+- noncitizens；
+- foreigners；
+- slaves；
+- poor spectators；
+- women（是否、何时、以何种规模进入剧场仍有争论）；
+
+都不能被预先从历史观众中抹掉。
+
+因此以后解释Goldhill时，应写成：
+
+> **悲剧节庆与雅典的civic / democratic performance culture具有制度性联系；但这描述的是公共剧场的政治—制度框架，不是对每一位实际spectator身份的断言。**
+
+##### 新增 A0：3—4分钟的“舞台几何”校准
+
+**Diane J. Rayor, Introduction to *Sophocles’ Antigone: A New Translation*.**
+
+- Cambridge University Press
+- 2011
+- 推荐范围：Introduction约 **pp.xiii–xiv**
+- 预计时间：**3–4分钟**
+- 语言：英文
+- 难度：低
+- 剧透：无
+
+这两页只解决最基本但裸读极容易缺失的物理事实：
+
+- orchestra与skēnē；
+- parodoi；
+- props / sets相对简约；
+- actors与chorus戴mask；
+- chorus约十五人；
+- chorus会**唱、舞**，而不是站着念“作者评论”。
+
+它与Goldhill不重复：
+
+- Rayor回答：**舞台上有什么身体与空间？**
+- Goldhill回答：**这种共同观看为什么具有公共 / civic意义？**
+
+因此 v0.9 的《安提戈涅》A层有效结构改为：
+
+> **Rayor 3–4分钟 + Goldhill约7–8分钟。**
+
+仍不需要先修完整希腊剧场史。
+
+##### Andújar书目精化
+
+v0.8把“The Reticent Chorus in Sophocles’ Antigone”写得像独立章节。
+
+实际结构应为：
+
+> Rosa Andújar, *Playing the Chorus in Greek Tragedy*，  
+> Chapter 4 “Interacting with the Chorus”，  
+> **§4.3.3 “The Reticent Chorus in Sophocles’ Antigone”, pp.261–273**。
+
+这项研究特别重要，因为它证明：
+
+> chorus的“不说 / 不回应”也可以是**被安排出来的舞台行动**。
+
+所以“chorus = 评论内容”要进一步改成：
+
+> **chorus = 声音 + 身体 +空间位置 + 进入/退出 + 回应/不回应。**
+
+##### v0.9有效默认成本
+
+> **A0 3–4分钟 + A1 7–8分钟 + B 25–30分钟 = 35–42分钟。**
+
+Roselli只承担方法校准，不进入普通读者默认必读。
+
+---
+
+#### R7-15.2 《哈姆雷特》：soliloquy不是“印在纸上的内心”，也不是固定的“对观众说”
+
+v0.8关于soliloquy的核心判断保留：
+
+> 戏剧的内在性是一种 actor / character / audience 关系。
+
+深化复核以后，需要再防止另一种反向简化：
+
+> 从“独白不是小说心理描写”跳到“独白就必须直接盯着观众说”。
+
+也不对。
+
+历史舞台条件告诉我们的是：
+
+> **观众近、可见、环绕thrust stage；舞台与观众并未被后来黑暗镜框式剧场那样彻底切开。**
+
+因此soliloquy提供了一种特殊的**affordance**：
+
+- 其他角色听不到；
+- 实际观众却可以听到；
+- 演员可以不同程度地承认、利用、抵抗观众的在场；
+- 每个production仍可以重新决定“这段话具体对谁发生”。
+
+##### v0.8 “不建议预读”修订为：只加一个5—7分钟舞台A层
+
+**Folger Shakespeare Library, “Shakespeare’s Theater: From the Folger Shakespeare Editions.”**
+
+推荐只读关于：
+
+- open-air public playhouse；
+- thrust stage；
+- audience环绕；
+- 场景之间没有落幕；
+- 相对少scenery、依靠语言与props建立地点；
+
+的相关段落。
+
+- 预计时间：**5–7分钟**
+- 语言：英文
+- 难度：低
+- 剧透：无
+- 稳定链接：<https://www.folger.edu/explore/shakespeares-works/shakespeares-theater-from-the-folger-shakespeare-editions/>
+
+为什么值得打破“不要预读”：
+
+> 这不是给Hamlet贴“优柔寡断 / 忧郁王子”标签，而是校准读者脑中的**剧场物理模型**。
+
+一旦知道舞台伸进观众、观众并未隐入黑暗，读者再读：
+
+- soliloquy；
+- aside；
+- Player scene；
+- The Mousetrap；
+
+就不会自动把它们想成现代电影式私人心理空间。
+
+##### B1 Michael Neill继续保留
+
+Neill的高ROI仍然很稳，因为他同时把：
+
+- conventional revenge plot；
+- psychological / interior drama；
+- soliloquy；
+- surveillance；
+- play-within-the-play；
+
+连成一个问题。
+
+尤其重要的是：
+
+> “The Mousetrap”并没有像传统revenge machinery那样直接完成报复，而是把观众也拉入“看Claudius如何观看一场戏”的观看链。
+
+因此：
+
+> **戏中戏的核心不是“Hamlet设计了一个聪明机关”，而是theatre被拿来测试theatre能否显露truth。**
+
+##### B2书目归属修正
+
+Cambridge School Shakespeare的：
+
+> “Hamlet in performance”, pp.270–275
+
+应记录为：
+
+- 原作：William Shakespeare；
+- **版本编者：Richard Andrews & Rex Gibson**；
+
+而不是把Andrews / Gibson直接写成该节的作者。
+
+##### v0.9有效默认成本
+
+> **A 5–7分钟 + B1 15–20分钟 + B2 8–10分钟 = 28–37分钟。**
+
+这仍低于给读者先上一门Elizabethan theatre史的成本。
+
+---
+
+#### R7-15.3 《玩偶之家》：Ibsen的历史创新是“重新赋义”，不是发明box set
+
+v0.8最重要的判断继续成立：
+
+> **bourgeois interior becomes a material social machine。**
+
+但深化复核发现，一个极容易在介绍“现代现实主义舞台”时出现的历史误差必须主动封堵：
+
+> **不能写成Ibsen发明了box set、real furniture或fourth wall。**
+
+Nicholas Grene在 *Home on the Stage* 中明确把这些技术放进更长的前史：
+
+- Diderot已经理论化domestic drama / imagined wall；
+- 19世纪前中期已经出现box-set式室内布景；
+- real furniture也早于Ibsen。
+
+Ibsen真正高价值的转折是：
+
+> **把普通、熟悉的bourgeois home赋予前所未有的严肃戏剧重量，使外部社会秩序与内部私人生命能够同时被“做成一个房间”。**
+
+因此“创新”需要从：
+
+> inventing realistic technology
+
+修订成：
+
+> **re-functioning inherited stage technologies into a new dramatic ontology of ordinary life。**
+
+这也意味着《玩偶之家》里的：
+
+- doors；
+- mailbox；
+- letter；
+- furniture；
+- Christmas tree；
+- costume / tarantella；
+
+不是“逼真布景清单”，而是：
+
+> **社会权限、秘密、债务、性别角色和行动边界的物质接口。**
+
+##### Ibsen → Chekhov比较中的一个措辞修订
+
+v0.8有时用“well-made plot”概括Ibsen。
+
+深化后不再把这一genealogy写死。
+
+更稳妥的路线语言是：
+
+> **Ibsen保留并高度利用秘密—揭露、强因果、冲突升级与空间控制；Chekhov则系统削弱这些显性推进机制。**
+
+这能完成路线比较，而不需要把Ibsen简单等同于某一个well-made-play谱系。
+
+##### C层现在可以精确到章节
+
+**Toril Moi, “First and Foremost a Human Being: Idealism, Theater, and Gender in A Doll’s House.”**
+
+- 收入：*Henrik Ibsen and the Birth of Modernism: Art, Theater, Philosophy*
+- Oxford University Press
+- 2006
+- Chapter 7
+- pp.**188–220**
+- DOI：<https://doi.org/10.1093/oso/9780199295876.003.0008>
+- Print ISBN：9780199295876
+- 预计时间：45–60分钟
+- 难度：高
+- 定位：**C，不进入默认路线**
+
+它的价值不是再讲一遍“Nora女性解放”，而是把：
+
+> gender / idealism / modernity / everyday language / theatre
+
+放在同一现代性问题中。
+
+##### 默认成本
+
+> **仍维持25–30分钟。**
+
+没有理由因为历史校准而给普通读者增加更多必读。
+
+---
+
+#### R7-15.4 《樱桃园》：subtext不是隐藏译文，Chekhov / Stanislavski也不是“作者vs误读者”
+
+这是深化复核后增量最大的一站。
+
+##### 第一修订：subtext必须进一步去标签化
+
+“subtext”如果被教成：
+
+> 台词下面藏着一句人物真正想说的话，
+
+会重新变成机械解码。
+
+对Chekhov更有效的普通读者定义是：
+
+> **意义不是只在句子的语义下面，而是在一句话如何被说、何时停、别人是否接住、人物此刻在做什么、注意力在哪里、身体与空间怎样错开中生成。**
+
+换句话说，subtext要落到可表演变量：
+
+- tempo；
+- pause；
+- gesture；
+- task / action；
+- listening；
+- partner response；
+- blocking；
+- interruption；
+- missed connection。
+
+这样读者才会真正理解：
+
+> **subtext不是一篇隐藏在台词下面、等待被翻译出来的第二剧本。**
+
+##### 第二修订：《海鸥》1896 / 1898必须成为最小历史铰链
+
+用户特别要求核查这一点，v0.8只有MAT总论，还不够精确。
+
+Bella Merlin的研究可以非常高效地补齐：
+
+**Bella Merlin, “Which Came First: The System or ‘The Seagull’?”**
+
+- *New Theatre Quarterly*
+- Vol.15, Issue 3
+- 1999
+- pp.**218–227**
+- DOI：<https://doi.org/10.1017/S0266464X00013014>
+- 预计时间：18–22分钟
+- 难度：中
+- 定位：**C / 历史铰链，不加入默认B预算**
+
+它专门比较：
+
+- **1896 Alexandrinsky Theatre首演失败**；
+- **1898 Moscow Art Theatre成功复排**；
+
+并提出一个比“Stanislavski终于懂了Chekhov”更有价值的历史模型：
+
+> Stanislavski对文本的细密处理可能违背Chekhov部分意图，却同时参与催生了后来Stanislavski体系，也帮助Chekhov戏剧取得舞台生命。
+
+因此更准确的关系是：
+
+> **mutual dependency + productive mismatch。**
+
+而不是：
+
+> Chekhov = Stanislavski method。
+
+##### 第三修订：《樱桃园》喜剧 / 悲剧争执不是小花絮
+
+James N. Loehlin与Smeliansky共同说明：
+
+- Chekhov坚持 *The Cherry Orchard* 是comedy，部分地方甚至farce；
+- Stanislavski从另一端把它感受为深刻的悲剧；
+- Chekhov后来甚至抱怨MAT把戏弄坏了；
+- 但MAT又确实参与建立了后来全球性的“Chekhov theatre”。
+
+因此这个争执的价值不是决定：
+
+> “到底作者对还是导演对？”
+
+而是暴露：
+
+> **文本同时允许pain与comedy、失去与滑稽、社会死亡与日常继续并存。**
+
+这正是Rule AJ应继续深化的地方。
+
+##### 第四修订：Aronson必须标明“这是一个强解释”
+
+Arnold Aronson提出：
+
+> Chekhov是“被困在Naturalist theatre里的Symbolist playwright”。
+
+这是一条非常有启发性的scenography论点，但以后不能把它写成无争议的历史事实。
+
+最稳妥的用途是：
+
+> **C层强解释，用来攻击“Chekhov = 道具越多越真实”的naive naturalism。**
+
+真正较稳的证据是Chekhov本人强调：
+
+- stage是art；
+- 并没有天然“第四墙”；
+- 不需要superfluous detail。
+
+##### 新增中文低门槛替代 B2′
+
+**杨莉莉：《欧陆舞台上的契诃夫》**
+
+- 《PAR表演艺术杂志》
+- 第17期
+- 1994年3月
+- 机构：台湾两厅院表演艺术图书馆 / PAR
+- 稳定链接：<https://par.npac-ntch.org/cn/article/doc/D99EPH3JCK>
+- 推荐范围：
+  - 契诃夫人物的ensemble / listening部分；
+  - Stanislavski导演处理与Chekhov分歧；
+  - 三种不同《樱桃园》舞台风貌；
+- 预计时间：**12–18分钟**
+- 语言：中文
+- 难度：低—中
+
+定位：
+
+> **它不是新增的第三份默认B，而是Smeliansky的中文低门槛替代。**
+
+英文可接受者仍以：
+
+> Loehlin + Smeliansky
+
+作为证据密度最高的默认组合。
+
+##### 默认成本
+
+> **仍维持25–30分钟。**
+
+Merlin是C；中文B2′是替代，不累计。
+
+---
+
+#### R7-15.5 Pirandello：1921不是“观众第一次见到meta”，而是剧场装置突然失去透明性
+
+v0.8的方向：
+
+> theatre apparatus itself becomes dramatic material
+
+经来源级复核后仍然是这一节点最准确的职责。
+
+但可以进一步精确。
+
+##### B2作者修正
+
+2024 *Pirandello in Context*：
+
+> “The Fourth Wall”, pp.170–178
+
+作者应明确为：
+
+> **W. B. Worthen**
+
+而不是无作者标题。
+
+Worthen这一章尤其重要，因为它把所谓“打破第四墙”重新历史化：
+
+- electrified theatre；
+- darkened auditorium；
+- proscenium；
+- acting “in character”；
+- spatial / conceptual audience separation；
+- lighting；
+
+共同构成了一个具体的modern theatre apparatus。
+
+于是Pirandello的动作不是：
+
+> 在戏剧自古以来天然存在的墙上打一个洞，
+
+而是：
+
+> **把一种近现代剧场制造出来、平常会隐身的观看机器突然显形。**
+
+##### “Characters比Actors更真实”必须具体化
+
+不能把它抽象成：
+
+> “虚构比现实更真实。”
+
+Pirandello的舞台悖论更具体：
+
+- Characters声称自己已经作为艺术形态被固定；
+- Actors却是会变化、会解释、会“演不像”的活人；
+- Director试图把Characters的事件重新生产成可演出的theatre；
+- Characters反过来拒绝Actor的representation。
+
+因此：
+
+> **“more real”首先是fixed artistic form与shifting living performance之间的冲突。**
+
+这会比泛泛“现实 / 虚构真假难辨”更接近作品的medium-specific问题。
+
+##### 1921首演现在精确到真正有用的C层
+
+v0.8的Jennifer Lorch Introduction仍可用，但若目标是用户特别要求的：
+
+> 1921首演及其历史意义，
+
+更精准的范围应改为：
+
+**Jennifer Lorch, “The first production: Teatro Valle, Rome, 9 May 1921, directed by Dario Niccodemi.”**
+
+- 收入：*Pirandello: Six Characters in Search of an Author*
+- Cambridge University Press
+- 2005
+- Chapter 2
+- pp.**31–43**
+- 预计时间：18–22分钟
+- 语言：英文
+- 难度：中
+- 定位：**C**
+
+同一本书随后还单列：
+
+> Chapter 6 “Pirandello’s production of the 1925 text”
+
+这提醒读者：
+
+> **我们今天说的“Six Characters”本身也有production / revision history；不能把1921首演状态与1925作者本人制作后的文本完全压成同一个静态对象。**
+
+默认路线不需要再读Chapter 6，但应知道这一事实。
+
+##### 为什么1921的意义不能缩成“首演观众震惊”
+
+真正的文学史 / 剧场史价值是：
+
+> 观众原本应当忽略的生产过程——排练、演员、导演、角色塑造、舞台幻觉——被作品主动做成了可见事件。
+
+所以Pirandello的历史位置应记成：
+
+> **theatre stops hiding the making of theatre。**
+
+这比：
+
+> “很先锋”“观众当年看不懂”“打破第四墙”
+
+都更有迁移价值。
+
+##### 默认成本
+
+> **仍维持18–22分钟。**
+
+Lorch首演史为C，不挤进默认路线。
+
+---
+
+#### R7-15.6 深化后的 Ibsen → Chekhov：真正变化的是“戏剧因果如何占据舞台时间”
+
+v0.8的比较保留，但现在可以写得更精确：
+
+##### Ibsen
+
+> ordinary bourgeois room  
+> + secrets / debts / documents  
+> + controlled entrances and exits  
+> + strong causal revelation  
+> + escalating interpersonal conflict  
+> → social order is compressed into a domestic machine
+
+##### Chekhov
+
+> house / estate  
+> + ensemble attention  
+> + apparently trivial tasks  
+> + pauses / interruptions / missed listening  
+> + decisive events displaced or de-emphasized  
+> + comedy and loss sharing the same stage time  
+> → social transformation is experienced as duration rather than only climax
+
+最重要的区别因此不是：
+
+> **Ibsen = realism；Chekhov = another realism。**
+
+而是：
+
+> **Ibsen让社会因果进入房间并逐步收紧；Chekhov让重大变化渗入日常持续时间，使“事件”不再垄断戏剧意义。**
+
+这一比较也解释了为什么《樱桃园》的“低事件”不能翻译成：
+
+> nothing happens。
+
+真正变化的是：
+
+> **what counts as dramatic action。**
+
+---
+
+#### R7-15.7 本轮对“中文优先”的再次判定
+
+深化搜索特别检查了能否用中文材料整体替换Round 7现有英文核心材料。
+
+结论：
+
+> **不能为了中文而降质。**
+
+五部戏的核心职责高度依赖：
+
+- performance history；
+- theatre architecture；
+- chorus studies；
+- production disagreement；
+- scenography；
+- metatheatre apparatus；
+
+而普通中文“名作赏析”大量仍以主题 / 人物 / 思想意义为中心。
+
+本轮没有找到足以整体替换：
+
+- Goldhill / Hall；
+- Neill / Folger；
+- Grene；
+- Loehlin / Smeliansky；
+- Witt / Worthen；
+
+的短篇高质量中文组合。
+
+但出现一个真正值得保留的例外：
+
+> **杨莉莉《欧陆舞台上的契诃夫》可作为《樱桃园》B2的中文低门槛替代。**
+
+因此“中文优先但不降质”在戏剧Round应理解为：
+
+> **中文材料有同等职责覆盖时优先；否则保留精准英文小范围，并尽量把阅读范围切小。**
+
+不是追求五部戏形式上的“中文配额”。
+
+---
+
+#### R7-15.8 新增通用规则
+
+##### Rule AL — Audience institution ≠ audience demography
+
+正式冻结：
+
+> **一部戏所处的公共 / civic观看制度，不能直接等同于实际观众人口构成。**
+
+适用：
+
+- ancient Athens；
+- Elizabethan public theatre；
+- 后续任何“观众=某阶级/某公民群”的概括。
+
+研究时必须分开：
+
+1. theatre institution怎样组织观看；
+2. historical spectators实际上可能是谁。
+
+---
+
+##### Rule AM — Convention affords; it does not dictate
+
+正式冻结：
+
+> **舞台惯例提供表演可能性，不自动规定唯一表演方式。**
+
+例如：
+
+- Shakespearean thrust stage使actor–audience关系更直接成为可能；
+- 不等于每段soliloquy都必须用同一种direct address；
+- Chekhov的pause也不是每处都有固定“正确秒数”。
+
+因此：
+
+> historical convention ≠ actor instruction manual。
+
+---
+
+##### Rule AN — Stage innovation is often refunctioning, not invention
+
+Ibsen节点正式建立：
+
+> **舞台史上的重大创新经常不是发明一个从未存在的装置，而是让已有技术承担新的审美 / 社会功能。**
+
+box set、real furniture、imagined fourth wall都有前史。
+
+Ibsen的路线价值在于：
+
+> **ordinary bourgeois interior获得新的dramatic seriousness与social density。**
+
+这条规则与此前Rule P“奠基≠单一起源发明”形成跨文类对应。
+
+---
+
+##### Rule AO — Productive mismatch can found a tradition
+
+Chekhov / Stanislavski把Rule AJ再推进一步：
+
+> **作者与导演之间的错位不只暴露作品开放性；某些错位本身甚至可能生产新的表演传统。**
+
+1896 / 1898 *The Seagull*与后来MAT传统说明：
+
+> 一个有历史影响力的production未必等于“终于找到了作者唯一正确的舞台说明书”。
+
+因此评估制作史时应问：
+
+> **这次interpretive mismatch生产了什么新的theatre practice？**
+
+而不是只问：
+
+> 谁忠于原作？
+
+---
+
+#### R7-15.9 v0.9后的有效默认材料与时间
+
+| 作品 | v0.9默认结构 | 时间 |
+|---|---|---:|
+| 《安提戈涅》 | Rayor舞台几何微A + Goldhill civic audience微A + Hall B | **35–42分钟** |
+| 《哈姆雷特》 | Folger Shakespeare theatre微A + Neill B1 + Cambridge performance B2 | **28–37分钟** |
+| 《玩偶之家》 | 直接读 + Grene B | **25–30分钟** |
+| 《樱桃园》 | 直接读 + Loehlin B1 + Smeliansky B2；杨莉莉可替B2 | **25–30分钟** |
+| 《六个寻找作者的剧中人》 | 直接读 + Witt B1 + Worthen B2 | **18–22分钟** |
+| **Round 7合计** | 已含最小舞台史 | **131–161分钟** |
+
+即约：
+
+> **2小时11分—2小时41分。**
+
+相比v0.8约增加：
+
+> **8—9分钟级别。**
+
+这部分新增成本全部用于两处真正改变阅读体验的物理校准：
+
+- ancient Greek stage / chorus；
+- Shakespearean actor–audience space。
+
+没有为了“更学术”而增加长篇理论必读。
+
+C层仍不计入默认完成路线：
+
+- Andújar；
+- Carter；
+- Wiles；
+- Moi；
+- Aronson；
+- Merlin；
+- Lorch；
+
+都只在读者主动深入相应舞台问题时进入。
+
+---
+
+#### R7-15.10 深化复核后的最终舞台谱系
+
+Round 7最终不应记成几个戏剧史标签：
+
+> Greek tragedy → Shakespeare → realism → Chekhov → metatheatre
+
+而应记成五次对：
+
+> **“什么构成戏剧事件，以及观众怎样被安置在事件中”**
+
+的重新组织：
+
+> **Antigone**  
+> public festival / chorus / collective looking  
+> ↓  
+> **Hamlet**  
+> publicly performed privacy + theatre watches theatre  
+> ↓  
+> **A Doll's House**  
+> ordinary private interior becomes a social machine  
+> ↓  
+> **The Cherry Orchard**  
+> dramatic causality disperses into ensemble, duration and missed connection  
+> ↓  
+> **Six Characters**  
+> the machinery that produces representation becomes the action itself
+
+这条谱系的真正价值是：
+
+> **它让普通文学读者从“剧本写了什么”切换到“剧场让什么事情发生”。**
+
+这是Round 7经过第二次深研后最重要、也最可迁移的方法发现。
+
+---
+
+#### R7-15.11 对Round 8的新增硬约束
+
+在R7-14基础上，再增加四项：
+
+1. **Brecht：**
+   不能把alienation概括成“破第四墙”；必须继续区分：
+   - actor–audience relation；
+   - narration / demonstration；
+   - visible theatrical machinery；
+   - spectator judgment。
+
+2. **The Island：**
+   复用《安提戈涅》时必须区分：
+   - ancient civic / choral performance institution；
+   - modern political Antigone reception；
+   - prison performance本身。
+   不能把2500年的接受史压成“一直都是反抗国家”。
+
+3. **Cloud Nine：**
+   cross-casting必须按Rule AM处理：
+   > casting convention提供什么身体—观众关系，
+   而不是把演员身体简单翻译成一个固定身份寓意。
+
+4. **Soyinka：**
+   不得因为已经学过Greek chorus，就把Yoruba ritual / music / collectivity机械类比成“非洲版chorus”。
+   Round 8必须重新建立其自身performance ontology。
+
+---
+
+
 # 12. 变更日志
+
+
+## v0.9 — 2026-10-05
+
+对已经完成的Round 7进行第二轮来源级深化复核；不重复研究五部戏，而对v0.8做定点校准。
+
+主要更新：
+
+1. 《安提戈涅》新增Diane J. Rayor Introduction约pp.xiii–xiv作为3–4分钟舞台几何微A层；Goldhill继续负责civic/public观看制度，并用David Kawalko Roselli校准“civic institution ≠ homogeneous audience demography”；
+2. Andújar书目精确为 *Playing the Chorus in Greek Tragedy* Chapter 4 §4.3.3 “The Reticent Chorus in Sophocles’ Antigone”, pp.261–273；
+3. 《哈姆雷特》由“完全不预读”修订为Folger Shakespearean theatre 5–7分钟微A层，用thrust stage / visible audience / low-scenery conditions校准soliloquy；同时强调historical convention提供affordance而非规定唯一direct-address演法；
+4. “Hamlet in performance”书目归属修正：William Shakespeare原作，Richard Andrews / Rex Gibson为版本编者，不再把二人直接列为该节作者；
+5. 《玩偶之家》明确Ibsen没有发明box set / fourth wall；真正创新是让已有舞台技术重新承担ordinary bourgeois interior的严肃社会意义；Ibsen→Chekhov比较由“well-made plot”谱系标签改写为强因果/秘密/揭露机制 vs ensemble/duration/weak overt action；
+6. Toril Moi C层精确到Chapter 7 “First and Foremost a Human Being”, pp.188–220，DOI 10.1093/oso/9780199295876.003.0008；
+7. 《樱桃园》进一步把subtext从“隐藏台词”改为tempo / pause / gesture / listening / blocking / missed connection等可表演变量；新增Bella Merlin 1999 pp.218–227作为1896《海鸥》失败→1898 MAT复排的C层历史铰链；
+8. Chekhov / Stanislavski关系修订为mutual dependency + productive mismatch，不再接受“Stanislavski是Chekhov正确说明书”；Arnold Aronson的“Symbolist playwright trapped in a Naturalist theatre”明确降为C层强解释而非中性事实；
+9. 新增中文低门槛替代：杨莉莉《欧陆舞台上的契诃夫》（PAR表演艺术杂志，第17期，1994年3月），可替代Smeliansky B2但不叠加预算；
+10. Pirandello B2补全作者W. B. Worthen；“Characters more real”精化为fixed artistic form vs shifting living performance；Jennifer Lorch C层精确到Chapter 2首演史pp.31–43，并明确1921首演与1925作者制作/修订具有不同production history；
+11. 新增Rule AL–AO：audience institution≠audience demography；convention affords, not dictates；stage innovation often refunctions existing technology；productive mismatch can found a tradition；
+12. Round 7默认辅助成本修订为约131–161分钟，即约2小时11分—2小时41分；增量只用于古希腊与莎士比亚舞台物理校准，不扩张成剧场史课程。
+
+
 
 
 
