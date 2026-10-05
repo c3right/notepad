@@ -9627,7 +9627,1764 @@ Round 7最终不应记成几个戏剧史标签：
 ---
 
 
+
+## Round 8 — 戏剧：政治剧 → 荒诞 → 后殖民 → 当代舞台
+
+**状态：COMPLETED**
+
+研究对象：
+
+- Bertolt Brecht《母亲勇气和她的孩子们》；
+- Samuel Beckett《等待戈多》；
+- Athol Fugard / John Kani / Winston Ntshona《岛》；
+- Caryl Churchill《Cloud Nine》；
+- Wole Soyinka《死亡与国王的侍从》。
+
+Round 8不是把五部戏分别塞进：
+
+- 史诗剧；
+- 荒诞派；
+- 后殖民戏剧；
+- 女性主义戏剧；
+- 非洲仪式戏剧；
+
+几个标签中。
+
+Round 7已经建立的核心问题继续生效：
+
+> **剧本不是等待被朗读的小说；必须问剧场让什么事情发生。**
+
+因此本轮统一从四个维度验收：
+
+1. **演员身体怎样工作？**
+2. **舞台时间 / 空间怎样组织行动？**
+3. **观众被安排成什么样的观看者？**
+4. **实际制作史是否改变了作品的意义？**
+
+本轮最终形成的五节点不是“西方戏剧越来越实验”的进化线，而是五种完全不同的观演重组：
+
+> **Brecht**：让社会因果和表演装置变得可判断；  
+> **Beckett**：让观众实际经历等待、重复和身体受限；  
+> **The Island**：让被国家控制的身体转化成自我组织的表演身体；  
+> **Cloud Nine**：让演员身体与角色身份之间的错位本身成为论证；  
+> **Soyinka**：让音乐、舞蹈、节奏、仪式和共同体行动共同承担戏剧意义。
+
+---
+
+### R8-1. Brecht《母亲勇气和她的孩子们》
+
+#### 本路线中的职责：不是“破第四墙”，而是把社会行为变成可观察、可比较的东西
+
+1. 建立Brecht式political / epic / dialectical theatre的实际工作方式；
+2. 让读者看到：
+   - scene title / placard；
+   - episodic structure；
+   - song；
+   - visible theatricality；
+   - Gestus；
+   并不是“先锋装饰”，而是重新安排观众注意力；
+3. 战争与经济不是背景，而通过Courage的生意、孩子、车、道具和交易成为同一行动系统；
+4. 演员不是完全“消失进角色”，而可以同时：
+   - 进入人物；
+   - 又显示人物的社会行为；
+5. 观众不是被要求没有感情，而是要能在感情之外继续：
+   - 比较；
+   - 观察；
+   - 判断；
+   - 想象其他可能；
+6. 建立一个对后续Churchill极重要的观众模型：
+   > **spectator as inquirer / judge，而不是单纯被故事带走的人。**
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “间离效果就是不让观众有感情。”
+
+不成立。
+
+Brecht反对的是：
+
+> **让认同吞掉观察与判断。**
+
+Katja Frimberger对Helene Weigel的分析特别有用，因为她指出Brecht并不彻底排斥empathy；演员可以进入角色，但还必须能够“出来”，使行为重新变成可看的社会动作。
+
+因此：
+
+> **emotion ≠ enemy；unexamined identification才是问题。**
+
+##### 误读二
+
+> “间离 = 演员直接跟观众说话 / 打破第四墙。”
+
+太窄。
+
+《母亲勇气》真正重要的装置包括：
+
+- 场景开始前预告结果；
+- episodic scenes；
+- songs评论已经发生 / 正在发生的行动；
+- 演员显示互相矛盾的态度；
+- props与gesture暴露经济关系；
+- history被陌生化，使现在看起来不是天然如此。
+
+第四墙只是可能涉及的局部现象。
+
+##### 误读三
+
+> “Courage就是一个贪婪、没学到教训的反面教材。”
+
+这仍然把作品退回角色道德评语。
+
+真正需要观察的是：
+
+> **她为什么能够同时爱孩子、看穿战争话语、依赖战争生存、又不断参与使灾难持续的经济关系？**
+
+Weigel式Gestus的重要性正是在于：
+
+> 不把这些矛盾“演顺”。
+
+##### 误读四
+
+> “Brecht设计好技术，观众自然就会得到正确政治结论。”
+
+Laura Bradley对实际spectator records的研究直接否定这一点。
+
+即使有非常清楚的estrangement devices：
+
+> **观众仍可能按旧习惯强烈认同Courage，而没有采取Brecht期待的批判位置。**
+
+因此：
+
+> **舞台可以solicit一种观看姿态，但不能guarantee一种观众反应。**
+
+这会成为本轮一个新Rule。
+
+#### 阅读前材料
+
+> **不建议预读，直接读剧本更好。**
+
+但第一次读时有一个操作要求：
+
+> **不要跳过每一场前的标题 / 事件预告、歌曲和舞台说明。**
+
+这些不是“剧透”或附属材料。
+
+恰恰相反：
+
+> **提前告诉你会发生什么，本身就是Brecht改变观看方式的手段之一。**
+
+#### 阅读后核心材料 B1
+
+**Robert Leach, “Mother Courage and Her Children.”**
+
+- 收入：*The Cambridge Companion to Brecht*
+- Cambridge University Press
+- 2nd ed., 2006
+- pp. **132–142**
+- DOI：<https://doi.org/10.1017/CCOL0521857090.009>
+- 预计时间：15–18分钟
+- 语言：英文
+- 难度：中
+
+为什么保留：
+
+这11页把作品放回：
+
+- 1930年代反法西斯语境；
+- realism / modernism争论；
+- Brecht的政治戏剧实践；
+- 作品自身形式；
+
+一起看。
+
+它不会把《母亲勇气》缩成：
+
+> “战争很坏 / 商人逐利”。
+
+#### 阅读后核心材料 B2：真正看Gestus怎样落到演员和道具上
+
+**Katja Frimberger, “‘Cultivating the Art of Living’: The Pleasures of Bertolt Brecht’s Philosophising Theatre Pedagogy.”**
+
+- *Studies in Philosophy and Education*
+- Vol. 41
+- 2022
+- pp. **653–668**
+- DOI：<https://doi.org/10.1007/s11217-022-09852-6>
+- Open Access
+- 本路线推荐范围：
+  - “Mother Courage and her Children: A Lesson in Verfremdung”
+  - “Playing The Situation of War as an Experimental Situation”
+- 预计时间：12–15分钟
+- 语言：英文
+- 难度：中
+
+为什么它比泛读Brecht理论更合适：
+
+它直接用：
+
+- Helene Weigel；
+- Courage的车；
+- chicken；
+- wooden spoon；
+- song；
+- contradictory gesture；
+
+解释Gestus怎样工作。
+
+读完应该获得的不是：
+
+> “间离效果定义”。
+
+而是：
+
+> **演员如何让一个人的行为同时呈现为“这个人的选择”和“社会条件塑造的行为”。**
+
+文章还明确纠正：
+
+> Brecht不是简单拒绝一切empathy与emotion。
+
+#### 1949生产史：知道即可，不增加默认材料
+
+1949年1月11日，Brecht与Erich Engel在Deutsches Theater共同导演《母亲勇气》，Helene Weigel出演Courage。
+
+此后形成著名的：
+
+> **Couragemodell / model book**
+
+以照片和排练记录保存演出方法，并被用于后续制作。
+
+这一历史很重要，因为它说明：
+
+> Brecht不仅写理论，也试图把production practice本身变成可研究、可传递的对象。
+
+但按照Rule AM / AN，不应把它反过来变成：
+
+> “所有后来的《母亲勇气》必须复制1949年演法。”
+
+普通读者知道这一事实即可，不另加默认阅读成本。
+
+参考：
+
+- David Barnett, “The Berliner Ensemble,” *Bertolt Brecht in Context*, Cambridge UP, 2021, pp.105–112；
+- Berliner Ensemble历史影像 / 说明：
+  <https://www.berliner-ensemble.de/stream-mutter-courage-und-ihre-kinder>
+
+#### 可选深入 C
+
+**Laura Bradley, “Blindness and (In)Sight: The Life of Galileo, Mother Courage and her Children, and The Good Person of Szechwan.”**
+
+- 收入：*Brecht and the Art of Spectatorship*
+- Oxford University Press
+- 2025
+- Chapter 6
+- pp. **189–221**
+- 预计时间：40–50分钟
+- 语言：英文
+- 难度：高
+
+这章真正新增的是：
+
+> **Brecht想要什么样的观众，与历史上观众实际上怎样反应，是两个不同问题。**
+
+它利用rehearsal notes和spectator records说明：
+
+- 舞台装置不能自动制造批判性；
+- 一些观众依然把Courage主要读成值得同情的悲剧母亲；
+- spectatorship本身是一个不稳定变量。
+
+因此只给想继续研究：
+
+> **political theatre到底能不能“教会”观众什么**
+
+的人。
+
+#### 默认辅助成本
+
+> **B1 15–18分钟 + B2 12–15分钟 = 27–33分钟。**
+
+---
+
+### R8-2. Beckett《等待戈多》
+
+#### 本路线中的职责：不是“人生荒诞”，而是重新定义什么叫戏剧行动
+
+1. 把传统“事件推进”压到极低；
+2. 让：
+   - waiting；
+   - repetition；
+   - routine；
+   - pause；
+   - silence；
+   - bodily difficulty；
+   - props；
+   变成舞台行动；
+3. 第一幕 / 第二幕的大量重复不是原地复制，而是让观众注意：
+   > **重复中的微差；**
+4. 舞台极简不等于形式松散；
+5. actors的身体、帽子、靴子、树、绳索等承担大量戏剧任务；
+6. “我们走吧 / 他们不动”之类的冲突只有在舞台上才真正成立；
+7. 观众不只是“理解等待这个主题”，而是：
+   > **实际和人物一起花费时间。**
+
+因此《等待戈多》最重要的戏剧史职责不是：
+
+> “荒诞派代表作”。
+
+而是：
+
+> **把duration本身提升为dramatic material。**
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “戈多到底象征上帝、希望还是死亡？”
+
+可以解释，但不应该成为默认阅读协议。
+
+Beckett本人长期拒绝给Godot提供单一钥匙。
+
+把整部戏变成：
+
+> X = Godot
+
+会直接丢掉舞台上真正正在发生的：
+
+- 等；
+- 忘；
+- 重复；
+- 玩；
+- 穿脱；
+- 站不稳；
+- 无法离开。
+
+##### 误读二
+
+> “什么都没发生。”
+
+恰恰相反：
+
+> **作品把“发生”的定义换掉了。**
+
+它不再依赖强情节，而让观众辨认：
+
+- 同样的动作是否真的一样；
+- 记忆怎样失效；
+- 身体怎样拖住语言；
+- 时间怎样既过去又像没有过去。
+
+##### 误读三
+
+> “极简舞台意味着导演可以随便发挥。”
+
+Beckett自己的导演实践反而表明：
+
+> **越少的舞台资源，越可能要求非常严格的节奏、位置、重复和动作结构。**
+
+“minimal”不能翻译成：
+
+> formless。
+
+##### 误读四
+
+> “荒诞主义”解释完了作品。
+
+“荒诞”是历史标签，不是舞台机制。
+
+对普通文学读者真正重要的是：
+
+> **为什么两个人站在那里等待，会形成足够强的剧场？**
+
+#### 阅读前材料
+
+> **不建议预读，直接读作品更好。**
+
+尤其不要先读：
+
+- 荒诞派定义；
+- Godot象征大全；
+- 存在主义标准答案。
+
+但第一次读时：
+
+> **舞台说明、pause、silence、人物“不动”必须与对白同等认真读。**
+
+#### 阅读后核心材料 B1
+
+**Andrew K. Kennedy, “Waiting for Godot.”**
+
+- 收入：*Samuel Beckett*
+- Cambridge University Press
+- 1989
+- pp. **24–46**
+- DOI：<https://doi.org/10.1017/CBO9780511659430.005>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：低—中
+
+为什么选它：
+
+Kennedy一开始就提醒：
+
+> 新读者最大的危险可能不是“不懂”，而是已经背着太多二手解释进入经典。
+
+随后他直接从：
+
+- 几乎空的stage；
+- one tree；
+- road / stage；
+- uncertainty；
+- waiting；
+
+进入作品。
+
+非常符合本项目的顺序：
+
+> **先让剧场经验成立，再解释。**
+
+#### 阅读后核心材料 B2：Beckett本人导演时怎样处理“少”
+
+**Walter D. Asmus, “Beckett Directs Godot.”**
+
+- 收入：*On Beckett: Essays and Criticism*
+- Anthem Press
+- 2012
+- pp. **209–217**
+- DOI：<https://doi.org/10.7135/UPO9780857285805.020>
+- 预计时间：10–12分钟
+- 语言：英文
+- 难度：中
+
+这是极短但很关键的production材料。
+
+它记录Beckett在Schiller Theater导演《等待戈多》的工作过程。
+
+对普通读者最大的校准是：
+
+> **作品看起来“没什么”，并不意味着表演过程不精密。**
+
+节奏、重复、动作、演员之间的关系需要高度组织。
+
+#### 中文低门槛补充 B2′
+
+**李言实：《贝克特戏剧在中国的影响和接受》**
+
+- 《戏剧》
+- 2020年第3期
+- pp. **124–144**
+- 推荐只读：
+  > **“身体的复活”小节**
+- 预计时间：5–8分钟
+- 语言：中文
+- 难度：低
+
+这一小节直接抓到《等待戈多》的舞台机制：
+
+- 嘴里说“走”；
+- 身体却不动；
+- 穿鞋脱鞋；
+- 玩帽子；
+- 身体动作反过来瓦解语言。
+
+它适合作为：
+
+> **中文快速补充**
+
+但不能完全替代Asmus的production evidence。
+
+#### 可选深入 C
+
+**Michael Worton, “Waiting for Godot and Endgame: theatre as text.”**
+
+- 收入：*The Cambridge Companion to Beckett*
+- Cambridge University Press
+- 1994
+- pp. **67–87**
+- DOI：<https://doi.org/10.1017/CCOL0521413664.004>
+- 预计时间：25–30分钟
+- 语言：英文
+- 难度：中—高
+
+它最有价值的作用是：
+
+> 抵抗“解码冲动”。
+
+Beckett对各种单一解释始终保持距离。
+
+因此C层读者应该进一步学会：
+
+> **uncertainty不是等待被批评家消除的缺陷，而是作品的构成材料。**
+
+#### 默认辅助成本
+
+> **B1 25–30分钟 + B2 10–12分钟 = 35–42分钟。**
+
+---
+
+### R8-3. Fugard / Kani / Ntshona《岛》
+
+#### 本路线中的职责：不是“把《安提戈涅》搬到南非”，而是身体在国家控制与自我表演之间夺回行动权
+
+1. apartheid / political imprisonment提供历史条件；
+2. 但监狱不是主题背景，而直接落在：
+   - forced labour；
+   - exhaustion；
+   - discipline；
+   - confined space；
+   - bodily routine；
+   上；
+3. 开场劳动mime使：
+   > **身体先于政治演说成为舞台事实；**
+4. 随后同一组身体从：
+   > **被迫劳动的身体 → 排练身体 → 扮演Antigone / Creon的身体**
+   发生连续转换；
+5. 《安提戈涅》不是引用彩蛋，而成为prison performance；
+6. 作品具有double audience：
+   - 剧内的warders / prisoners；
+   - 剧外真正的观众；
+7. workshop / devising过程属于作品形式史，而不是幕后花絮；
+8. 必须正确记录共同创作：
+   > Athol Fugard + John Kani + Winston Ntshona。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “这是《安提戈涅》的现代改编版。”
+
+不够。
+
+更准确的是：
+
+> **两个政治犯为什么需要在监狱里演《安提戈涅》？**
+
+一旦加入：
+
+- prison audience；
+- rehearsal；
+- costume；
+- role embarrassment；
+- warder gaze；
+- actual theatre audience；
+
+Sophocles原作的功能就已经被改变。
+
+因此执行Bridge-after-destination：
+
+> **先读完整《岛》，再回看《安提戈涅》；不要在阅读前把它预装成“永恒反抗国家的故事”。**
+
+##### 误读二
+
+> “核心就是apartheid压迫。”
+
+政治背景当然不可省。
+
+但如果只剩主题：
+
+> prison / oppression / resistance，
+
+就会看不见戏最强的媒介逻辑：
+
+> **国家试图把身体变成受控劳动机器；戏剧则让同一身体重新取得角色、声音和观看关系。**
+
+##### 误读三
+
+> “这是Fugard的戏，Kani和Ntshona是原创演员。”
+
+必须纠正。
+
+Zakes Mda明确批评长期把：
+
+> *Sizwe Bansi Is Dead*和*The Island*
+
+仅称作“Athol Fugard’s plays”的习惯。
+
+他强调：
+
+> 没有Kani与Ntshona，这两部作品不会存在。
+
+因此共同署名不是礼貌性补充，而是：
+
+> **作品生成方式的一部分。**
+
+##### 误读四
+
+> Winston演Antigone只是“男性反串女性”的象征手法。
+
+这会丢掉一个很复杂的层次：
+
+- prison masculinity；
+- humiliation；
+- costume；
+- political courage；
+- gendered vulnerability；
+
+在同一表演中交叉。
+
+这一层放C，不在第一次读之前讲死。
+
+#### 阅读前材料 A：只补最低限度的监狱物理背景
+
+**Robben Island Museum, “Prison Period Overview.”**
+
+- 机构：Robben Island Museum
+- 稳定链接：
+  <https://www.robben-island.org.za/prison-period-overview/>
+- 推荐只读：
+  - 1946–1970；
+  - 1961–1991；
+  两个短段
+- 预计时间：4–6分钟
+- 语言：英文
+- 难度：低
+- 剧透：无
+
+只需要知道：
+
+- Robben Island长期被用于监禁；
+- apartheid时期maximum security prison关押大量政治犯；
+- hard labour是监禁制度的一部分。
+
+这样开场身体劳动不再只是：
+
+> “象征性动作”。
+
+#### 阅读后核心材料 B1
+
+**Brian Crow & Chris Banfield, “Athol Fugard and the South African ‘workshop’ play.”**
+
+- 收入：*An Introduction to Post-Colonial Theatre*
+- Cambridge University Press
+- 1996
+- pp. **96–111**
+- DOI：<https://doi.org/10.1017/CBO9780511627675.007>
+- 预计时间：20–25分钟
+- 语言：英文
+- 难度：中
+
+这章的真正价值不是泛讲apartheid。
+
+它把：
+
+> **workshop theatre**
+
+作为South African theatre practice处理。
+
+这正好解释《岛》为什么不能仅作为printed text理解。
+
+#### 阅读后核心材料 B2：5页解决“谁创作了这部戏”
+
+**Zakes Mda, Introduction to John Kani’s *Nothing but the Truth*.**
+
+- Wits University Press
+- 2002
+- pp. **v–ix**
+- Cambridge / Wits稳定页面：
+  <https://www.cambridge.org/core/books/abs/nothing-but-the-truth/introduction/9CF4AE4A2492D1BE7CB5E992AEB237E4>
+- 预计时间：5–7分钟
+- 语言：英文
+- 难度：低—中
+
+为什么推荐一篇“不是直接分析《岛》”的前言：
+
+因为它用极短成本修正一个长期书目 / 文学史偏差：
+
+> **The Island不是Fugard单人作品。**
+
+Mda把作品定义为三位creator之间的：
+
+> creative synergy。
+
+这一校准非常符合本项目Rule V/W/AR：
+
+> 作品的生成关系本身会影响如何理解形式。
+
+#### 一条值得知道的production fact
+
+1973年The Space首演时，作品使用：
+
+> *Die Hodoshe Span*
+
+这一标题。
+
+Stellenbosch的ESAT theatre archive记录：
+
+- 最初开场digging sequence约20分钟；
+- 后来的演出缩短到约10分钟。
+
+即使不把这个数字当成所有版本的固定规则，它仍非常有启发性：
+
+> **强迫劳动不是剧情开始前的装饰，而曾经占据观众大量真实观看时间。**
+
+舞台首先让观众：
+
+> 看身体被耗尽。
+
+#### 可选深入 C1：身体 / incarceration
+
+**Chitra Jayathilake, “Muselmann: Incarceration and the Mobilised Body in Athol Fugard, John Kani and Winston Ntshona’s The Island.”**
+
+- *African Studies*
+- Vol.77, No.4
+- 2018
+- pp. **607–625**
+- DOI：<https://doi.org/10.1080/00020184.2018.1497289>
+- 预计时间：25–30分钟
+- 难度：高
+
+适合继续追：
+
+> prison怎样通过身体控制完成政治暴力，以及身体又怎样被重新mobilise为抵抗媒介。
+
+#### 可选深入 C2：《安提戈涅》+ gender / performance
+
+**Rush Rehm, “‘If You are a Woman’: Theatrical Womanizing in Sophocles’ Antigone and Fugard, Kani, and Ntshona’s The Island.”**
+
+- 收入：*Classics in Post-Colonial Worlds*
+- Oxford University Press
+- 2007
+- pp. **211–227**
+- DOI：<https://doi.org/10.1093/acprof:oso/9780199296101.003.0013>
+- 预计时间：20–25分钟
+- 难度：中—高
+
+它不只讲“Antigone = resistance”。
+
+更重要的是：
+
+> Winston进入Antigone角色时，政治抵抗与gendered performance缠在一起。
+
+#### 默认辅助成本
+
+> **A 4–6分钟 + B1 20–25分钟 + B2 5–7分钟 = 29–38分钟。**
+
+---
+
+### R8-4. Caryl Churchill《Cloud Nine》
+
+#### 本路线中的职责：actor body本身成为政治 / 历史语法
+
+1. 从Brecht继承“观众要看见representation正在被制造”，但进一步把：
+   > **casting本身变成形式；**
+2. 第一幕殖民地家庭空间同时组织：
+   - empire；
+   - gender；
+   - sexuality；
+   - family hierarchy；
+3. Betty由男性演员扮演、Joshua由白人演员扮演等安排，使：
+   > **角色身份与舞台身体不重合；**
+4. 第二幕又重新分配身体 / 角色关系；
+5. 第一幕约Victorian colonial Africa，第二幕进入1979 London；
+6. 历史跨越约一百年，人物只老了约25年；
+7. 因此：
+   > **political history改变得比embodied habit快；**
+8. Joint Stock workshop是重要生成条件，但：
+   > workshop collaboration ≠ collective authorship；
+9. 观众必须同时看：
+   - character；
+   - actor；
+   - casting choice；
+   - historical change；
+   这几层。
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “cross-casting就是告诉观众gender是表演出来的。”
+
+方向有道理，但太快。
+
+Rule AM继续有效：
+
+> **casting convention提供一种观看关系，不自动给出唯一寓意。**
+
+演员的：
+
+- gender；
+- race；
+- age；
+- role assignment；
+
+如何被观众感知，会随production和历史语境改变。
+
+##### 误读二
+
+> “这是一篇gender / queer politics主题剧。”
+
+主题当然存在。
+
+但作品的独特路线价值是：
+
+> **这些政治问题被放进演员身体和casting结构中。**
+
+不是只靠人物说出来。
+
+##### 误读三
+
+> “Joint Stock集体即兴创作了Cloud Nine。”
+
+需要精确。
+
+Churchill本人说明：
+
+- Joint Stock先围绕sexual politics进行workshop；
+- actors / director / writer共同研究、谈话、即兴；
+- 随后Churchill离开workshop，独立写出script；
+- rehearsal阶段再修改。
+
+因此与《岛》不同：
+
+> **Cloud Nine是workshop-informed authorship，不是三位creator共同devised的同一种模式。**
+
+##### 误读四
+
+> “跨性别 / 跨种族casting天然具有解放性。”
+
+James Harding正好攻击这一点。
+
+一种表演装置即使设计得很radical：
+
+> **实际production仍可能重新落回heteronormative、comfortable甚至reactionary的观看效果。**
+
+这与Round 8的Brecht spectator问题形成强呼应。
+
+#### 阅读前材料
+
+> **不设额外A层。**
+
+但必须强调：
+
+> **cast list、casting instruction、谁由什么身体来演，不是出版信息，而是剧本正文的一部分。**
+
+第一次阅读绝不能跳过。
+
+#### 阅读后核心材料 B1：作者自己的workshop说明
+
+**Caryl Churchill, “Introduction to Cloud Nine.”**
+
+- 收入：*Plays: One*
+- Methuen
+- 1985
+- 推荐范围：pp. **245–248**
+- ISBN：**9780413566706**
+- 预计时间：5–8分钟
+- 语言：英文
+- 难度：低
+
+为什么它ROI极高：
+
+Churchill自己说明：
+
+- Joint Stock怎样工作；
+- “sexual politics”怎样成为workshop起点；
+- personal experience怎样进入research；
+- workshop并没有直接产生最终人物 / 情节；
+- writer怎样在workshop后重新写成play。
+
+它能防止：
+
+> “devised theatre = 所有人共同写出最终script”
+
+这种粗糙归类。
+
+#### 阅读后核心材料 B2
+
+**Michael Patterson, “The strategy of play: Caryl Churchill’s Cloud Nine (1979).”**
+
+- 收入：*Strategies of Political Theatre: Post-War British Playwrights*
+- Cambridge University Press
+- 2003
+- pp. **154–174**
+- DOI：<https://doi.org/10.1017/CBO9780511486197.012>
+- 预计时间：20–25分钟
+- 语言：英文
+- 难度：中
+
+为什么不是再找一篇gender theory：
+
+Patterson把Cloud Nine放在：
+
+> **political theatre strategy**
+
+中理解。
+
+因此能够同时处理：
+
+- personal is political；
+- form；
+- comedy / play；
+- historical structure；
+- stage strategy；
+
+而不是把作品降成身份主题说明。
+
+#### 1979原制作：作为舞台事实保留
+
+Royal Court Living Archive记录：
+
+- 1979；
+- Royal Court + Joint Stock co-production；
+- Betty由男性演员出演；
+- Joshua由白人演员出演；
+- Act II转入1979 London。
+
+稳定页面：
+
+<https://livingarchive.royalcourttheatre.com/plays/cloud-nine-2/>
+
+普通读者不必另花时间阅读，但应该知道：
+
+> 这些casting不是后来理论家替剧本发明的抽象概念，而是作品早期production grammar的一部分。
+
+#### 可选深入 C：cross-casting并不自动“进步”
+
+**James M. Harding, “Cloud Cover: (Re)Dressing Desire and Comfortable Subversions in Caryl Churchill’s Cloud Nine.”**
+
+- *PMLA*
+- Vol.113, No.2
+- March 1998
+- pp. **258–272**
+- DOI：<https://doi.org/10.2307/463364>
+- 预计时间：20–25分钟
+- 语言：英文
+- 难度：高
+
+它的重要性就在于：
+
+> 不把“subversive casting”当作自动生效的技术。
+
+Harding认为某些production / reception可能重新把作品的sexual difference装回相对comfortable的heterosexual norms。
+
+即：
+
+> **radical device ≠ guaranteed radical effect。**
+
+与Brecht/Bradley形成直接横向呼应。
+
+#### 默认辅助成本
+
+> **B1 5–8分钟 + B2 20–25分钟 = 25–33分钟。**
+
+---
+
+### R8-5. Wole Soyinka《死亡与国王的侍从》
+
+#### 本路线中的职责：建立一套不能从Greek tragedy / Ibsen / Brecht直接翻译出来的performance grammar
+
+这是Round 8唯一升级包节点，也是戏剧路线纠正欧洲中心最关键的一站。
+
+核心职责：
+
+1. 不把Yoruba world当背景知识；
+2. 让读者看到：
+   - ritual；
+   - music；
+   - drumming；
+   - dance；
+   - praise-singing；
+   - marketplace collectivity；
+   - transition；
+   本身如何组织戏剧；
+3. 殖民力量不是可以忽略，但也不能把作品压成：
+   > “British vs Yoruba文化冲突”；
+4. Elesin的欲望、责任、失败属于悲剧发动机；
+5. music / dance不是氛围，而能承担：
+   - 信息；
+   -行动；
+   - 转场；
+   - 集体时间；
+6. 非Yoruba观众必须学会：
+   > **不只听对白，还要看 / 听非语言sign system；**
+7. 与Greek tragedy的比较可以做，但必须：
+   > **先建立作品自身语法，再比较。**
+
+#### 裸读最容易漏掉什么
+
+##### 误读一
+
+> “这是传统非洲文化 vs 英国殖民现代性的冲突。”
+
+Soyinka本人在Author’s Note中明确反对把作品贴上：
+
+> “clash of cultures”
+
+这一方便标签。
+
+他的意思不是殖民主义不重要。
+
+而是：
+
+> **殖民干预是catalytic incident；它打断的本来就是一个已经具有自身伦理、欲望、共同体和仪式张力的世界。**
+
+因此更准确的顺序是：
+
+1. 先理解Yoruba dramatic world怎样运行；
+2. 再看colonial intervention怎样进入并破坏它。
+
+##### 误读二
+
+> “Yoruba ritual就是非洲版Greek tragedy / chorus。”
+
+禁止。
+
+Round 7的Greek chorus只能帮助我们认识到：
+
+> performance collectivity可能重要。
+
+不能拿来当翻译字典。
+
+市场女性、Praise-Singer、音乐、舞蹈、仪式转换首先必须在：
+
+> **作品自己的Yoruba performance logic**
+
+中理解。
+
+##### 误读三
+
+> “music / dance是异域色彩。”
+
+Martin Rohmer指出，忽略visual / acoustic patterns会导致对Soyinka theatre的不完整理解。
+
+这里：
+
+> **非语言表演不是装饰，而是dramatic information system。**
+
+##### 误读四
+
+> “只要查清Yoruba习俗，作品就读懂了。”
+
+同样危险。
+
+Soyinka不是民族志作者。
+
+宋志明的中文研究特别值得注意的一点是：
+
+> Soyinka并非原封不动保存ritual，而会对ritual进行重构、反思甚至产生“反仪式”结构。
+
+因此：
+
+> tradition本身也在现代戏剧里被重新制造。
+
+这与Rule AE / AN呼应。
+
+#### 阅读前材料 A：本轮少数值得预读的作者说明
+
+**Wole Soyinka, “Author’s Note” to *Death and the King’s Horseman*.**
+
+推荐版本：
+
+- Methuen Drama Student Edition
+- 1998 / 后续重印
+- ISBN：**9780413695505**
+- Author’s Note位于正文前
+- 预计时间：4–6分钟
+- 语言：英文
+- 难度：中
+- 剧透：极轻
+
+为什么允许预读：
+
+它不会告诉读者情节答案，而是主动拆掉一个危险的预设：
+
+> **不要用“clash of cultures”一把钥匙读全剧。**
+
+同时它提醒：
+
+> 作品真正需要被舞台化的，是living / dead / unborn之间的transition以及与之相连的音乐世界。
+
+#### 阅读后核心材料 B1：先建立自身戏剧语法
+
+**Brian Crow & Chris Banfield, “Wole Soyinka and the Nigerian theatre of ritual vision.”**
+
+- 收入：*An Introduction to Post-Colonial Theatre*
+- Cambridge University Press
+- 1996
+- pp. **78–95**
+- DOI：<https://doi.org/10.1017/CBO9780511627675.006>
+- 预计时间：20–25分钟
+- 语言：英文
+- 难度：中—高
+- 建议：机器辅助阅读值得
+
+它的作用不是给读者背Yoruba神话人物表。
+
+核心是建立：
+
+> **ritual vision怎样成为theatre grammar。**
+
+这一步必须发生在任何：
+
+> Soyinka vs Sophocles
+
+比较之前。
+
+#### 阅读后核心材料 B2：真正把剧本放回演出
+
+**Martin Rohmer, “Wole Soyinka’s ‘Death and the King’s Horseman’, Royal Exchange Theatre, Manchester.”**
+
+- *New Theatre Quarterly*
+- Vol.10, Issue 37
+- February 1994
+- pp. **57–69**
+- DOI：<https://doi.org/10.1017/S0266464X00000099>
+- 预计时间：15–18分钟
+- 语言：英文
+- 难度：中
+
+这是本节点最不可替代的stage-practice材料。
+
+Rohmer明确指出：
+
+> 长期把Soyinka主要当literary text阅读，会因为忽略non-verbal conventions而损失其theatre idea。
+
+他重点分析：
+
+- visual patterns；
+- acoustic patterns；
+- music；
+- dance；
+- mise-en-scène；
+- intercultural production；
+
+并进一步追问：
+
+> European company / audience是否真正具备理解这种performance grammar的条件？
+
+这正好把本项目“普通文学读者需要多少舞台史”的问题推到极限。
+
+#### 中文替代 / 桥梁 B1′
+
+**宋志明：《约鲁巴神话与索因卡的“仪式戏剧”》**
+
+- 《文艺研究》
+- 2019年第6期
+- 稳定转载：
+  <https://www.sohu.com/a/326694383_745113>
+- 预计时间：15–20分钟
+- 语言：中文
+- 难度：中
+
+它的价值在于：
+
+- 不只讲“非洲神话”；
+- 强调Soyinka对神话 / ritual的提炼与重建；
+- 特别提出“反仪式”；
+- 避免把传统理解成静态保存物。
+
+定位：
+
+> **可作为Crow / Banfield的中文低门槛背景替代，但不能替代Rohmer的舞台实践材料。**
+
+#### 可选深入 C1：舞蹈不是插曲，而是dramatic storytelling
+
+**Omofolabo Ajayi-Soyinka, “Words to choreograph: Ritual archetypes of/at Esu’s crossroads.”**
+
+- *Atlantic Studies*
+- Vol.19, Issue 4
+- 2022
+- pp. **546–565**
+- DOI：<https://doi.org/10.1080/14788810.2021.1872279>
+- 预计时间：25–30分钟
+- 难度：高
+
+作者结合自己作为choreographer参与2008制作的经验，直接讨论：
+
+> *Death and the King’s Horseman*怎样依赖dance进行dramatic storytelling，以及英文台词的tonal qualities如何进入身体编排。
+
+这是本轮非常高价值的C层。
+
+#### 可选深入 C2：Greek comparison只能后置
+
+**Ato Quayson, “Ritual Dramaturgy and the Social Imaginary in Wole Soyinka’s Tragic Theatre.”**
+
+- 收入：*Tragedy and Postcolonial Literature*
+- Cambridge University Press
+- 2021
+- pp. **124–155**
+- DOI：<https://doi.org/10.1017/9781108921992.005>
+- 预计时间：40–50分钟
+- 难度：高
+
+Quayson会讨论与Greek tragedy可比较的：
+
+- chorus-function；
+- sacrifice；
+- polis；
+
+但按照本项目：
+
+> **只能在B1/B2之后读。**
+
+否则极容易违反本轮最重要的约束：
+
+> 先拿熟悉的欧洲模型去覆盖Yoruba theatre。
+
+#### 默认辅助成本
+
+> **A 4–6分钟 + B1 20–25分钟 + B2 15–18分钟 = 39–49分钟。**
+
+Soyinka是升级包节点，而且承担整条戏剧路线“非欧洲performance grammar”的结构性修正，因此允许略高于普通升级节点预算。
+
+---
+
+### R8-6. Round 8横向谱系：不是“主义更替”，而是观众身体关系的五次改写
+
+| 节点 | 舞台真正改变了什么 | 观众被安排成什么 |
+|---|---|---|
+| **Mother Courage** | scene预告、episodic structure、song、Gestus让社会行为显得可改变 | **inquirer / judge**：比较行动与条件，但反应并不被保证 |
+| **Waiting for Godot** | event弱化，duration / repetition / body / prop成为行动 | **co-waiter**：必须实际经历时间并辨认重复中的微差 |
+| **The Island** | 受控身体转成排练与扮演身体；Antigone成为prison performance | **double witness**：同时看监禁与囚犯制造counter-performance |
+| **Cloud Nine** | casting让actor body与social role持续错位；历史时间与人物时间断裂 | **comparator**：不断比较body / role / period之间的不重合 |
+| **Death and the King’s Horseman** | music / dance / ritual / collective action成为叙事和transition机制 | **multisensory witness**：必须听、看、感受多套sign systems，而非只听对白 |
+
+所以Round 8不是：
+
+> Brecht → absurdism → postcolonialism → feminism → African theatre
+
+而是：
+
+> **theatre不断改变“谁有权行动、什么算行动、观众以什么身体和注意力来观看”。**
+
+---
+
+### R8-7. 两种“workshop theatre”必须严格区分
+
+本轮出现一个非常重要、以后容易混淆的共享概念：
+
+> **collaboration / workshop。**
+
+#### 《岛》
+
+基本结构是：
+
+> Fugard + Kani + Ntshona  
+> 通过讨论、即兴、表演共同devising  
+> → 三人共同creator / authorial claim
+
+因此：
+
+> **生成过程直接影响署名。**
+
+#### Cloud Nine
+
+基本结构是：
+
+> Joint Stock workshop  
+> + actor / director / Churchill共同研究sexual politics  
+> → Churchill离开workshop写script  
+> → rehearsal再修订
+
+因此：
+
+> **生成过程深刻影响作品，但不等于所有参与者成为同一种意义上的co-author。**
+
+由此不能建立粗暴规则：
+
+> “只要workshop就叫collective creation。”
+
+必须看：
+
+- 谁贡献什么；
+- script怎样形成；
+- ownership / credit怎样记录；
+- actors的improvisation是否进入最终结构；
+- publication如何署名。
+
+这一发现会冻结为Rule AR。
+
+---
+
+### R8-8. 本轮主动淘汰的材料类型
+
+#### 1. Brecht = “禁止共情”
+
+不收。
+
+必须承认：
+
+> empathy可以是表演过程的一部分；关键是不能失去显示 / 比较行为的能力。
+
+#### 2. Brecht = “打破第四墙”
+
+不收。
+
+至少必须解释：
+
+- historicization；
+- episodic structure；
+- placard / title；
+- song；
+- Gestus；
+- spectator judgment。
+
+#### 3. 《母亲勇气》=“反战母亲悲剧”
+
+不收。
+
+若看不到：
+
+> war / economy / family / business
+
+如何形成同一个行动系统，则职责不足。
+
+#### 4. Beckett = “人生没有意义”
+
+不收。
+
+必须落到：
+
+- time；
+- repetition；
+- body；
+- pause；
+- prop；
+- failed departure。
+
+#### 5. Godot = 某一个固定象征
+
+不作为默认核心。
+
+可以成为C层解释之一，但不能取代stage experience。
+
+#### 6. 《岛》=“apartheid版《安提戈涅》”
+
+不收。
+
+必须加入：
+
+- incarceration body；
+- workshop / devising；
+- prison audience；
+- Kani / Ntshona共同创作；
+- performance as action。
+
+#### 7. 《岛》只署Fugard
+
+不收。
+
+这不是格式小错，而会扭曲作品的生成史。
+
+#### 8. Cloud Nine = “跨性别casting所以很先锋”
+
+不收。
+
+必须问：
+
+> **什么身体在演什么角色？观众因此同时看见了哪几层身份？不同production是否可能产生相反效果？**
+
+#### 9. Joint Stock = “集体写作”
+
+不收。
+
+必须区分workshop-informed writing与joint devising。
+
+#### 10. Soyinka = “文化冲突”
+
+不收。
+
+Soyinka本人已经明确警告这一reduction。
+
+#### 11. Yoruba ritual = “非洲版Greek chorus / Greek tragedy”
+
+不收。
+
+任何Greek comparison必须放到自身performance grammar建立之后。
+
+#### 12. music / dance = “异域气氛”
+
+不收。
+
+如果材料没有解释：
+
+> sound / movement怎样承担dramatic information，
+
+则舞台职责不合格。
+
+---
+
+### R8-9. 本轮形成的新Rule
+
+#### Rule AP — Spectator position can be solicited, not guaranteed
+
+Brecht + Churchill共同冻结：
+
+> **剧场装置可以邀请观众采取某种观看姿态，但不能保证观众最终得到某个政治 / 伦理结论。**
+
+因此：
+
+- estrangement ≠ automatic critical consciousness；
+- cross-casting ≠ automatic subversion。
+
+研究production时必须同时区分：
+
+1. intended spectator position；
+2. actual historical reception。
+
+---
+
+#### Rule AQ — Duration can be dramatic action
+
+Beckett正式建立：
+
+> **舞台上花掉的时间本身可以是行动。**
+
+等待、停顿、重复、无法离开并非：
+
+> action缺席后的空白。
+
+它们可以成为：
+
+> **观众必须实际经历的dramatic event。**
+
+这条规则也会反向帮助理解Chekhov：
+
+> weak overt event并不等于dramatic emptiness。
+
+---
+
+#### Rule AR — Collaboration mode must determine authorship claims
+
+《岛》与Cloud Nine共同建立：
+
+> **“workshop / collaboration”不是一种统一生产模式。**
+
+必须追问：
+
+- devised by whom；
+- written by whom；
+- improvised by whom；
+- revised by whom；
+- published / credited how。
+
+因此：
+
+> production history不是署名之外的花絮，而可以是authorship evidence。
+
+---
+
+#### Rule AS — Embedded performance changes the source text’s function
+
+《岛》正式建立：
+
+> **当一部旧作品被另一部戏中的角色实际“演出来”时，它已经不只是intertextual reference。**
+
+必须研究：
+
+- 谁演；
+- 演给谁；
+- 在什么制度空间演；
+- 演员身体处于什么风险；
+- source text因此承担什么新行动。
+
+所以：
+
+> 《岛》中的Antigone ≠ 一条“古典互文”。
+
+---
+
+#### Rule AT — Casting is embodied syntax, not transparent symbolism
+
+Cloud Nine正式冻结：
+
+> **casting可以像句法一样组织观众如何读取角色，但演员身体不是一个透明、固定的符号。**
+
+cross-gender / cross-racial / age-disjunctive casting都必须问：
+
+> **body–role gap如何在具体production中被观看？**
+
+而不是预设：
+
+> “A身体 = B政治寓意”。
+
+---
+
+#### Rule AU — Non-verbal systems can carry narrative and conceptual load
+
+Soyinka把戏剧分析框架再扩一层：
+
+> **音乐、鼓点、舞蹈、节奏、空间移动、集体仪式不仅制造气氛，也可以承担叙事、信息、概念和转场。**
+
+因此对跨文化戏剧：
+
+> dialogue-first reading可能系统性漏读作品。
+
+只有在自身performance grammar建立之后，才允许进入Greek / European analogies。
+
+---
+
+### R8-10. Round 8后的职责卡修订
+
+#### Brecht《母亲勇气》
+
+由：
+
+> epic theatre / episodic structure / visible mechanism / audience judgment
+
+精化为：
+
+> **historicized social causality + Gestus + actor showing contradiction + spectator invited to judge but never guaranteed to judge “correctly”。**
+
+明确禁止：
+
+> Brecht = no emotion / no empathy。
+
+---
+
+#### Beckett《等待戈多》
+
+由：
+
+> action / stage time / repetition / language / minimal space
+
+冻结为：
+
+> **duration as action + repetition-with-difference + body/prop choreography + audience as co-waiter。**
+
+“荒诞”降为历史标签，不再承担核心解释职责。
+
+---
+
+#### The Island
+
+由：
+
+> apartheid / prison / workshop theatre / Antigone / resistance
+
+精化为：
+
+> **coerced body → rehearsing body → performing body；joint devising + double audience + embedded Antigone as political action。**
+
+并永久修正作者记录：
+
+> **Athol Fugard / John Kani / Winston Ntshona三人共同creator。**
+
+---
+
+#### Cloud Nine
+
+由：
+
+> Brecht heritage / cross-casting / colonialism / gender / temporal rupture
+
+精化为：
+
+> **casting as embodied syntax + 100-year history / 25-year character time split + workshop-informed writing + spectator comparison of body / role / history。**
+
+---
+
+#### Soyinka《死亡与国王的侍从》
+
+由：
+
+> Yoruba ritual / music / chorus / non-naturalistic tragedy
+
+精化为：
+
+> **Yoruba ritual-performance grammar + transition + music/dance/acoustic narrative + colonial intervention as catalyst rather than total explanatory key。**
+
+并禁止：
+
+> “African Greek tragedy”作为默认入口。
+
+---
+
+### R8-11. 中文优先复核
+
+本轮专门再次搜索：
+
+- Brecht中文表演研究；
+- Beckett中文研究；
+- 《岛》中文论文；
+- Cloud Nine / 《九重天》中文论文；
+- Soyinka中文研究。
+
+结论：
+
+> **中文材料整体仍不足以完全替换高质量英文舞台研究。**
+
+原因与Round 7相同：
+
+大量中文材料最容易停留在：
+
+- 思想主题；
+- “荒诞派”；
+- “女性主义”；
+- “后殖民”；
+- “间离效果定义”；
+
+而本项目真正要的是：
+
+> **production / actor body / timing / casting / devising / audience relation。**
+
+但保留三项中文辅助：
+
+1. **Brecht：**
+   《论“间离效果”理论中演员的共鸣与反共鸣》  
+   可用于纠正“Brecht排斥一切共情”，但不替代《母亲勇气》两份默认B。
+
+2. **Beckett：**
+   李言实《贝克特戏剧在中国的影响和接受》“身体的复活”小节  
+   可作为极短中文舞台补充。
+
+3. **Soyinka：**
+   宋志明《约鲁巴神话与索因卡的“仪式戏剧”》  
+   是本轮最有价值的中文材料，可部分替代Crow / Banfield的背景职责。
+
+《岛》与Cloud Nine：
+
+> **仍未找到质量、长度、职责覆盖同时足够好的中文默认核心材料。**
+
+因此继续执行：
+
+> **中文优先，但不以语言整齐牺牲职责覆盖。**
+
+---
+
+### R8-12. Round 8时间预算
+
+| 节点 | 默认辅助时间 |
+|---|---:|
+| 《母亲勇气和她的孩子们》 | **27–33分钟** |
+| 《等待戈多》 | **35–42分钟** |
+| 《岛》 | **29–38分钟** |
+| Cloud Nine | **25–33分钟** |
+| 《死亡与国王的侍从》 | **39–49分钟** |
+| **Round 8全部** | **155–195分钟** |
+
+即：
+
+> **约2小时35分—3小时15分。**
+
+其中基础包四节点：
+
+> **116–146分钟，约1小时56分—2小时26分。**
+
+Soyinka作为升级包：
+
+> **另加39–49分钟。**
+
+C层仍全部另算。
+
+---
+
+### R8-13. 八轮研究完成后的基础包总辅助成本复核
+
+把各轮已冻结的基础包默认辅助时间重新相加：
+
+- Round 1：85–112分钟；
+- Round 2：55–75分钟；
+- Round 3：71–87分钟；
+- Round 4：64–87分钟；
+- Round 5：83–112分钟；
+- Round 6：66–83分钟；
+- Round 7 v0.9：131–161分钟；
+- Round 8基础节点：116–146分钟。
+
+合计：
+
+> **约671–863分钟，即约11小时11分—14小时23分。**
+
+这低于最初：
+
+> **14—18小时**
+
+的辅助材料控制目标上沿。
+
+这不是缺口，需要主动加材料填满。
+
+反而说明：
+
+> **经过八轮ROI筛选后，基础包已经能够以约11—14.5小时辅助阅读建立完整文学史 / 形式 / 舞台辨识框架。**
+
+剩余预算应优先留给：
+
+- 用户真正卡住的作品；
+- 个别C层兴趣深入；
+- 最终综合回顾；
+
+而不是重新把每个节点堆厚。
+
+---
+
+### R8-14. Round 7 + Round 8合并后的戏剧最短路径
+
+两轮最终应该合起来记成：
+
+| 节点 | 这一步重新定义了什么 |
+|---|---|
+| **Antigone** | 戏剧是公共共同观看；chorus是集体舞台身体 |
+| **Hamlet** | “内心”可以成为公开表演给观众的事件；theatre可以观看theatre |
+| **A Doll’s House** | ordinary private interior可以成为社会制度机器 |
+| **The Cherry Orchard** | dramatic action可以扩散到ensemble、duration、停顿和错过 |
+| **Six Characters** | representation的生产机器本身可以成为剧情 |
+| **Mother Courage** | spectator可以被要求观察社会行为如何被制造，并判断其可变性 |
+| **Waiting for Godot** | 等待、重复和时间花费本身可以成为行动 |
+| **The Island** | 被国家控制的身体可以通过排练与角色重新取得表演行动权 |
+| **Cloud Nine** | actor body / casting本身可以成为政治和历史语法 |
+| **Death and the King’s Horseman** | music / dance / ritual / collective movement可以与对白同等承担叙事和概念 |
+
+因此整个戏剧路线最后收敛成一句：
+
+> **戏剧史不仅是“写了什么故事”，而是不断重新规定：什么能够在舞台上算作行动、谁拥有身体、观众站在哪里、现实怎样被表演制造出来。**
+
+---
+
+### R8-15. 八轮研究完成：下一阶段不再继续横向扩张
+
+Round 1—8至此全部完成。
+
+下一阶段不应该马上增加：
+
+- 更多作家；
+- 更多理论；
+- 更多论文；
+
+而应进入：
+
+> **最终指南收敛。**
+
+具体工作应是：
+
+1. 把Round 1—8各节点的A/B/C从研究日志抽成真正可执行的读书单；
+2. 消除研究过程中的重复解释；
+3. 把升级节点与基础节点之间的共享材料合并；
+4. 给每部作品形成一张极短的“怎么搭配资料”卡；
+5. 重新检查总预算和阅读顺序；
+6. 将Rules从研究发现整理成少量真正需要读者知道的通用使用规则。
+
+换句话说：
+
+> **“找什么材料”的开放研究阶段已经完成；下一阶段应从research log转向user-facing guide。**
+
+---
+
+
 # 12. 变更日志
+
+
+## v0.10 — 2026-10-05
+
+完成Round 8“戏剧：政治剧 → 荒诞 → 后殖民 → 当代舞台”深搜深研，至此Round 1—8全部完成。
+
+主要更新：
+
+1. Brecht《母亲勇气》拒绝“间离=无情感/破第四墙”的简化；默认Robert Leach pp.132–142 + Katja Frimberger 2022的Mother Courage / experimental situation两节，职责冻结为historicized social causality + Gestus + spectator judgment；Laura Bradley 2025作为C层证明estrangement devices不能保证观众实际采取批判姿态；
+2. 补入1949 Brecht / Erich Engel / Helene Weigel《母亲勇气》与Couragemodell生产史，但不把model book反过来当唯一正确演法；
+3. Beckett《等待戈多》由“荒诞主题”改为duration as action + repetition-with-difference + body/prop choreography；默认Andrew Kennedy pp.24–46 + Walter D. Asmus pp.209–217；李言实2020“身体的复活”作为中文极短补充；
+4. 《岛》新增Robben Island Museum 4–6分钟A层；默认Crow / Banfield pp.96–111处理workshop theatre，Zakes Mda pp.v–ix纠正长期Fugard单人署名偏差；职责精化为coerced body → rehearsing body → performing body，并执行Antigone的Bridge-after-destination；
+5. 《岛》C层保留Jayathilake pp.607–625处理incarcerated body，Rush Rehm pp.211–227处理Antigone / gender / performance；记录1973 The Space早期演出长时段digging sequence作为“身体劳动首先是舞台事件”的production evidence；
+6. Cloud Nine不设额外A层，但把cast list / casting instructions视为正文；默认Churchill “Introduction to Cloud Nine” pp.245–248 + Michael Patterson pp.154–174；严格区分Joint Stock的workshop-informed writing与《岛》的joint devising；
+7. James Harding 1998 pp.258–272进入Cloud Nine C层，用于纠正“cross-casting天然具有解放效果”；职责冻结为casting as embodied syntax + 100-year historical jump / 25-year character aging + spectator comparison；
+8. Soyinka《死亡与国王的侍从》保留4–6分钟Author’s Note A层，主动排除“clash of cultures”单钥匙；默认Crow / Banfield pp.78–95建立Yoruba ritual-performance grammar，Martin Rohmer pp.57–69处理music / dance / visual-acoustic patterns和intercultural production；
+9. 宋志明《约鲁巴神话与索因卡的“仪式戏剧”》作为高质量中文B1替代/桥梁；Omofolabo Ajayi-Soyinka pp.546–565作为C层，把dance/choreography明确为dramatic storytelling；
+10. 新增Rule AP–AU：spectator position只能被邀请不能被保证；duration可以成为dramatic action；collaboration mode决定authorship claim；embedded performance会改变source text功能；casting是embodied syntax而非透明象征；non-verbal systems可以承担叙事和概念负荷；
+11. Round 8基础包四节点默认辅助成本约116–146分钟；Soyinka升级39–49分钟；全轮约155–195分钟；
+12. Round 1—8基础包默认辅助成本复核约671–863分钟，即约11小时11分—14小时23分，仍低于最初14—18小时控制目标上沿；不建议为“填满预算”继续增加材料；
+13. 八轮开放研究阶段结束；下一阶段应将研究日志收敛为真正面向读者的A/B/C执行指南，不再横向扩张作品或理论。
+
+
 
 
 ## v0.9 — 2026-10-05
