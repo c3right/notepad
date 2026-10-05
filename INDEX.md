@@ -96,6 +96,14 @@
 
 ### 文学与阅读
 
+- **2026-10-05 — [阅读当代文学的最短经典路径：导读与解读资料执行指南 v1.0](./notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-v1.md)**  
+  Round 1–8研究与Step 1–5收敛后的正式用户版：9个Phase、48张作品执行卡、A/B/C材料、升级插槽、Bridge/替代制度、Checkpoint、兴趣分支、术语表和最终QA边界。  
+  `contemporary-literature` `reading-path` `reading-guides` `execution-guide` `final-guide`
+
+- **2026-10-05 — [阅读当代文学的最短经典路径：执行速查 v1.0](./notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-quick-reference-v1.md)**  
+  正式指南的随手执行版：只保留Base顺序、9个Checkpoint、升级插槽、Bridge触发、替代规则、时间预算和6条兴趣路线。  
+  `contemporary-literature` `reading-path` `quick-reference` `execution-guide`
+
 - **2026-10-05 — [阅读当代文学的最短经典路径：执行指南构建进展](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guide-build-log.md)**  
   记录从Round 1–8累计研究成果收敛为最终可执行阅读指南的全过程：依次完成Canonical Data、跨节点去重与Bridge整合、单作品执行卡、路线级组装、对抗性QA与最终发布；后续每完成一个Step都持续追加到同一文件。  
   `contemporary-literature` `reading-path` `reading-guides` `execution-guide` `build-log`
@@ -140,6 +148,8 @@
 
 ### 2026
 
+- 2026-10-05 — [阅读当代文学的最短经典路径：导读与解读资料执行指南 v1.0](./notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-v1.md)
+- 2026-10-05 — [阅读当代文学的最短经典路径：执行速查 v1.0](./notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-quick-reference-v1.md)
 - 2026-10-05 — [阅读当代文学的最短经典路径：执行指南构建进展](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guide-build-log.md)
 - 2026-10-05 — [经典文学最短路径：导读与解读资料指南——研究设计与累积记录](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guides-research.md)
 - 2026-10-04 — [阅读当代文学路径：外国作品中文译本推荐 v1.0](./notes/2026/2026-10-04-contemporary-literature-foreign-translations-v1.md)
