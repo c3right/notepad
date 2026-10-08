@@ -4,6 +4,13 @@
 
 ## 按主题
 
+### 网络与自建服务
+
+- **2026-10-08 — [ZgoCloud 洛杉矶 $18/季度 VPS：选购、检测、sing-box REALITY 配置与双端分流排障全记录](./notes/2026/2026-10-08-zgocloud-la-vps-setup-validation.md)**  
+  复盘 2026-08-21～23 的购买、Debian 初始化、北京电信线路/公网 IP 信誉检测、REALITY Microsoft 握手目标故障、Cloudflare 修复后的本机闭环 PASS 与 iOS 分流验证；附去密配置和维护命令。  
+  `vps` `ZgoCloud` `sing-box` `network-proxy` `troubleshooting`
+
+
 ### 认知与方法论
 
 - **2026-09-29 — [PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计](./notes/2026/2026-09-29-pq4r-paper-template-v0.2.md)**  
@@ -147,6 +154,10 @@
 ## 按时间
 
 ### 2026
+
+- **2026-10-08 — [ZgoCloud 洛杉矶 $18/季度 VPS：选购、检测、sing-box REALITY 配置与双端分流排障全记录](./notes/2026/2026-10-08-zgocloud-la-vps-setup-validation.md)**  
+  复盘 2026-08-21～23 的购买、Debian 初始化、北京电信线路/公网 IP 信誉检测、REALITY Microsoft 握手目标故障、Cloudflare 修复后的本机闭环 PASS 与 iOS 分流验证；附去密配置和维护命令。  
+  `vps` `ZgoCloud` `sing-box` `network-proxy` `troubleshooting`
 
 - 2026-10-05 — [阅读当代文学的最短经典路径：导读与解读资料执行指南 v1.0](./notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-v1.md)
 - 2026-10-05 — [阅读当代文学的最短经典路径：执行速查 v1.0](./notes/2026/2026-10-05-contemporary-literature-minimal-path-reading-guide-quick-reference-v1.md)
