@@ -1,0 +1,163 @@
+# ZGO-LA Enhanced v2.2 fixed
+# 2026-10-08: public archive of the 2026-08 Windows config; credentials redacted.
+# Replace UUID / REALITY public key / short ID with CURRENT private values before use.
+# The optional DNS IPv6 warning workaround discussed on 2026-08-24 is NOT included
+# because no final confirmation of its application or regression test exists.
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: false
+unified-delay: true
+tcp-concurrent: true
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+dns:
+  enable: true
+  listen: 0.0.0.0:1053
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  respect-rules: true
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - "+.msftconnecttest.com"
+    - "+.msftncsi.com"
+    - "localhost.ptlogin2.qq.com"
+    - "+.in-addr.arpa"
+    - "+.ip6.arpa"
+    - "time.*.com"
+    - "time.*.gov"
+    - "pool.ntp.org"
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - https://1.1.1.1/dns-query
+    - https://8.8.8.8/dns-query
+  direct-nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  proxy-server-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+
+proxies:
+  - name: ZGO-LA
+    type: vless
+    server: 23.169.184.26
+    port: 443
+    uuid: "YOUR_CURRENT_UUID"
+    network: tcp
+    udp: true
+    tls: true
+    flow: xtls-rprx-vision
+    encryption: ""
+    servername: www.cloudflare.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: "YOUR_CURRENT_PUBLIC_KEY"
+      short-id: "YOUR_CURRENT_SHORT_ID"
+
+proxy-groups:
+  - name: PROXY
+    type: select
+    proxies:
+      - ZGO-LA
+      - DIRECT
+
+rule-providers:
+  ai:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/category-ai-!cn.mrs
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.mrs"
+
+rules:
+  - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,localhost,DIRECT
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+
+  # AI services first
+  - RULE-SET,ai,PROXY
+  - DOMAIN,copilot.microsoft.com,PROXY
+  - DOMAIN,copilot.bing.com,PROXY
+  - DOMAIN-SUFFIX,huggingface.co,PROXY
+  - DOMAIN-SUFFIX,hf.co,PROXY
+
+  # Google / YouTube / popular overseas services
+  - GEOSITE,google,PROXY
+  - GEOIP,google,PROXY,no-resolve
+  - GEOSITE,youtube,PROXY
+  - GEOSITE,github,PROXY
+  - GEOSITE,twitter,PROXY
+  - GEOSITE,telegram,PROXY
+  - GEOIP,telegram,PROXY,no-resolve
+  - GEOSITE,facebook,PROXY
+
+  - DOMAIN-SUFFIX,reddit.com,PROXY
+  - DOMAIN-SUFFIX,redd.it,PROXY
+  - DOMAIN-SUFFIX,redditstatic.com,PROXY
+  - DOMAIN-SUFFIX,redditmedia.com,PROXY
+  - DOMAIN-SUFFIX,wikipedia.org,PROXY
+  - DOMAIN-SUFFIX,wikimedia.org,PROXY
+  - DOMAIN-SUFFIX,wikimediafoundation.org,PROXY
+  - DOMAIN-SUFFIX,discord.com,PROXY
+  - DOMAIN-SUFFIX,discord.gg,PROXY
+  - DOMAIN-SUFFIX,discordapp.com,PROXY
+  - DOMAIN-SUFFIX,discordapp.net,PROXY
+  - DOMAIN-SUFFIX,discordcdn.com,PROXY
+  - DOMAIN-SUFFIX,dropbox.com,PROXY
+  - DOMAIN-SUFFIX,dropboxapi.com,PROXY
+  - DOMAIN-SUFFIX,dropboxstatic.com,PROXY
+  - DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
+  - DOMAIN-SUFFIX,linkedin.com,PROXY
+  - DOMAIN-SUFFIX,licdn.com,PROXY
+  - DOMAIN-SUFFIX,v2ex.com,PROXY
+  - DOMAIN-SUFFIX,imgur.com,PROXY
+  - DOMAIN-SUFFIX,pixiv.net,PROXY
+  - DOMAIN-SUFFIX,medium.com,PROXY
+  - DOMAIN-SUFFIX,nytimes.com,PROXY
+  - DOMAIN-SUFFIX,nyt.com,PROXY
+  - DOMAIN-SUFFIX,bbc.com,PROXY
+  - DOMAIN-SUFFIX,bbc.co.uk,PROXY
+  - DOMAIN-SUFFIX,twitch.tv,PROXY
+  - DOMAIN-SUFFIX,vimeo.com,PROXY
+  - DOMAIN-SUFFIX,tumblr.com,PROXY
+  - DOMAIN-SUFFIX,soundcloud.com,PROXY
+
+  # Apple relay paths
+  - DOMAIN-SUFFIX,apple-relay.akamaized.net,PROXY
+  - DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
+  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com,PROXY
+  - DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,PROXY
+
+  # Narrow DIRECT exceptions
+  - DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+  - DOMAIN-SUFFIX,update.microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,delivery.mp.microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,download.windowsupdate.com,DIRECT
+  - DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+  - DOMAIN-SUFFIX,amd.com,DIRECT
+  - DOMAIN,download.jetbrains.com,DIRECT
+
+  - DOMAIN-SUFFIX,cn,DIRECT
+  - GEOSITE,CN,DIRECT
+  - GEOIP,CN,DIRECT,no-resolve
+  - MATCH,PROXY
