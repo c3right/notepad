@@ -6,6 +6,10 @@
 
 ### 网络与自建服务
 
+- **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
+  记录 Windows v2.1→v2.2-fixed 分流规则演进与出口验收、DeepSeek IPv6 Warn、ZgoCloud 双向计费、vnStat 安装、脚本单位修复和 iPhone SSH 快捷指令换行排障；另存去密 [v2.2-fixed YAML](./notes/2026/2026-10-08-zgo-la-enhanced-v2.2-fixed.yaml) 与 [流量脚本](./notes/2026/2026-10-08-zgo-traffic-ios.py)。  
+  `vps` `Mihomo` `Clash-Verge` `vnStat` `iOS-Shortcuts`
+
 - **2026-10-08 — [ZgoCloud 洛杉矶 $18/季度 VPS：选购、检测、sing-box REALITY 配置与双端分流排障全记录](./notes/2026/2026-10-08-zgocloud-la-vps-setup-validation.md)**  
   复盘 2026-08-21～23 的购买、Debian 初始化、北京电信线路/公网 IP 信誉检测、REALITY Microsoft 握手目标故障、Cloudflare 修复后的本机闭环 PASS 与 iOS 分流验证；附去密配置和维护命令。  
   `vps` `ZgoCloud` `sing-box` `network-proxy` `troubleshooting`
@@ -154,6 +158,10 @@
 ## 按时间
 
 ### 2026
+
+- **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
+  归档 Windows 分流规则优化、v2.2-fixed 去密 YAML、vnStat / iOS 快捷指令实施与排障，以及尚未复验的 DeepSeek IPv6 警告。  
+  `vps` `Mihomo` `traffic-monitoring` `ios-shortcuts` `troubleshooting`
 
 - **2026-10-08 — [ZgoCloud 洛杉矶 $18/季度 VPS：选购、检测、sing-box REALITY 配置与双端分流排障全记录](./notes/2026/2026-10-08-zgocloud-la-vps-setup-validation.md)**  
   复盘 2026-08-21～23 的购买、Debian 初始化、北京电信线路/公网 IP 信誉检测、REALITY Microsoft 握手目标故障、Cloudflare 修复后的本机闭环 PASS 与 iOS 分流验证；附去密配置和维护命令。  
