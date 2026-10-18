@@ -8,6 +8,10 @@
 
 > SEL专题导航：以后来自其他会话的SEL绘本、动画、亲子教育研究继续归入这一主题索引；正式笔记依旧按日期存于 `notes/YYYY/`，不建立额外顶层专题文件夹。
 
+- **2026-10-18 — [SEL家庭实施v1：KASEL全96册纸书＋中文版视频的低负担用法与13张家长卡](./notes/2026/2026-10-18-sel-home-use-kasel-96-parent-cards-v1.md)**  
+  记录用户确定采购新版13主题96册纸书及客服所称96个“中文版视频”（待验货/试听）；为非SEL专家的家长提供13主题按需查书、基于实审旧版13册的短卡、纸书视频搭配与防止误导规则。  
+  `SEL` `KASEL` `parent-guide` `picture-books` `family-practice`
+
 - **2026-10-18 — [《布鲁伊》中文版SEL专题：官方剧集核对、3岁半分龄选集、亲子共看与游戏迁移](./notes/2026/2026-10-18-sel-bluey-chinese-animation-episode-guide.md)**  
   依据Bluey/ABC官方幼教工具包、B站中文配音目录与CASEL框架，整理分龄候选、8张家庭游戏卡、8周渐进路线及与丹尼尔/经典文学互补；突出官方第三季50集与B站52话、排序和地区限制的待核差异。  
   `SEL` `Bluey` `animation` `parent-child-play` `episode-guide`
