@@ -16,6 +16,10 @@
   96条双向可查书名/旧PDF编号关系，明确13本样本实审、名称匹配与9条低置信待核项；不将工作推定冒充出版方官方修订表。  
   `SEL` `KASEL` `crosswalk` `editions` `picture-books`
 
+- **2026-10-17 — [KASEL 96册绘本与《小老虎丹尼尔》英文原版动画逐故事对应](./notes/2026/2026-10-17-sel-kasel-96-english-episode-crosswalk.md)**  
+  96条英文故事候选、双故事季集编号与初查把握（高73/中18/待核5），明确尚未验证96段商家配套视频或逐项授权。  
+  `SEL` `Daniel-Tiger` `episode-crosswalk` `KASEL` `picture-books`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
@@ -170,6 +174,7 @@
 ## 按时间
 
 ### 2026
+- 2026-10-17 — [KASEL 96册与英文原版动画剧集对应表（初查）](./notes/2026/2026-10-17-sel-kasel-96-english-episode-crosswalk.md)
 
 - 2026-10-17 — [SEL专题：《小老虎丹尼尔》中文资源与KASEL绘本评估](./notes/2026/2026-10-17-sel-daniel-tiger-kasel-research-and-use-assessment.md)
 - 2026-10-17 — [KASEL旧版A—F与新版13主题96册对照](./notes/2026/2026-10-17-sel-kasel-96-edition-crosswalk.md)
