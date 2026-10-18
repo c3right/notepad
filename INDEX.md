@@ -12,8 +12,7 @@
   记录台湾6组明确SEL系列/重点书、耕心100选中8本精选、香港两套绘本及一个SEL小组项目；对比淘宝发现的3本，附出版日期/ISBN、五能力矩阵、购书优先级、来源和待核验。  
   `SEL` `CASEL` `traditional-chinese` `picture-books` `reading-list`
 
-
- **2026-10-17 — [《小老虎丹尼尔》与KASEL绘本：动画版权和国语溯源、CASEL五能力评估、13册抽样及购书建议](./notes/2026/2026-10-17-sel-daniel-tiger-kasel-research-and-use-assessment.md)**  
+- **2026-10-17 — [《小老虎丹尼尔》与KASEL绘本：动画版权和国语溯源、CASEL五能力评估、13册抽样及购书建议](./notes/2026/2026-10-17-sel-daniel-tiger-kasel-research-and-use-assessment.md)**  
   汇总官方130×11分钟引进公告、正版国语/粤语资源核查边界、KASEL旧新版区别、13册PDF的教学质量、策略歌曲价值、13主题采购优先级及未解问题。  
   `SEL` `CASEL` `Daniel-Tiger` `children-education` `picture-books`
 
