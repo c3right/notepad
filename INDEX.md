@@ -8,6 +8,10 @@
 
 > SEL专题导航：以后来自其他会话的SEL绘本、动画、亲子教育研究继续归入这一主题索引；正式笔记依旧按日期存于 `notes/YYYY/`，不建立额外顶层专题文件夹。
 
+- **2026-10-18 — [经典儿童文学系列×SEL：弗洛格、阿尔菲及新增11组系列的分册共读指南](./notes/2026/2026-10-18-sel-classic-series-literature-reading-guide.md)**  
+  区分经典文学与SEL课程绘本，详录13组系列的原作/简体版、具体故事与五能力对应、分龄阅读、角色扮演、家庭共读提问、版本ISBN和待核事项；与简体及繁体SEL笔记交叉链接。  
+  `SEL` `children-literature` `series` `parent-child-reading` `CASEL`
+
 - **2026-10-18 — [简体中文SEL绘本：大陆原创、海外译本、台湾原创引进及3岁半进阶路线](./notes/2026/2026-10-18-sel-simplified-chinese-picture-books-reading-path.md)**  
   按CASEL五能力精选简体中文核心故事与专题书，核对大陆原创/国外译本/港台引进、部分单册与套书ISBN，给出3.5—6岁三阶段阅读和避重策略；明确排除另会话研究的《共情陪伴绘本》系列。  
   `SEL` `picture-books` `simplified-chinese` `reading-list` `children-education`
