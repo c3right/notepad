@@ -232,6 +232,7 @@ language: zh-CN
 
 ## 10. 与notepad现有SEL记录衔接
 
+- [经典儿童文学系列的SEL再利用：13组系列、单册共读与简体版本核验](./2026-10-18-sel-classic-series-literature-reading-guide.md)——将本笔记的弗洛格文学主干进一步扩展到阿尔菲、波西和皮普、小猪小象、艾玛、古利和古拉等，附共读示例与去重采购。
 - [港台繁体中文SEL绘本：台湾/香港系列、3.5岁阅读路线与原作简体对照](./2026-10-18-sel-traditional-chinese-picture-books-taiwan-hong-kong.md)。
 - [KASEL/《小老虎丹尼尔》动画资源、13册实审及SEL质量评价](./2026-10-17-sel-daniel-tiger-kasel-research-and-use-assessment.md)。
 - [KASEL96册旧版A—F/新版13主题对照](./2026-10-17-sel-kasel-96-edition-crosswalk.md)。
@@ -250,3 +251,4 @@ language: zh-CN
 ## Revision log
 
 - 2026-10-18：初版。整理大陆原创、海外简体译本、台湾原创引进；将3岁半到6岁的阅读建议转成可选择的故事槽位；排除共情陪伴绘本系列。
+- 2026-10-18：关联独立《经典儿童文学系列×SEL》详研笔记；原有书单保持不变。
