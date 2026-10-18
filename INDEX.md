@@ -4,6 +4,18 @@
 
 ## 按主题
 
+### SEL教育与儿童发展
+
+> SEL专题导航：以后来自其他会话的SEL绘本、动画、亲子教育研究继续归入这一主题索引；正式笔记依旧按日期存于 `notes/YYYY/`，不建立额外顶层专题文件夹。
+
+- **2026-10-17 — [《小老虎丹尼尔》与KASEL绘本：动画版权和国语溯源、CASEL五能力评估、13册抽样及购书建议](./notes/2026/2026-10-17-sel-daniel-tiger-kasel-research-and-use-assessment.md)**  
+  汇总官方130×11分钟引进公告、正版国语/粤语资源核查边界、KASEL旧新版区别、13册PDF的教学质量、策略歌曲价值、13主题采购优先级及未解问题。  
+  `SEL` `CASEL` `Daniel-Tiger` `children-education` `picture-books`
+
+- **2026-10-17 — [KASEL《小老虎丹尼尔》96册：旧版A—F与新版13主题书名对照](./notes/2026/2026-10-17-sel-kasel-96-edition-crosswalk.md)**  
+  96条双向可查书名/旧PDF编号关系，明确13本样本实审、名称匹配与9条低置信待核项；不将工作推定冒充出版方官方修订表。  
+  `SEL` `KASEL` `crosswalk` `editions` `picture-books`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
@@ -158,6 +170,9 @@
 ## 按时间
 
 ### 2026
+
+- 2026-10-17 — [SEL专题：《小老虎丹尼尔》中文资源与KASEL绘本评估](./notes/2026/2026-10-17-sel-daniel-tiger-kasel-research-and-use-assessment.md)
+- 2026-10-17 — [KASEL旧版A—F与新版13主题96册对照](./notes/2026/2026-10-17-sel-kasel-96-edition-crosswalk.md)
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
   归档 Windows 分流规则优化、v2.2-fixed 去密 YAML、vnStat / iOS 快捷指令实施与排障，以及尚未复验的 DeepSeek IPv6 警告。  
