@@ -8,6 +8,12 @@
 
 > SEL专题导航：以后来自其他会话的SEL绘本、动画、亲子教育研究继续归入这一主题索引；正式笔记依旧按日期存于 `notes/YYYY/`，不建立额外顶层专题文件夹。
 
+> **SEL专题的上位应用准则**：[SEL应用总规则：保护儿童个性、自主性与主体性，防止服从化](./notes/2026/2026-10-26-sel-foundational-purpose-autonomy-guardrails.md)。今后的家长卡、KASEL选书、布鲁伊选集及文学共读研究，先过这份原则的目标、权利、安全、适龄及证据审查；家长无需学习理论。
+
+- **2026-10-26 — [SEL应用总规则：发展自主性，保护个性，避免把SEL做成服从教育](./notes/2026/2026-10-26-sel-foundational-purpose-autonomy-guardrails.md)**  
+  **长期共用的应用准则/优先阅读**：SEL三条发展主线、八项防偏红线、自主与安全边界、气质差异及情绪教练；附面向未来Agent/选材者的8项发布前审查协议、学术研究证据分级与KASEL96册选材目标的修订。  
+  `SEL` `application-rules` `child-autonomy` `parenting` `evidence`
+
 - **2026-10-18 — [SEL家庭方案A：KASEL已审13册的3岁半起步指南与家长即用卡](./notes/2026/2026-10-18-sel-kasel-path-a-13-reviewed-parent-guide.md)**  
   仅以13册旧版实际审阅样本为基础，提供6本起步＋5本自然扩展＋2本按情境使用；逐本附新版候选书名、旧编号、家长话术、低门槛练习与防跑偏提示。  
   `SEL` `KASEL` `reviewed-13` `parent-guide`
