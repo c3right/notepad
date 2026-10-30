@@ -70,6 +70,10 @@
   A版16单元精选候选；B版将Bluey官网154集中的128集归入16单元、26集自由观看，分3.5/4/4.5岁与家长优先；B站156话有待逐条对照。  
   `SEL` `Bluey` `Daniel-Tiger` `episode-guide` `preschool`
 
+- **2026-10-30 — [家庭SEL整合手册｜丹尼尔16单元＋Bluey 43集详细卡/85集简卡](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)**  
+  单文件保留46册丹尼尔家长预读与19册防偏补丁，并按B站156话编排Bluey分层指导；26个原版故事保留自由观看。  
+  `SEL` `Bluey` `Daniel-Tiger` `parent-guide` `preschool`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
@@ -224,6 +228,7 @@
 ## 按时间
 
 ### 2026
+- 2026-10-30 — [丹尼尔×Bluey分层家庭预读一体手册](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)
 - 2026-10-30 — [Bluey匹配丹尼尔16单元：精简＋扩展两版](./notes/2026/2026-10-30-sel-bluey-daniel-16-units-two-plans.md)
 - 2026-10-30 — [KASEL 46册家长指南与自主性总规则逐册核查](./notes/2026/2026-10-30-sel-kasel-46-parent-guide-autonomy-audit.md)
 - 2026-10-30 — [KASEL丹尼尔16个SEL阅读单元家庭计划](./notes/2026/2026-10-30-sel-kasel-16-reading-units-family-plan.md)
