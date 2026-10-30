@@ -66,6 +66,10 @@
   逐册检查第4页成人指导：7册须替换绝对化或标签化话术、12册须补边界、27册可直接参考；不上传任何扫描PDF。  
   `SEL` `KASEL` `autonomy` `parent-guide` `review`
 
+- **2026-10-30 — [Bluey搭配丹尼尔16阅读单元：精简与扩展双版计划](./notes/2026/2026-10-30-sel-bluey-daniel-16-units-two-plans.md)**  
+  A版16单元精选候选；B版将Bluey官网154集中的128集归入16单元、26集自由观看，分3.5/4/4.5岁与家长优先；B站156话有待逐条对照。  
+  `SEL` `Bluey` `Daniel-Tiger` `episode-guide` `preschool`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
@@ -220,6 +224,7 @@
 ## 按时间
 
 ### 2026
+- 2026-10-30 — [Bluey匹配丹尼尔16单元：精简＋扩展两版](./notes/2026/2026-10-30-sel-bluey-daniel-16-units-two-plans.md)
 - 2026-10-30 — [KASEL 46册家长指南与自主性总规则逐册核查](./notes/2026/2026-10-30-sel-kasel-46-parent-guide-autonomy-audit.md)
 - 2026-10-30 — [KASEL丹尼尔16个SEL阅读单元家庭计划](./notes/2026/2026-10-30-sel-kasel-16-reading-units-family-plan.md)
 - 2026-10-30 — [KASEL 96册新旧版及原版动画完整联合索引](./notes/2026/2026-10-30-sel-kasel-96-pdf-english-unified-crosswalk.md)
