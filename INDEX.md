@@ -58,6 +58,10 @@
   96条新旧中英文故事对应；实物PDF已收齐但未上传GitHub。修正雪花节特别篇、雪地宇航员与做好准备等原版对应，并保留B站指定合集核验缺口。  
   `SEL` `KASEL` `Daniel-Tiger` `crosswalk` `PDF-not-uploaded`
 
+- **2026-10-30 — [KASEL小老虎丹尼尔｜16阅读单元46册SEL家庭阅读计划](./notes/2026/2026-10-30-sel-kasel-16-reading-units-family-plan.md)**  
+  按认知与生活情境交错规划，涵盖生气、冲突、抗挫、共情、自信、社交及犯错修复，并有逐单元家长预读和低压力家庭练习。  
+  `SEL` `KASEL` `Daniel-Tiger` `preschool` `reading-plan`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
@@ -212,6 +216,7 @@
 ## 按时间
 
 ### 2026
+- 2026-10-30 — [KASEL丹尼尔16个SEL阅读单元家庭计划](./notes/2026/2026-10-30-sel-kasel-16-reading-units-family-plan.md)
 - 2026-10-30 — [KASEL 96册新旧版及原版动画完整联合索引](./notes/2026/2026-10-30-sel-kasel-96-pdf-english-unified-crosswalk.md)
 - 2026-10-17 — [KASEL 96册与英文原版动画剧集对应表（初查）](./notes/2026/2026-10-17-sel-kasel-96-english-episode-crosswalk.md)
 
