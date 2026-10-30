@@ -1,7 +1,7 @@
 ---
 title: "SEL｜Bluey匹配丹尼尔16单元：精简版与扩展版（154集基线）"
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 status: working
 type: reading-list
 topics:
@@ -90,6 +90,32 @@ language: zh-CN
 - [S3国语](https://www.bilibili.com/bangumi/media/md20222682)：已见第1话《卧室》=S3E01 Bedroom，第2话《独角马》=S3E07 Unicorse，第3话《完美》=S3E14 Perfect，第4话《箱子》=S3E38 Cubby，第5话《昨日出生》=S3E05 Born Yesterday，第6话《咖喱远征》=S3E08 Curry Quest，第7话《障碍赛训练场》=S3E02 Obstacle Course，第8话《家务》=S3E12 Housework。**这只是已见的目录级对照，并非逐集试听。**
 - 目前共17个“B站具体话数”有已知对照；其他137个Bluey官方编号的B站实际话数待核；B站第三季与官方50集的额外2话身份也待核。
 
+## B站国语实际话数整合更新（2026-10-31）
+
+**使用B站中文版时以“B站季次＋实际话数＋中文标题”为最终播放定位，英文原题和Bluey官网编号只作为故事主键。** 当前B站三季国语版各标52话（共156话），Bluey官网原版三季共154个故事（52＋52＋50）；不能把第三季差额2话直接视作两集独立新故事。
+
+本轮已核实 **25条B站季次/话数/中文标题与英文原题对应**：
+- **S1第1—8话**：神奇的木琴／医院／颠气球／爸爸机器人／影子陆地／周末／烧烤／果蝠，与Bluey官网S1E01—S1E08一致；
+- **S2第1—8话**：跳舞模式／仓储超市／羽毛魔杖／壁球／理发师／挖树桩／最开心的事／爸爸送上学，与Bluey官网S2E01—S2E08一致；
+- **S3第1—8话**：卧室（官网E01）、独角马（E07）、完美（E14）、箱子（E10）、昨日出生（E05）、咖喱远征（E08）、障碍赛训练场（E02）、家务（E12）。前8话恰与第三季**制作顺序**吻合，不是官网剧情季集顺序；
+- **S3第38话《小房间》**：对应官网S3E38 *Cubby*，有独立B站播放页为证。
+
+**重要保留**：虽已发现S3前8话吻合制作顺序，但未逐话证实第9—52话也沿用相同顺序。因此其余129个官网故事及B站第三季额外2话的身份目前仍待核，不能自动填写推断号。原有年龄层、16单元及26集自由观看分类均不因编号差异改变。
+
+### 如何一次性补齐156话（只取公开剧集目录元数据，不下载视频）
+
+在能够访问B站的正常浏览器中打开下列三个公开剧集信息地址，分别将其返回的JSON文本保存为独立文件；**不需要分享登录密码、Cookie或任何视频文件**：
+
+- S1：<https://api.bilibili.com/pgc/view/web/season?ep_id=744106>
+- S2：<https://api.bilibili.com/pgc/view/web/season?ep_id=744210>
+- S3：<https://api.bilibili.com/pgc/view/web/season?ep_id=744288>
+
+按[番剧信息API文档](https://github.com/yi-zhu/bilibili-API/blob/master/docs/bangumi/info.md)，成功时 `code=0`，`result.episodes` 内有每话的 `title`、`long_title`、`id`、`share_url` 等字段。需要先确认确实取得B站本季全部52个正片条目，排除PV/花絮。拿到三份仅含节目元数据的文件，才能将完整中文标题、B站实际话数和分集播放链接与现有154集英文故事索引逐一对齐。如接口返回地区限制、412或其他错误，改用B站客户端截图目录；不能填造缺失元数据。
+
+对照工作簿为用户会话附件《Bluey_丹尼尔16单元_B站国语版对照_可扩充.xlsx》，包含精简16单元、扩展128集、154集总索引与新增B站156话模板。**GitHub保留研究结论与方法，未保存用户扫描PDF或视频。**
+
+核查来源：[B站S1国语季目录](https://www.bilibili.com/bangumi/media/md20222290)｜[S2国语季目录](https://www.bilibili.com/bangumi/media/md20222420)｜[S3国语季目录](https://www.bilibili.com/bangumi/media/md20222682)｜[S3第38话](https://www.bilibili.com/bangumi/play/ep791054)｜[Bluey官网S3目录](https://www.bluey.tv/watch/season-3/)。
+
 ## 教育边界与使用方式
 
 - [SEL自主性与权利总规则](./2026-10-26-sel-foundational-purpose-autonomy-guardrails.md)仍为最高优先级，不以合群、持续忍耐、无条件分享或听话作为目标。
@@ -105,4 +131,5 @@ language: zh-CN
 
 ## Revision log
 
+- 2026-10-31：追加B站国语25条已核话数对应与156话元数据补齐方法；S3前8话制作顺序证据，不扩展为全季已核。
 - 2026-10-30：两版方案首次形成。独立筛选官网154集、按主单元归类128集，26集自由观看；原16单元及家长防偏约束保留；待逐话核验B站156话。
