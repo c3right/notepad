@@ -21,6 +21,8 @@ language: zh-CN
 
 # 《布鲁伊》×《小老虎丹尼尔》16单元｜两版观看规划
 
+> **完整字段索引（2026-10-31补存）**：[B站国语156条／官方154个独立故事对照CSV](./2026-10-31-sel-bluey-bilibili-156-episode-crosswalk.csv)。本篇保留解释性研究正文；结构化资料便于逐册/逐集检索。详见[归档完整性审计](./2026-10-31-sel-generated-spreadsheet-archive-audit.md)。
+
 > **统一使用入口（2026-10-30更新）**：[丹尼尔16单元 × Bluey国语版分层家长预读完整手册](./2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)。已将原46册丹尼尔及19册指南纠错与Bluey 43集3.5岁详细指导、85集4岁后简卡合并到同一份单元阅读文件；本文件保留为原始规划/索引依据。
 
 
