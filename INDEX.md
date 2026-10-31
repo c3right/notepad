@@ -78,6 +78,10 @@
   29组生活情境、50册逐册核对第4页；主线46册不变，扩展库不设置必读。
   `SEL` `KASEL` `parent-guide` `reading-library`
 
+- **2026-10-31 — [SEL项目表格信息归档完整性审计＋4份结构化CSV索引](./notes/2026/2026-10-31-sel-generated-spreadsheet-archive-audit.md)**
+  核对96、46、50册与Bluey156国语条目、154故事、16单元/43详细卡/85简卡；说明哪些历史Excel被最新Markdown和CSV取代。
+  `SEL` `KASEL` `Bluey` `data-archive`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
@@ -232,6 +236,7 @@
 ## 按时间
 
 ### 2026
+- 2026-10-31 — [SEL表格归档完整性审核（四份规范CSV）](./notes/2026/2026-10-31-sel-generated-spreadsheet-archive-audit.md)
 - 2026-10-30 — [丹尼尔×Bluey分层家庭预读一体手册](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)
 - 2026-10-30 — [Bluey匹配丹尼尔16单元：精简＋扩展两版](./notes/2026/2026-10-30-sel-bluey-daniel-16-units-two-plans.md)
 - 2026-10-30 — [KASEL 46册家长指南与自主性总规则逐册核查](./notes/2026/2026-10-30-sel-kasel-46-parent-guide-autonomy-audit.md)
