@@ -74,6 +74,10 @@
   单文件保留46册丹尼尔家长预读与19册防偏补丁，并按B站156话编排Bluey分层指导；26个原版故事保留自由观看。  
   `SEL` `Bluey` `Daniel-Tiger` `parent-guide` `preschool`
 
+- **2026-10-31 — [KASEL剩余50册：生活情境扩展库及逐册家长指南审查](./notes/2026/2026-10-31-sel-kasel-50-optional-books-guide-audit.md)**
+  29组生活情境、50册逐册核对第4页；主线46册不变，扩展库不设置必读。
+  `SEL` `KASEL` `parent-guide` `reading-library`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
