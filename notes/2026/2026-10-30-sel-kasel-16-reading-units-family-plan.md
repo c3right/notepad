@@ -20,6 +20,8 @@ language: zh-CN
 
 # KASEL《小老虎丹尼尔》家庭SEL交错阅读计划
 
+> **完整字段索引（2026-10-31补存）**：[46册按单元逐书CSV索引](./2026-10-31-sel-kasel-46-core-reading-index.csv)。本篇保留解释性研究正文；结构化资料便于逐册/逐集检索。详见[归档完整性审计](./2026-10-31-sel-generated-spreadsheet-archive-audit.md)。
+
 > **统一使用入口（2026-10-30更新）**：[丹尼尔16单元 × Bluey国语版分层家长预读完整手册](./2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)。已将原46册丹尼尔及19册指南纠错与Bluey 43集3.5岁详细指导、85集4岁后简卡合并到同一份单元阅读文件；本文件保留为原始规划/索引依据。
 
 
