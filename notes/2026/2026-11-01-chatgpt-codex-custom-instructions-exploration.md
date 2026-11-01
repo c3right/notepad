@@ -1,0 +1,317 @@
+---
+title: "ChatGPT 与 Codex Custom Instructions 优化：防御性、ADHD 输出与 Agent 工作准则的持续探索"
+date: 2026-11-01
+updated: 2026-11-01
+status: working
+type: synthesis
+topics:
+  - ai-assistants
+  - prompt-engineering
+  - agent-workflows
+  - writing-quality
+  - codex
+keywords:
+  - ChatGPT Custom Instructions
+  - Codex AGENTS.md
+  - GPT-6 defensive behavior
+  - GPT with Taste
+  - Stop That Shit
+  - i-have-adhd
+  - karpathy-guidelines
+  - linux.do
+  - task-completion
+source: "mixed: ChatGPT conversation, GitHub source code, official docs, public forum discussions and research"
+language: zh-CN
+---
+
+# ChatGPT 与 Codex Custom Instructions 优化：防御性、ADHD 输出与 Agent 工作准则的持续探索
+
+> **性质：持续研究条目（working），不是已批准或已部署的最终指令。**
+> 
+> 本条目将随专题探讨追加更新。用户在会话中亲自确定两个材料分类名称：**「实际经验参考版」**与**「知名经验参考版」**。后续计划再形成「综合优化版」，但截至 2026-11-01 尚未进行逐项融合终审。
+
+## 一句话结论
+
+本专题的目标不是把模型的回复简单缩短，而是同时提高**有依据的实质判断、阅读效率和可交付的行动能力**，并抑制 GPT-6 在专业研究与 Agent 工作中出现的三类“过度防御”：无谓的自我限定、证据不足时放弃形成判断，以及过度测试/保护/确认导致的执行空转。
+
+目前形成的工作框架为：
+1. **实质判断与防御性控制**：证据不足 ≠ 证据反对；局部失败 ≠ 整体不可行；不为预想质疑主动弱化已支持结论。
+2. **高信息密度与高效表达**：结论或操作优先，篇幅适应任务复杂度；清楚比较关键差异；内容完整优先于形式上更短。
+3. **行动导向与多轮任务交付**：可执行就执行，显式交付实际结果；状态变化时报告；明确诊断与停止条件。
+4. **指令分层**：ChatGPT 对话级偏好、Codex 全局执行规则、仓库 `AGENTS.md` 和专用 Skill/Hook 不能混成一种普遍强制工作流。
+5. **证据约束**：保留可核验来源，并将论坛体验、作者自测、官方建议、受控研究及本会话解释性判断分层。
+
+## 1. 起因、范围与要解决的真实问题
+
+### 1.1 会话触发
+
+2026-10-31～2026-11-01 的讨论从“GPT-6 过度防御，linux.do 和其他技术论坛有什么有效对策”开始，依次研究 GPT with Taste、Stop That Shit、i-have-adhd，并反观用户现有的 ChatGPT Custom Instructions。随后扩展至 ChatGPT/Codex 分开设置、社区实际分享及 Karpathy Guidelines 等知名规则的可迁移经验。
+
+### 1.2 四种容易混淆的症状
+
+| 症状 | 典型表现 | 预期改善 | 不应牺牲 |
+| --- | --- | --- | --- |
+| 防御性表达 | 连续使用“不能证明”“不等于”“不保证”；大量自证 | 有证据的观点直接表达，重要限定集中说明 | 真实不确定性、来源归因 |
+| 防御性判断 | 不完整数据被认作不可行；面对局部失败过早停止研究 | 保留有依据的条件式结论，并检查有价值的下一条路径 | 反证、实质错误纠正 |
+| 防御性执行/编程 | 不必要 Hash、备份、校验、重复全量测试和无授权扩包 | 最小充分方案、按风险核验、必要时果断停止 | 用户明确要求的 Git、验收、证据留痕、安全边界 |
+| 输出组织不佳 | 结论埋于铺垫；复杂问题泛泛罗列；无关延伸 | 更少阅读成本、更明确的结论和步骤 | 分析深度、对比完整性、关键例外 |
+
+这些症状不同，不宜由同一条“不要过度防御”同时解决。
+
+### 1.3 使用宿主的差异
+
+- **ChatGPT 网页/移动对话**：重心在判断、证据、语言组织、研究分析和必要操作。
+- **Codex App/CLI**：除上述内容外，还要处理代码修改、项目范围、Git 操作、工具权限、任务验收、子 Agent 协作。
+- **Pi Agent**：有独立的扩展/Skill 与用户级 `AGENTS.md`；不能假定 ChatGPT 网页 Custom Instructions 会同步给 Pi。
+- **仓库 `AGENTS.md`**：用来规定项目特有的工作边界与交付，而非重复所有全局文风偏好。
+
+对 Codex 网页账号级 Custom Instructions、桌面端本地 `AGENTS.md`、CLI 以及 `model_instructions_file` 的完整注入与同步关系，前轮讨论仅能确认存在不同配置路径；**不能认定云端编辑必然物理写入 Windows 本地文件**。要分别检验界面内容、文件内容和新会话实际行为。
+
+## 2. 会话推进记录：保留关键转折与未定事项
+
+| 阶段 | 主要工作 | 已形成的判断 | 重要取舍 |
+| --- | --- | --- | --- |
+| 1. 过度防御初查 | linux.do、Reddit 等对 GPT-6 的抱怨与应对 | 把“话多”“判断退缩”“工程过度”分开处理 | 不接受“一句神奇提示词治所有问题” |
+| 2. Taste vs STS | 读取 GitHub README、核心指令、Codex/Pi 文档 | Taste 偏改善整体判断与执行习惯；STS 偏技能指导与受支持路径的工具拦截 | Codex 默认先分开测试，不把两组 Hooks 全开 |
+| 3. 引入 i-have-adhd | 读取 10 条规则、Pi/Codex 适配、作者评测 | 对输出结构与行动提示较有效；不是深层推理或权限治理替代品 | 不全局硬套“五项上限”“每轮重述”“强制估时” |
+| 4. 审视现有 Custom Instructions | 用户贴出当时 ChatGPT 的两部分指令 | 第一部分解决防御性；第二部分重在高信息密度；两者有局部重复但核心方向合理 | 不彻底推翻原文，建议三层重组 |
+| 5. 形成三部分草案 | 第一部分判断；第二部分表达；第三部分行动与交付 | 增加能执行就执行、状态变化再同步、错误诊断等 | 草案是否已实际填入设置未获用户明确确认 |
+| 6. ChatGPT 与 Codex 配置范围 | 对照网页版截图与本地 `AGENTS.md` | 需要区分账号级偏好、Codex 本地/仓库规则和 Pi 独立规则 | 不臆断云端指令自动写回本地文件 |
+| 7. 「实际经验参考版」 | 搜索 linux.do、Reddit 的公开个人指令 | 发现高信息密度、反过度附和、输出自然、按需模式切换等经验 | 论坛自述不当作 A/B 证据 |
+| 8. 「知名经验参考版」 | Karpathy、Superpowers、Ponytail、gstack、Humanizer 等及官方研究 | 强调目标验收、阶段区分、最小充分机制、按需核验、旧指令可能反噬 | 不机械叠加大量 Skill/AGENTS 规则 |
+| 9. 本次落盘 | 依 `c3right/notepad` 规则设立持续条目 | 保存成果、主要来源、讨论脉络和仍待裁决的方案 | **不在本阶段宣布最终 CI 已定稿** |
+
+## 3. 用户提供的两部分 ChatGPT Custom Instructions 基线
+
+本节保留用户在会话中明确说“当前 Custom Instructions 中是……”时提供的内容（仅规范 Markdown 排版与空白，不改变实质）。这是后续差异比较的 **B0 基线**，区别于随后提出的三部分建议稿。
+
+### B0 第一部分：专门抑制防御性
+
+> 一、优先完成实质分析并给出明确判断。
+>
+> 区分证据不足与证据反对：材料不完整时，继续利用现有证据形成适当限定的结论，不要直接将其认定为不可行。
+>
+> 保留真实且重要的不确定性，但不对已经说明的边界反复解释，不针对假想质疑增加免责声明。
+>
+> 有证据支持的结论应直接陈述，不为显示严谨而主动弱化。发现真实错误应直接纠正。
+>
+> 输出优先包含结论、关键依据及对判断有实质影响的限制；不使用大量篇幅说明自己没有做什么。
+
+### B0 第二部分：原有高信息密度准则
+
+> 二、在执行第一条的前提下，以高信息密度、聚焦、高效的方式回答，同时保持必要的完整性和准确性。
+>
+> 默认遵循以下原则：
+>
+> 1. 先直接回答我的核心问题，不要用冗长的开场、复述问题或总结我的意图。
+> 2. 根据问题复杂度自适应控制篇幅：简单问题直接简短回答；复杂问题可以详细，但只保留对理解、判断或执行有实际价值的信息。
+> 3. 不要为了简短而省略会影响结论的前提、限制条件、关键例外、风险或必要步骤。
+> 4. 优先给结论，再给最重要的依据、步骤或解释；重要信息放前面。
+> 5. 避免重复表达同一个观点，避免不必要的背景知识、常识性解释和泛泛而谈。
+> 6. 如果存在多个选项，优先比较关键差异，并明确指出哪个更适合什么情况。
+> 7. 对操作型问题，优先给可直接执行的步骤；对分析型问题，优先给结论、关键依据和取舍。
+> 8. 只有当缺少的信息会显著改变答案时才向我提问；否则基于合理假设先回答，并简要说明假设。
+> 9. 使用清晰的段落、标题、项目符号或表格，但不要为了形式而过度分段。
+> 10. 除非我明确要求深入展开，否则不要主动扩展到与当前问题关系较弱的内容。
+> 11. 如果回答较长，先给一个简短结论或摘要，再展开必要细节。
+> 12. 不需要习惯性地在结尾追加“如果你愿意，我还可以……”之类的延伸建议，除非确实有明显价值。
+>
+> 目标：让我用尽可能少的阅读时间，获得足以做判断、理解问题或完成任务的信息。
+
+**基线评价**：保留价值很高；主要缺口在多轮任务真正执行和实际交付，且第二部分“结论前置/自适应/不冗长”有轻度重复，可做结构性收敛。
+
+## 4. 三部分整合草案：B1（讨论产物，非最终采用版）
+
+在吸收 i-have-adhd 后，提出“实质判断 → 高效表达 → 行动交付”的三层结构。以下保留其**完整可复用文本**，便于未来同题 A/B 测试（不是已实际部署的声明）：
+
+### 一、实质判断与防御性控制
+
+优先完成当前任务阶段的实质工作并给出明确判断。
+
+区分证据不足与证据反对：材料不完整时，继续利用现有证据形成适当限定的结论，不要直接将其认定为不可行。局部失败不等于整体不可行，应根据失败原因继续探索有价值的路径。
+
+保留真实且重要的不确定性，但不对已经说明的边界反复解释，不针对假想质疑增加免责声明。
+
+有证据支持的结论应直接陈述，不为显示严谨而主动弱化。发现真实错误应直接纠正；不把推测当作已确认事实，也不为避免犯错而拒绝形成有依据的判断。
+
+输出优先包含结论、关键依据及对判断有实质影响的限制；不使用大量篇幅说明自己没有做什么。
+
+### 二、高信息密度与高效表达
+
+在确保实质分析、必要完整性和准确性的前提下，以聚焦、清晰、高信息密度的方式回答。
+
+1. **结论优先。** 直接回答核心问题，不用冗长开场、复述意图或说明即将如何回答。分析型任务先给结论，操作型任务先给可执行方案，写作任务直接交付所需内容。
+2. **篇幅自适应。** 简单问题简短回答；复杂问题可以深入展开，但只保留对理解、判断或执行有价值的内容。不为追求简短而省略重要依据、风险、例外或必要步骤。
+3. **突出关键差异。** 涉及多个选项时，优先比较决定性差异，明确推荐及适用条件，避免只有优缺点罗列而没有判断。
+4. **避免信息冗余。** 不重复表达同一观点，不添加无关背景、泛泛建议、客套话、空泛总结或习惯性延伸邀请。
+5. **组织便于阅读。** 合理使用段落、标题、列表和表格；将最重要的信息放在前面，相关内容集中呈现。结构服务于理解，不为形式而过度分段、拆解或压缩。
+
+### 三、行动导向与多轮任务交付
+
+1. **让答案可以直接使用。** 操作型任务给出明确步骤、命令或必要参数；多步骤任务按执行顺序编号，每步有清晰动作。能够在当前授权和工具范围内直接完成的工作，应优先执行，而非转交用户操作。
+2. **清楚展示实际结果。** 对执行型任务，说明已完成的成果、关键验证结果及尚存的重要问题。区分任务已完成、部分完成、仍受阻，不用大量过程叙述代替成果。
+3. **状态变化时简要同步。** 多轮或分阶段任务，在取得实质进展、关键判断改变或出现阻塞时，简洁说明当前状态与下一步；不每轮机械重复完整任务背景或进度清单。
+4. **准确处理失败与不确定性。** 报错时优先说明实际现象、已确认原因和有效修复办法；原因未明确时，区分事实与假设，给出最有判别力的下一步核查，而不凭猜测直接下结论。
+5. **适时结束。** 完成要求后停止，不无故追加检查、反复确认或制造新的待办。只有存在真正需要用户采取的行动或决策时，才明确给出下一步。
+
+以上规则不得削弱用户明确要求的研究深度、内容完整性、必要验证、证据留存、安全要求与交付标准。遇到具体任务的明确要求与通用表达偏好不一致时，以任务要求为准。
+
+**总目标：以尽可能低的阅读和交互成本，让我获得足以理解、判断、决策或直接行动的可靠结果。**
+
+### B1 与 B0 的关键增量
+
+- 增加“当前阶段”及“局部失败后继续探索”，处理不只是文风而是判断退缩。
+- 从纯输出规则扩展为“可执行即执行”“实际结果可见”。
+- 多轮时按**状态变化**更新，反对 ADHD 原版的无条件每轮重述。
+- 排障先解释实际现象与已证实原因，避免把假设包装成结论。
+- 全局规则不压过特定任务的研究深度、验收、证据和安全边界。
+
+## 5. 工具与 Skill 的逐项比较：Taste、STS、i-have-adhd
+
+| 对象 | 它改变什么 | Pi 的已知接入 | Codex 的已知接入 | 在本专题中的定位 |
+| --- | --- | --- | --- | --- |
+| [GPT with Taste](https://github.com/NB-Corp/gpt-with-taste) | 跨任务的判断、执行、研究、协作、写作质量 | Pi 1.2.0+ 原生扩展，提供 `/taste on/off`；针对指定 GPT 模型注入 | 用 `model_instructions_file` 设置主指令；可选 Hooks 做请求、子 Agent、协作完成提醒 | **工作行为层**；若试用，先单独测主指令 |
+| [Stop That Shit](https://github.com/lennney/stop-that-shit) | 防止范围膨胀、无用 Hash、防御性过度工程、只读越权及任务打转 | Pi Extension + Skill + Guard；仓库公开固定验证版本为 0.84.4（对更高版本另测） | Skill + Guard；显式 `review` / `change` / `watch`，受支持工具路径可拦截 | **执行授权与边界层**；按需启用 |
+| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | 行动先行、编号步骤、压制离题、状态可见、简洁表达 | 原生 Extension，有 `/i-have-adhd on/off` | 插件/Skill，通过 `$i-have-adhd` 显式启用 | **输出呈现层**；吸收规则，不必全局启用 |
+
+### 5.1 GPT with Taste 的注意事项
+
+- 主指令范围很广，覆盖研究、编程、视觉、协作、文字，不只是减少免责声明。
+- Codex 纯提示词安装会将 `config.toml` 的 `model_instructions_file` 指向其主指令；这不同于“在原生指令末尾追加几句话”。选择这一安装方式意味着要测试原生行为被替换后的影响。
+- Codex Hooks 触发依赖客户端支持的事件；并非对所有恢复/子 Agent 调用路径都保证覆盖。
+- Pi 扩展默认不覆盖工具权限或原有项目规则。
+- 作者示例显示对说明文档的表达改善，但不是全面有效率的大样本证明。
+- 来源：[README](https://github.com/NB-Corp/gpt-with-taste)，[Codex 说明](https://github.com/NB-Corp/gpt-with-taste/blob/master/docs/install.md)，[Pi 说明](https://github.com/NB-Corp/gpt-with-taste/blob/master/docs/harnesses/pi.md)，[案例索引](https://github.com/NB-Corp/gpt-with-taste/blob/master/docs/cases.md)。
+
+### 5.2 Stop That Shit 的注意事项
+
+- Skill 用来判断额外机制是否有“具体消费者或作用”；Guard 能拦截明确的工具授权违规，但**不会自动理解所有抽象设计是否过度**。
+- 规则典型模式：`review` 只读、`change` 允许所需修改、`watch` 观察，支持文件/依赖/Hash/Agent 预算约束。
+- 初始 Guard 为观察态，需要显式设立契约后才进入受约束执行；不能把“插件已装”直接当成“已拦住越权”。
+- 公布的 Bad/Good 规则用例检验的是规则实现；与真实模型完成复杂任务的质量提升不是同一指标。
+- 对必须提交 SHA、固定分支、证据固化、回读验收的工作流，相关动作具有实际用途，不应该因为“少做验证”原则而取消。
+- 来源：[README](https://github.com/lennney/stop-that-shit)，[Skill](https://github.com/lennney/stop-that-shit/blob/main/skills/stop-that-shit/SKILL.md)，[Evidence](https://github.com/lennney/stop-that-shit/blob/main/EVIDENCE.md)。
+
+### 5.3 i-have-adhd 的注意事项与实验数据
+
+它的 10 条原始规则：先写下一步行动、多步编号、结尾只给一个下一步、减少岔题、每轮重述状态、给具体估时、成果可见、错误直说、列表分组不超过五项、不要开场/总结/套话。存在任务优先的例外，禁止为追求简短删除完整答案。
+
+作者发布 2026-08-02 的自测：Claude Opus 4.8、14 类场景 × 3 次；原生 vs 注入 Skill，综合加权评分约 4.045→4.473，简洁性 3.429→4.571，可执行性 3.905→4.619；10 胜 2 平 2 负。**发布门槛仍为 FAIL**，且 `partial-success` 类任务产生一个有机制解释的负例：过度要求“直接给原因”可能让模型把未查明的错误原因写成事实。
+
+对本项目的取舍：
+- 保留“结论/行动先行”“多步骤编号”“结果可见”“无用铺垫删除”。
+- 不硬性要求每轮重复状态、永远结尾给下一步、强制估时、所有列表最多五项。
+- 未有该实验直接验证 GPT-6 的证据。
+- 来源：[Skill 原文](https://github.com/ayghri/i-have-adhd/blob/main/skills/i-have-adhd/SKILL.md)，[评测结果](https://github.com/ayghri/i-have-adhd/blob/main/evals/RESULTS.md)，[安装](https://github.com/ayghri/i-have-adhd/blob/main/INSTALL.md)。
+
+## 6. 「实际经验参考版」：论坛公开指令与可迁移做法
+
+**定义**：以 linux.do、Reddit 公开个人经验、实际指令文本和使用反馈为材料；优先提取可验证的具体规则，不把点赞数或主观体验当作效应量。
+
+| 类型 | 代表来源 | 讨论中归纳的要点 | 证据地位 |
+| --- | --- | --- | --- |
+| 高信息密度 + 证据审查 | [linux.do：分享一下我的 ChatGPT 自定义指令](https://linux.do/t/topic/2252708) | 结论前置、区分事实/推断/猜测/未知、来源按风险分级、排障先验证低成本原因 | 已核页面正文；个人经验 |
+| GPT-6 自然表达 | [linux.do：GPT-6 自用 Prompt](https://linux.do/t/topic/3041171) | 减少机械化标题、不要虚构假想对立、不刻意升华 | 前轮报告，具体正文待逐条回读 |
+| 学术写作“去 AI 味” | [linux.do：自定义 ChatGPT 学术写作](https://linux.do/t/topic/918406) | 减少模板化措辞与无用强调 | 前轮报告；不宜扩成全局禁用标点 |
+| 问答 Prompt 的边际收益 | [linux.do：网页问答 Prompt 推荐](https://linux.do/t/topic/2248271) | 少量稳定规则 + 当前任务明确要求，可能优于复杂模板 | 经验观点 |
+| Reddit 输出冗长 | [r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1vio9e6/) | 给默认推荐、减少陪聊式语句、输出方式可按任务切换 | 前轮报告；未独立复现 |
+| Reddit 批判性思考 | [r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1vsrgxf/) | 不盲从用户、质疑实际错误、不为“中立”硬凑双方对称 | 前轮报告 |
+| Reddit 通用模板 | [r/PromptEngineering](https://www.reddit.com/r/PromptEngineering/comments/1vlfyqp/) | 事实与推断、来源检验、问题边界、时效信息 | 前轮报告；可能诱发检查过度 |
+| Codex 执行效率 | [linux.do：Codex 过度探索/测试讨论](https://linux.do/t/topic/2723524) | 按问题选择搜索、工具和测试；避免所有任务全套流程 | 前轮经验汇总 |
+| Codex 全局偏好 | [linux.do：Codex 全局配置](https://linux.do/t/topic/2914526) | Windows 环境、用户改动保护、全局/项目边界 | 前轮经验汇总 |
+| Codex 三层治理 | [linux.do：Codex Three-Layer Delivery](https://linux.do/t/topic/2919030) | 全局习惯、仓库约束、专业 Skill 分层 | 前轮经验汇总 |
+
+**本轮筛选结果**（不是用户已采纳的最终修改）：
+- 候选增量 1：独立判断不等于刻意反对，只在真实错误/逻辑缺陷/重要遗漏存在时指出，不制造假想对立。
+- 候选增量 2：核验深度随重要性、时效性、来源质量与错误后果变化；不要所有问题启动完整审查。
+- 对“一律强制置信度、所有事实联网、无限反证、每轮只给一步”持保留态度。
+
+## 7. 「知名经验参考版」：知名规则、成熟 Skills、官方与实证研究
+
+**定义**：源自知名开发者观点、经传播的 AGENTS.md/Skill 规则体系、成熟开源工作流以及有方法说明的研究。应分清“原作者观点”和“社区根据其观点写成的 Skill”。
+
+| 候选 | 规则主张 | 值得迁移的内容 | 主要边界 |
+| --- | --- | --- | --- |
+| [Karpathy-derived interaction guidelines](https://github.com/hburaktasyurek/karpathy-interaction-guidelines) | Think Before Acting、Simplicity、Surgical Changes、Goal-Driven Execution（加上维护者的 Communication） | 当前阶段完成定义、先明确真正影响方向的未知、保持最小充分改动 | 社区整理并非 Karpathy 本人官方授权发布；不要无差别要求“有歧义必提问” |
+| [Ponytail](https://github.com/DietrichGebert/ponytail) | 消除无实际用途的复杂性 | 对“额外机制/检查/分析”要求有真实价值或消费者 | 简化不得破坏已有支持承诺 |
+| [Superpowers](https://github.com/obra/superpowers) | 系统排障、Review 意见核实、完成前验证 | 根因优先，明确达到什么条件才算完成 | 不必对每次小事全部套计划/TDD/分工 |
+| [Addy Osmani agent-skills](https://github.com/addyosmani/agent-skills) | 以使用者理解与维护成本衡量简化 | 清晰胜过机械缩短 | 已清晰的不强行再简化 |
+| [gstack](https://github.com/garrytan/gstack) | 构思、评审、实施、交付按模式分工 | 探索阶段可拓宽，决策阶段收敛，执行阶段守边界 | 不把扩展禁止设为全部阶段通用 |
+| [Matt Pocock skills](https://github.com/mattpocock/skills) | `grill-me` 重大澄清、`handoff` 交接、`writing-for-agents` | 真正重大的未决项才深入澄清；保留可恢复的交接材料 | 不让每次普通问答变成访谈 |
+| [Humanizer](https://github.com/blader/humanizer) | 去除空泛强调、刻意反差、机械化写法 | 自然地表达事实与重要差异 | 不机械禁止所有特定句式或标点 |
+| [OpenAI：Rethinking skills and prompts for GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra) | 条件触发 Skill、渐进披露、精简过时 `AGENTS.md`、避免重复测试、明确完成条件 | **本专题高度相关、已核对官方全文** | 针对 GPT-6 Astra/Codex，迁移至普通 ChatGPT 时仍需区分任务 |
+| [Evaluating AGENTS.md](https://www.sri.inf.ethz.ch/publications/gloaguen2026agentsmd) | 仓库规则可能增加探索与成本而未改善成功率 | 全局规则尽量保留最小的必要要求 | 特定编码代理基准，不代表所有提示词无效 |
+| [Stale Instruction Files Override the Code](https://arxiv.org/abs/2610.30571) | 过时 `AGENTS.md` 可能压倒已有代码惯例 | 发生冲突时核查规则时效与正式契约，避免照单全收 | 40 个构造的 Python 项目、320 次运行；不能推出代码总是高于正式规则 |
+
+### 7.1 两项已补充核验的实证信息
+
+- ETH/SRI 论文报告：在所测编码代理任务中，仓库级上下文文件**没有带来稳定任务成功率改善**，同时推理成本增加 20% 以上，更多触发测试和文件探索。原研究范围是编码任务，不能直接外推到 ChatGPT 对话。
+- Xu & Wu 预印本报告：40 个构造 Python 项目、320 次编码代理执行，指令与现有代码冲突时，加入一条明确冲突处理规则后，遵循现有代码惯例的选择比例由 4.2% 提升至 91.4%。应理解为实验环境中的特定冲突处理，不代表安全、法律、正式任务要求可以被代码惯例覆盖。
+
+### 7.2 与「实际经验参考版」的关系
+
+两条证据线在同一方向上互相支持：**不要把可取的行为原则统统变成无条件启动的工作流**。但“用户体验改善”和“任务成功率提升”仍是两个不同的效应，后续应该分别验证。
+
+## 8. 建议方向与尚未决议的选择
+
+### 8.1 当前建议（研究判断，未最终批准）
+
+| 目标 | 暂时推荐 | 不优先采用 |
+| --- | --- | --- |
+| ChatGPT 日常问答与研究 | 保留 B1 三层结构；再审查“真实错误才反对”“按风险决定核验深度”“任务阶段适配”三项增量 | 追加所有 Skill 全文 |
+| Codex App/CLI | 与 ChatGPT 分开写执行规则；仓库 `AGENTS.md` 保留项目规范；考虑 Taste 纯提示词模式单独 A/B | 在未知同步与冲突下开启多组全局 Hook |
+| Pi Agent | 可试 Taste；i-have-adhd 用开关测试输出效果；STS 的 Guard 另做兼容性验证 | 未验证 Pi 当前版本就硬装多种 Guard |
+| 研究成果定稿 | 证据核验阶段认真查错，表达阶段删除没有信息价值的重复限定 | 为模拟假想审稿而无期限自查 |
+
+### 8.2 几个仍需独立判断的问题
+
+1. **B1 是否过长？** 需要以相同任务比较准确性、实质性判断、阅读成本与输出重复，而非只数指令字符。
+2. **“不虚构对立”应否加入通用指令？** 倾向适度加入，但不要抑制必要反证或真实反对。
+3. **“完成条件”应如何表达？** 分析任务以结论与依据为完成，实施任务以可验证成果为完成，探索任务以发现空间和停止边界为完成。
+4. **哪些只适合 Codex？** 文件范围、Git 状态保护、依赖、subagent、tests、worktree、commit 不应堆进 ChatGPT 文风全局指令。
+5. **如何判断真实改善？** 建议对比相同问题的 B0、B1、B1+精选规则，至少覆盖简单问答、行业研究、复杂比较、技术排障和多轮执行任务；分开评价是否答对、是否推进、是否引入额外风险、是否减少阅读成本。
+
+## 9. 后续追加与版本治理约定
+
+本文件是**同一专题的唯一持续入口**，后续在它上面更新，不另开“本次又补充了三条提示词”式重复笔记；除非形成独立可复用的大型研究产物，才另建笔记并双向链接。
+
+每轮追加建议：
+- 在第 2 节时间线加一行：本轮触发、做了什么、发现/反证与决策变化。
+- 在第 6 或 7 节补充来源链接和证据性质，**论坛、作者案例、官方文档、实验不要混为同级**。
+- 若改变 B0/B1 结论，在第 8 节写明保留/修订/废弃的理由，不静默覆盖旧判断。
+- 发布正式 Custom Instructions 时，新设 **B2 或 v1 正式文本** 并记录采用日期与作用范围；不要把草案追认为已部署。
+- 更新 `updated:` 和下方 Revision log；只因实质变化修订。
+
+## 参考来源速查
+
+### 官方与研究（本轮有针对性核验）
+
+- OpenAI 官方，2026-09-11：[Rethinking skills and prompts for GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra)。
+- SRI/ETH：[Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://www.sri.inf.ethz.ch/publications/gloaguen2026agentsmd)。
+- Xu & Wu，2026-10-22：[Stale Instruction Files Override the Code in Coding Agents: A One-Sentence Fix](https://arxiv.org/abs/2610.30571)。
+
+### 开源原始材料（本次会话已读取主要 README/规则/部分适配文件）
+
+- [GPT with Taste](https://github.com/NB-Corp/gpt-with-taste)；[Codex 安装](https://github.com/NB-Corp/gpt-with-taste/blob/master/docs/install.md)；[Pi](https://github.com/NB-Corp/gpt-with-taste/blob/master/docs/harnesses/pi.md)。
+- [Stop That Shit](https://github.com/lennney/stop-that-shit)；[完整 Skill](https://github.com/lennney/stop-that-shit/blob/main/skills/stop-that-shit/SKILL.md)；[STSS](https://github.com/lennney/stop-that-shit/blob/main/skills/stss/SKILL.md)。
+- [i-have-adhd](https://github.com/ayghri/i-have-adhd)；[核心 Skill](https://github.com/ayghri/i-have-adhd/blob/main/skills/i-have-adhd/SKILL.md)；[公开实验](https://github.com/ayghri/i-have-adhd/blob/main/evals/RESULTS.md)。
+- [Karpathy 衍生规则](https://github.com/hburaktasyurek/karpathy-interaction-guidelines) 及第 7 节其他项目。
+
+### 社区经验（部分仅为前轮会话整理，正式引用前复核原帖）
+
+- [linux.do 自定义指令原文](https://linux.do/t/topic/2252708)。
+- [linux.do GPT-6 自用 Prompt](https://linux.do/t/topic/3041171)。
+- [Reddit 输出冗长实践](https://www.reddit.com/r/ChatGPT/comments/1vio9e6/)。
+- [Reddit 批判性思维实践](https://www.reddit.com/r/ChatGPT/comments/1vsrgxf/)。
+
+## 限制与待核验
+
+- 本文部分论坛条目来源于先前对话中的摘要，尚未逐条回读全部评论；已在表格中标为“前轮报告”。
+- 不把 GitHub Stars、作者演示或其自测分数直接当作可普遍迁移的效能证明。
+- Codex 网页 Custom Instructions 和桌面/CLI 的确切同步及优先级应以后续软件版本实测为准。
+- B1 三部分指令仍是**拟稿**，而不是经用户最终确认的部署版本。
+- 用户明确要求的研究深度、远端分支隔离、提交 SHA、证据固化与回读不能被“反过度防御”规则取消。
+
+## Revision log
+
+- **2026-11-01 · v0.1 建立持续记录**：归档 B0 用户原文、B1 三段式草案、会话推进与关键取舍；把“实际经验参考版”与“知名经验参考版”固定为两个独立证据通道；列出三种 Skill 的 Pi/Codex 差异和后续综合优化问题。部分来源追加本轮官方及论文核验。状态保持 `working`，不生成最终合并指令。
