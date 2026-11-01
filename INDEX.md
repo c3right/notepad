@@ -86,7 +86,7 @@
 
 - **2026-11-01 — [ChatGPT / Codex Custom Instructions 优化：防御性、ADHD 输出与 Agent 准则持续探索](./notes/2026/2026-11-01-chatgpt-codex-custom-instructions-exploration.md)**  
   保留用户两部分原始指令与三部分整合草案，记录 GPT with Taste／Stop That Shit／i-have-adhd 的 Pi/Codex 比较、论坛「实际经验参考版」、Karpathy 等「知名经验参考版」、证据分级、关键取舍及后续追加协议。尚未定稿。  
-  \`ChatGPT\` \`Codex\` \`Custom-Instructions\` \`AGENTS.md\` \`prompt-engineering\`
+  `ChatGPT` `Codex` `Custom-Instructions` `AGENTS.md` `prompt-engineering`
 
 ### 网络与自建服务
 
