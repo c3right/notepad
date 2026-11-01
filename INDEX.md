@@ -82,6 +82,12 @@
   核对96、46、50册与Bluey156国语条目、154故事、16单元/43详细卡/85简卡；说明哪些历史Excel被最新Markdown和CSV取代。
   `SEL` `KASEL` `Bluey` `data-archive`
 
+### AI 助手与 Agent 工作方法
+
+- **2026-11-01 — [ChatGPT / Codex Custom Instructions 优化：防御性、ADHD 输出与 Agent 准则持续探索](./notes/2026/2026-11-01-chatgpt-codex-custom-instructions-exploration.md)**  
+  保留用户两部分原始指令与三部分整合草案，记录 GPT with Taste／Stop That Shit／i-have-adhd 的 Pi/Codex 比较、论坛「实际经验参考版」、Karpathy 等「知名经验参考版」、证据分级、关键取舍及后续追加协议。尚未定稿。  
+  \`ChatGPT\` \`Codex\` \`Custom-Instructions\` \`AGENTS.md\` \`prompt-engineering\`
+
 ### 网络与自建服务
 
 - **2026-10-08 — [ZgoCloud LA VPS：Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./notes/2026/2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)**  
@@ -236,6 +242,7 @@
 ## 按时间
 
 ### 2026
+- 2026-11-01 — [ChatGPT／Codex Custom Instructions：两条经验研究线与持续探索记录](./notes/2026/2026-11-01-chatgpt-codex-custom-instructions-exploration.md)
 - 2026-10-31 — [SEL表格归档完整性审核（四份规范CSV）](./notes/2026/2026-10-31-sel-generated-spreadsheet-archive-audit.md)
 - 2026-10-30 — [丹尼尔×Bluey分层家庭预读一体手册](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)
 - 2026-10-30 — [Bluey匹配丹尼尔16单元：精简＋扩展两版](./notes/2026/2026-10-30-sel-bluey-daniel-16-units-two-plans.md)
