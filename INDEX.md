@@ -147,6 +147,10 @@
 
 ### 历史与阅读
 
+- **2026-11-03 — [中国传统史书的矩阵化阅读：史记、春秋左传与导读资料](./notes/2026/2026-11-03-china-classical-histories-matrix-reading-guide.md)**  
+  对接20×6中国史矩阵，归档《史记》《汉书》《三国志》《春秋》《左传》原典选读方法，并比较《史记》及《春秋》《左传》的结构化导读书、中文版本线索与未核验边界。  
+  `history` `china-history` `classical-texts` `reading-guide` `historiography`
+
 - **2026-11-03 — [世界史25×6矩阵的桌游实践：游戏筛选与iPhone《历史巨轮》观察指南](./notes/2026/2026-11-03-world-history-boardgames-through-the-ages-practice.md)**  
   对比10款历史桌游的机制与史学局限，记录用户已购iPhone《历史巨轮》及其六线耦合观察、瓶颈转移、三问复盘；尚无实际对局反馈。  
   `history` `world-history` `board-games` `systems-thinking` `Through-the-Ages`
@@ -184,7 +188,7 @@
   `history` `world-history` `historiography` `reading-path` `international-relations`
 
 - **2026-09-10 — [中国史阅读框架：20×6矩阵与双轨书单](./notes/2026/2026-09-10-china-history-reading-framework.md)**  
-  用20个关键节点 × 国家制度、财政经济、中原—边疆、社会结构、思想合法性、技术人口生态六条主线重构中国史，并给出12个双轨阅读单元和第一轮12本核心书单。  
+  中国史20×6矩阵的有效入口；包含12个双轨阅读单元、中外视角补充、先易读后专业的分层决定，并链接独立的传统史书原典导读研究。  
   `history` `china-history` `historiography` `reading-path` `state-formation`
 
 ### 医学史与传统医学
@@ -246,6 +250,7 @@
 ## 按时间
 
 ### 2026
+- 2026-11-03 — [中国传统史书的矩阵化阅读：史记、春秋左传与导读资料](./notes/2026/2026-11-03-china-classical-histories-matrix-reading-guide.md)
 - 2026-11-03 — [世界史25×6矩阵的桌游实践：游戏筛选与iPhone《历史巨轮》观察指南](./notes/2026/2026-11-03-world-history-boardgames-through-the-ages-practice.md)
 - 2026-11-01 — [ChatGPT／Codex Custom Instructions：两条经验研究线与持续探索记录](./notes/2026/2026-11-01-chatgpt-codex-custom-instructions-exploration.md)
 - 2026-10-31 — [SEL表格归档完整性审核（四份规范CSV）](./notes/2026/2026-10-31-sel-generated-spreadsheet-archive-audit.md)
