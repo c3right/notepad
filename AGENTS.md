@@ -1,125 +1,242 @@
-# Repository capture rules
+# AGENTS.md｜notepad 仓库使用约定
 
-This repository is a durable notepad for small discoveries, research fragments, conversation syntheses, reading lists, decision notes, and other compact outputs worth keeping.
+## 1. 仓库定位与基本原则
 
-These rules apply to AI assistants and humans adding material to this repository.
+- 本仓库用于长期保存 ChatGPT 会话、公开研究、阅读整理、技术实践和个人思考形成的可复用成果。
+- 内容不限定主题或规模，既可以是简短的发现、书单和决策备忘，也可以是多轮深度研究、长期演进的知识框架及实施经验。
+- **既保存成果，也保存形成成果的关键过程。** 目标是让未来的新会话能够从仓库恢复必要的研究背景、重要判断、方案取舍、有效版本及未完成事项，而不必重新阅读原始聊天记录。
+- 默认保存经过整理的知识成果，不保存完整聊天记录、无价值的中间草稿和重复讨论。
+- 用户决定研究范围、重要方案取舍、执行授权及下一阶段是否启动。不要将讨论建议自动视为已获批准的决定。
+- 采用最小充分原则：已有笔记和索引能够完成任务时，不增加额外管理文件、流程、工具或审查机制。
 
-## 1. Storage model
+## 2. 会话启动与上下文接续
 
-Use chronology as the canonical storage key and metadata for topical retrieval.
+1. 当用户要求从本仓库启动、接续或恢复专题时，先读取本文件，再通过 `INDEX.md` 定位相关笔记。
+2. 优先阅读本次任务直接相关的有效成果、专题过程记录及关键引用；不默认通读整个仓库。
+3. 对持续演进的专题，应识别当前有效版本、既有用户决定、尚未解决的问题和此前的研究边界。
+4. 当前笔记与早期研究记录出现差异时，检查形成差异的原因及后续明确决定，不直接以旧结论覆盖新成果。
+5. 原始资料无法访问、此前论断未经过独立核验时，应明确说明证据状态，不以历史总结冒充原始来源。
+6. 本次任务只涉及局部内容时，不因仓库存在相关旧研究而自动扩展至整个专题。
 
-- Canonical notes: `notes/YYYY/YYYY-MM-DD-<ascii-kebab-slug>.md`
-- Reusable note template: `_templates/note.md`
-- Human-facing catalog: `INDEX.md`
-- Repository purpose and navigation: `README.md`
+## 3. 存储结构与命名
 
-Do **not** create top-level folders per topic unless the repository later grows enough to justify a migration. Many notes span several topics; forcing them into one topical folder creates ambiguous placement.
+沿用现有存储模式：
 
-## 2. What to save
+```text
+notepad/
+├── README.md
+├── AGENTS.md
+├── INDEX.md
+├── _templates/
+│   └── note.md
+└── notes/
+    └── YYYY/
+        └── YYYY-MM-DD-ascii-kebab-slug.md
+```
 
-Save a distilled, reusable artifact rather than a raw chat transcript unless the user explicitly asks for the transcript.
+- 正式笔记统一存入 `notes/YYYY/`。
+- 文件名采用创建日期加简短 ASCII kebab-case 主题标识。
+- 跨主题检索主要依赖 YAML 元数据和 `INDEX.md`，不按主题建立顶层目录。
+- 同一笔记后续更新时，原则上保持原有文件路径及创建日期不变。
+- 已有文件和链接默认保持原状，不因统一命名而批量重命名、移动或重构。
+- CSV、YAML、Python脚本及其他配套资料可与对应笔记存放在同一目录，通过笔记建立链接；配套文件不强制使用笔记模板。
+- 默认使用 Markdown；表格、数据、配置或正式成果需要其他格式时，保留有实际使用价值的文件格式。
 
-A good saved note should preserve:
+## 4. 笔记内容与元数据
 
-1. the core question or trigger;
-2. the strongest conclusions;
-3. the framework/model produced;
-4. useful tables, checklists, book lists, links, or other concrete outputs;
-5. important caveats and unresolved items;
-6. next steps only when they materially help future reuse.
+### 4.1 内容保存标准
 
-Remove conversational filler, repeated turns, and obsolete intermediate formulations. If the conversation evolved, save the latest coherent model and briefly note major earlier alternatives only when useful.
+每份正式笔记应尽可能让未来读者理解：
 
-## 3. Required front matter
+- 研究或讨论的起因、核心问题与适用范围；
+- 当前有效结论、研究框架或实际成果；
+- 支撑结论的主要事实、来源及判断依据；
+- 实际有用的表格、书单、操作方法、工具、清单或附件；
+- 重要限制、尚待核验事项及必要的接续信息。
 
-Every canonical note must begin with YAML front matter:
+不要求每份笔记都有上述全部内容，也不强制统一章节结构。优先参考 `_templates/note.md`，根据内容选择有价值的章节。
+
+### 4.2 关键过程留存
+
+对于经历多轮研究、讨论、修改或实际测试的成果，按复杂度保留：
+
+- 主要推进阶段及各阶段解决的问题；
+- 关键判断及形成判断的依据；
+- 重要候选方案、最终取舍及有意义的淘汰理由；
+- 用户明确确认、否决或调整的事项；
+- 影响后续理解的重要版本变化；
+- 真实测试与实际实施结果，包括失败原因、未验证部分；
+- 当前有效结论与后续研究边界。
+
+重点保留**仅看最终成果无法恢复、但会影响未来判断的信息**。
+
+不要求保存完整推理过程、全部聊天记录或每份中间草稿。简单成果可将必要背景写在同一文件中；复杂专题可分别保留研究过程与最终成果，并建立清晰的双向链接。
+
+### 4.3 YAML 元数据
+
+每份正式 Markdown 笔记保留标准 YAML front matter：
 
 ```yaml
 ---
-title: "..."
+title: "中文标题"
 date: YYYY-MM-DD
 updated: YYYY-MM-DD
-status: evergreen | working | archived
-type: synthesis | research-note | reading-list | decision-note | checklist | reference
+status: working
+type: synthesis
 topics:
   - topic-a
   - topic-b
 keywords:
   - keyword-a
-  - keyword-b
 source: "ChatGPT conversation | web research | personal note | mixed"
 language: zh-CN
 ---
 ```
 
-Guidance:
+字段规则：
 
-- `title`: human-readable Chinese is fine.
-- filename slug: use concise ASCII kebab-case for stable links/tool compatibility.
-- `topics`: 2–6 broad, reusable categories.
-- `keywords`: concrete concepts, book names, people, or techniques useful for search.
-- `status=evergreen`: distilled note expected to remain useful.
-- `status=working`: incomplete, tentative, or still being developed.
+- `date`：首次创建笔记的日期，不一定是原始讨论或研究发生的日期。
+- `updated`：最近一次实质内容更新日期。
+- `status`：推荐使用 `working`、`evergreen`、`archived`。
+- `type`：推荐使用 `synthesis`、`research-note`、`reading-list`、`decision-note`、`checklist`、`reference`。
+- `topics`：一般采用2—6个稳定、便于复用的主题标签。
+- `keywords`：采用具体概念、人物、书籍、方法或技术关键词。
+- `source`：说明材料来源，不代替重要事实的原始出处和引用。
 
-## 4. Recommended note structure
+`status` 与 `type` 允许为具有实际独立含义的特殊条目扩展取值；不因历史笔记使用了扩展值而强制迁移。
 
-Use only sections that add value, but prefer this order:
+## 5. 研究证据与结论边界
 
-1. `# Title`
-2. `## 一句话结论` / executive summary
-3. `## 核心框架`
-4. `## 关键内容` or domain-specific sections
-5. `## 可直接使用的工具/清单`
-6. `## 书目与参考`
-7. `## 限制与待核验`
-8. `## Revision log` when materially updated later
+- 区分原始事实、解释性判断、个人选择、建议、估算和待验证假设。
+- 重要事实应尽可能保留原始来源链接、来源日期、适用范围和必要的数据口径。
+- 涉及外部资料时，区分已核验来源、二手转述、个人经验和未经核实的线索。
+- 不将未完成的研究计划写成已实施成果；不将用户提出的候选观点写成已确认决定。
+- 对书籍、ISBN、政策、价格、软件版本、服务条款等可能变化的信息，保留已核实的时间边界；在未来实际使用时按需要重新核验。
+- 对存在合理分歧的议题，可以保留不同解释及证据强弱，不为形成单一答案而掩盖真实分歧。
+- 不为追求形式化而强制所有简单笔记建立证据台账；研究深度与证据要求由具体任务及实际风险决定。
 
-## 5. Evidence and uncertainty
+## 6. 持续研究、版本与笔记关系
 
-- Distinguish facts, interpretations, recommendations, and hypotheses.
-- For current or externally verified facts, retain useful source links and dates when available.
-- Never make a speculative claim look verified merely because it appeared earlier in a conversation.
-- Bibliographic metadata gathered from the web should be marked as needing publisher/copyright-page verification when exact edition details matter.
-- Preserve meaningful disagreements between models instead of forcing a false single answer.
+### 6.1 优先更新还是新建
 
-## 6. Updating existing notes
+新增笔记前，先检索是否已有明显重合的条目。
 
-Before creating a new note, search for a clearly overlapping existing note.
+- 同一成果的后续完善、补充核验或局部修订，优先更新原有文件。
+- 研究目标、内容范围或使用方式明显不同，且新内容具有独立复用价值时，可新建笔记。
+- 过程研究与最终成果可以分别建档，但须互相链接，并明确哪个文件是当前有效入口。
+- 已归档但仍有价值的历史方案可以保留，不因出现新版本就自动删除。
 
-- If the new material is a continuation or refinement of the same artifact, update the existing note.
-- If it is independently useful or substantially different in scope, create a new note and cross-link it.
-- On material updates, change `updated:` and add a short `Revision log` entry.
-- Do not silently erase an earlier conclusion when the change itself is informative; note the revision briefly.
+### 6.2 重要变化的记录
 
-## 7. Maintain the index
+发生实质性更新时：
 
-Every new canonical note must be added to `INDEX.md` with:
+- 更新 `updated` 日期；
+- 在文件开头或合适位置说明最新有效状态；
+- 使用简短的修订记录说明重要变化及原因；
+- 不静默抹去对未来判断有重要意义的旧结论、用户反馈或方案取舍。
 
-- date;
-- title/link;
-- one-line description;
-- 2–5 topic tags.
+无需为错别字、排版、无意义的微调建立独立版本记录。
 
-Keep the index compact. It is a catalog, not a duplicate of the note.
+### 6.3 多会话协作边界
 
-## 8. Privacy and safety
+- 每个会话仅修改当前用户授权范围内的成果。
+- 多会话共同研究某专题时，优先复用已有统一入口及记录，不为每个会话机械创建独立成果文件。
+- 若其他会话已经推进了后续工作，应区分本会话历史结论与最新专题状态。
+- 不覆盖其他会话的独立研究成果、用户已确认决定及有效文件。
+- 发现实质冲突时，保留来源和差异，明确需要进一步解决的问题。
 
-This repository is public. Do not store:
+## 7. 远端存盘、索引与保密
 
-- passwords, tokens, API keys, private URLs, or credentials;
-- personally identifying private information;
-- sensitive personal records;
-- proprietary/confidential material unless the user explicitly confirms it is appropriate for a public repository.
+### 7.1 写入与验证
 
-When in doubt, omit sensitive details and save only the reusable abstraction.
+- 在用户已授权写入的范围内，重要阶段成果或有效版本应及时保存，不必全部积攒到会话结束时。
+- 修改已有文件前，先读取远端最新内容，确认当前版本。
+- 优先局部修改，不无故改写无关章节或其他专题。
+- 普通笔记归档可直接提交默认分支；用户指定分支、PR或特殊流程时遵守用户要求。
+- 写入后核实远端路径、实际内容和提交记录。不得将本地生成、工具调用或待上传文件误报为已经远端保存。
+- 根据实际风险决定核验深度，不因简单笔记提交而增加不必要的完整测试或复杂审批。
 
-## 9. Commit style
+### 7.2 INDEX 维护
 
-Prefer small descriptive commits:
+- 每份正式笔记应进入 `INDEX.md` 的主题索引和时间索引。
+- 主题索引用于查找同领域知识及当前有效入口；时间索引用于回顾笔记形成顺序。
+- 新增笔记时同步添加必要的标题、链接、简介和标签。
+- 已有笔记发生重大状态变化时，按需更新相应索引说明。
+- CSV、脚本、配置等附属资料只需通过所属正式笔记建立链接，不要求单独建立同等级索引。
+- INDEX 保持简明，不复制笔记正文，也不机械堆积每轮修改日志。
 
-- `notes: add <topic> synthesis`
-- `notes: update <topic> synthesis`
-- `docs: update repository capture rules`
-- `index: add <note title>`
+### 7.3 隐私、版权与资料边界
 
-Direct commits to the default branch are acceptable for ordinary note capture unless the user asks for a pull-request workflow.
+**本仓库是 Public 仓库。**
+
+- 不上传密码、API Key、访问令牌、私钥、真实凭据或其他秘密信息。
+- 不默认保存个人敏感记录、客户内部资料、保密文件和未经许可的第三方资料。
+- 不因用户在会话中上传了资料，就认为已授权将原件公开到 GitHub。
+- 对需要复用但不适合公开的内容，可以保存不包含敏感细节的概括、分析方法及必要的来源说明。
+- 版权受限的书籍扫描件、视频或其他材料，不因研究需要而自动上传。
+- 资料归档权限与研究分析授权分开判断。
+
+## 8. 会话收口与归档核验
+
+### 8.1 触发条件与目标
+
+当用户明确要求本会话收口、存档、移交或结束时，执行一次最小充分的归档完整性检查。
+
+目标是让未来新会话仅通过远端仓库，就可以恢复：
+
+- 本会话形成的主要成果及当前有效版本；
+- 关键研究过程、判断依据和方案取舍；
+- 用户重要反馈及已确认决定；
+- 实际完成、尚未完成和待核验事项；
+- 与其他笔记及后续工作的接续关系。
+
+普通任务结束不自动启动完整的收口流程。
+
+### 8.2 收口责任范围
+
+- 只核查本会话实际产生、修改、决定或明确承担归档责任的内容。
+- 不默认审计整个仓库或其他会话已完成的工作。
+- 先检查现有笔记能否承担接续功能，不强制新建 Closeout 文件。
+- 简单会话可以通过更新已有笔记完成收口；复杂会话根据实际缺口保存必要的过程总结和交接说明。
+- 不重复保存已经完整归档的成果，也不自动启动下一阶段研究。
+
+### 8.3 成果文件与人工补传
+
+按实际来源区分文件。
+
+**A类：本会话新生成或实质加工的成果文件。**
+
+- 优先在已有权限和工具能力内直接上传 GitHub。
+- 确实需要归档、但无法直接上传的文件，提供可下载的 ZIP 和电脑端补传核查清单。
+- 补传清单写明文件名、用途、目标路径、已知大小及可用的校验信息。
+- 已完整保存的文件不重复打包；无长期价值的临时产物不列入补传。
+
+**B类：用户或人工提供的原始资料。**
+
+- 对尚未保存且可能影响接续的原件，第一步仅列出供用户判断是否需要归档。
+- 不默认打包、上传或公开用户原始资料。
+- 只有用户确认归档必要性及相应权限后，才执行上传或提出补传方案。
+- 单纯复制、改名或格式转换，不当然将原始资料变成A类文件。
+
+对于来源不明的文件，先标为待核对，不擅自分类。
+
+所有补传与归档均遵守本仓库的公开资料安全边界。
+
+### 8.4 远端核验与最终报告
+
+收口时以 GitHub 实际状态为准，检查必要的笔记、数据文件、引用关系、提交及有效版本。
+
+最终报告简要说明：
+
+- 已归档的主要成果；
+- 新补充的关键过程和决定；
+- 远端提交及核验结果；
+- A类仍需人工补传的文件；
+- B类建议用户判断是否归档的资料；
+- 重要未完成事项及后续接续入口。
+
+明确区分已经完成归档、成果已保存但附件待补、尚待人工判断及存在实际阻塞等状态。
+
+没有待补传文件时，不制作无必要的压缩包。
+
+达到可追溯、可检索、可接续的目标后即可结束，不额外增加审批、备份、重复校验或其他工作流程。
