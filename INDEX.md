@@ -228,15 +228,15 @@
   `contemporary-literature` `reading-path` `literary-history` `fiction` `research-log`
 
 - **2026-10-04 — [中文小说文本细读最小工具 v0.1：四问一判 + 按需开关](./notes/2026/2026-10-04-chinese-literary-close-reading-minimal-toolkit.md)**  
-  将十一轮深搜深研压缩成普通读者日常可用版本：默认先读小说，只在真实“摩擦点”启动“停—换—比—找—判”；语言、视角、长篇、非线性、高歧义全部降级为条件触发的备用开关，避免工具反过来妨碍阅读。  
+  **当前有效的小说细读日用入口（v0.1，待真实初学者验证）**：默认先读小说，只在真实摩擦点启动“停—换—比—找—判”；语言、视角、长篇、非线性、高歧义均为按需开关，避免工具反过来妨碍阅读。  
   `close-reading` `practical-guide` `chinese-fiction` `reading-method` `minimal-toolkit`
 
 - **2026-10-04 — [中文文本细读资源：十一轮深搜深研过程记录（资源筛选→压力测试→迁移→复杂叙事→最小工具收敛）](./notes/2026/2026-10-04-chinese-literary-close-reading-research-log.md)**  
-  忠实记录中文文本细读研究的十一轮推进：从资源筛选、同文异读与陌生文本迁移，到句子层、长篇、群像、非线性、高歧义压力测试，最终收敛为普通读者可执行的“停—换—比—找—判”最小工具及按需模块。  
+  **本会话已归档的研究过程与交接记录**：保存资源筛选、同文异读、陌生文本迁移、中文句子、长篇、群像、非线性、高歧义及第十一轮收敛的证据与取舍；明确只聚焦小说、实际教学验证未完成，最新实用入口为上方 v0.1。  
   `close-reading` `chinese-literature` `reading-method` `literary-reading` `research-log`
 
 - **2026-10-04 — [文学阅读怎么学：多社区深搜、交叉补漏与方法模型](./notes/2026/2026-10-04-literary-reading-zhihu-reddit-deep-research.md)**  
-  分节保存知乎、Reddit、豆瓣、Literature Stack Exchange 与 LibraryThing 的文学阅读深研：分别保留方法地图、反馈讨论、作品/版本/阅读史、精确问题/证据审计，以及长期书库、自我策展与阅读治理等社区特殊性，并在不抹平差异的前提下提炼跨社区共同能力。  
+  **持续有效的独立社区证据层**：分节保存知乎、Reddit、豆瓣、Literature Stack Exchange 与 LibraryThing 的文学阅读深研，保留各自独特的论题、方法与证据；小说细读的后续收敛另见十一轮研究与最小工具，不倒改各社区结果。  
   `literary-reading` `close-reading` `literary-criticism` `self-study` `community-research`
 
 - **2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)**  
