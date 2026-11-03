@@ -2,7 +2,7 @@
 ---
 title: "PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计"
 date: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-03
 status: working
 type: reference
 topics:
@@ -23,6 +23,8 @@ language: zh-CN
 ---
 
 # PQ4R“可见阅读”纸面模板 v0.2
+
+> **当前接续入口（2026-11-03）**：这是本会话完成的**纸面设计稿**，不是已经打印和实际运行验证的模板成品。使用前先看[六步执行框架及 Reading Intent Gate](./2026-09-28-pq4r-visible-reading-framework-v0.1.md)；研究过程、对抗性审查、重要取舍及归档说明见[探索与推导记录 §18](./2026-09-28-pq4r-visible-reading-derivation.md)。本会话已经归档，但专题仍为 working。
 
 ## 一句话结论
 
@@ -892,4 +894,5 @@ Q+：
 
 ## Revision log
 
+- 2026-11-03：本会话归档接续核对。明确本文件是最新纸面设计入口，补齐与执行框架、研究过程记录的双向关联；注明尚未生成可打印的 PDF/DOCX，也未经过实际章节与间隔复习的效果测试，设计与实施状态不能混淆。
 - 2026-09-29：首次建立纸面模板 v0.2。采用“章级启动页 + 阅读单元正反页 + Review 日志”，定义 Minimum Viable Reading Record 为 **Q / Model / Recall / Gap**，并明确过程痕迹与长期认知产物的分离。
