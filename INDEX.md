@@ -114,7 +114,7 @@
   `reading-method` `learning-science` `methodology` `PQ4R` `retrieval-practice`
 
 - **2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)**  
-  用“3个解释镜头 + 4个元工具 + 一页分析器”搭建最小可运行社会认知系统，并给出工科前置与12本“知识书+案例书”双轨阅读路径。  
+  **当前有效路线及会话收口入口**：3个解释镜头 + 4个元工具 + 一页分析器；Pre-MVP核心4本+贝叶斯推荐1本、6组12本知识/案例双轨（附中文版本与ISBN），18本后续储备；补录关键方案取舍、未实施与待核验边界。  
   `social-science` `critical-thinking` `systems-thinking` `epistemology` `reading-path`
 
 ### 思想与阅读
