@@ -147,6 +147,10 @@
 
 ### 历史与阅读
 
+- **2026-11-03 — [世界史25×6矩阵的桌游实践：游戏筛选与iPhone《历史巨轮》观察指南](./notes/2026/2026-11-03-world-history-boardgames-through-the-ages-practice.md)**  
+  对比10款历史桌游的机制与史学局限，记录用户已购iPhone《历史巨轮》及其六线耦合观察、瓶颈转移、三问复盘；尚无实际对局反馈。  
+  `history` `world-history` `board-games` `systems-thinking` `Through-the-Ages`
+
 - **2026-09-14 — [历史人生模拟阅读项目：路线图与进展](./notes/2026/2026-09-14-history-life-simulation-roadmap.md)**  
   维护从“人生样本库”到Decision Atom、Case Packet的讨论脉络、当前架构、阶段进展与下一步；后续随项目推进持续更新。  
   `history` `decision-making` `case-method` `reading-path` `roadmap`
@@ -242,6 +246,7 @@
 ## 按时间
 
 ### 2026
+- 2026-11-03 — [世界史25×6矩阵的桌游实践：游戏筛选与iPhone《历史巨轮》观察指南](./notes/2026/2026-11-03-world-history-boardgames-through-the-ages-practice.md)
 - 2026-11-01 — [ChatGPT／Codex Custom Instructions：两条经验研究线与持续探索记录](./notes/2026/2026-11-01-chatgpt-codex-custom-instructions-exploration.md)
 - 2026-10-31 — [SEL表格归档完整性审核（四份规范CSV）](./notes/2026/2026-10-31-sel-generated-spreadsheet-archive-audit.md)
 - 2026-10-31 — [KASEL剩余50册：生活情境扩展库及逐册家长指南审查](./notes/2026/2026-10-31-sel-kasel-50-optional-books-guide-audit.md)
