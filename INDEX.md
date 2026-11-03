@@ -102,15 +102,15 @@
 ### 认知与方法论
 
 - **2026-09-29 — [PQ4R“可见阅读”纸面模板 v0.2：Minimum Viable Reading Record 与正反页设计](./notes/2026/2026-09-29-pq4r-paper-template-v0.2.md)**  
-  将完整 PQ4R 转化为章级启动页 + 阅读单元正反页：正面开卷、背面闭卷；定义最小长期记录为 Q / Model / Recall / Gap，并明确哪些过程痕迹只留在原书页边。  
+  **当前纸面设计入口（未实测）**：章级启动页 + 单元正反页（开卷/闭卷隔离）+ 简短 Review 日志；最小阅读记录 Q / Model / Recall / Gap；尚未制作正式可打印版。  
   `reading-method` `PQ4R` `paper-notes` `visible-reading` `retrieval-practice`
 
 - **2026-09-28 — [PQ4R“可见阅读”方法 v0.1：当前可执行框架](./notes/2026/2026-09-28-pq4r-visible-reading-framework-v0.1.md)**  
-  将 PQ4R 操作化为可见、低认知负荷的纸面阅读协议：Preview“定—扫—切—猜”、Question“六类标题+深化器”、Read“通—标—回—交”、Reflect“联—构—释—检”、Recite“答—构—释”、Review“核—隔—提”。  
+  **当前六步执行说明**（文件沿用 v0.1 稳定路径）：P 定—扫—切—猜、Q 六类标题、Read 通—标—回—交、Reflect 联/构/释/检四选一、Recite 答—构—释、Review 核—隔—提，附 Reading Intent Gate。  
   `reading-method` `learning-science` `PQ4R` `visible-reading` `cognitive-load`
 
 - **2026-09-28 — [PQ4R“可见阅读”方法：探索与推导记录](./notes/2026/2026-09-28-pq4r-visible-reading-derivation.md)**  
-  详细保留从 PQ4R/SOAR 分层、“可见阅读”目标，到 Preview、Question、Read、Reflect、Recite、Review 六步逐项深搜、认知心理校准与框架收敛的全过程；当前主要未完成项转为纸质模板与真实章节压力测试。  
+  **本会话归档与决策追溯入口**：保留 PQ4R/SOAR 分层、六步深搜、对抗性审查、获准的 Intent/Reflect 修订、MVRR 与纸面模板取舍；当前仅剩真实章节/长期使用验证等未完成项。  
   `reading-method` `learning-science` `methodology` `PQ4R` `retrieval-practice`
 
 - **2026-09-10 — [复杂社会现象认知框架：MVP、双轨阅读与书单](./notes/2026/2026-09-10-complex-social-analysis-mvp.md)**  
