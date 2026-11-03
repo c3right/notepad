@@ -1,8 +1,8 @@
 ---
 title: "经典文学最短路径：导读与解读资料指南——研究设计与累积记录"
 date: 2026-10-05
-updated: 2026-10-05
-status: active-research-baseline
+updated: 2026-11-03
+status: archived
 type: research-plan-and-log
 topics:
   - literary-reading
@@ -25,6 +25,13 @@ language: zh-CN
 ---
 
 # 经典文学最短路径：导读与解读资料指南——研究设计与累积记录
+
+
+> **归档状态（2026-11-03）**：Round 0–8研究和Round 7深化v0.9均已完成；本文件保留研究证据、候选取舍、版本演进与Rule A–AU，是**历史研究档案**，不再是正在推进的执行计划。  
+> **当前有效用户入口**：[导读与解读资料执行指南 v1.0](./2026-10-05-contemporary-literature-minimal-path-reading-guide-v1.md)；[执行速查 v1.0](./2026-10-05-contemporary-literature-minimal-path-reading-guide-quick-reference-v1.md)。  
+> **跨会话过程与移交**：[Step 1–5构建日志，第15节](./2026-10-05-contemporary-literature-minimal-path-guide-build-log.md#15-跨会话收口与前序研究恢复2026-11-03)。  
+> 本文件原始方案、Round分节与版本日志均按形成时状态保留；出现差异时优先使用v0.9/v0.10修订以及正式执行指南v1.0。
+
 
 > 本文件是“阅读当代文学的最短经典路径”进入**辅助文学史 / 导读 / 批评材料**阶段后的持续研究文件。  
 > 后续各轮深搜深研结果统一累积到本文件，不另建彼此竞争的平行研究稿。  
