@@ -224,7 +224,7 @@
   `contemporary-literature` `reading-path` `classics` `fiction` `drama` `final-framework`
 
 - **2026-10-04 — [阅读当代文学的最短作品路径：研究路线与分叉地图推进记录](./notes/2026/2026-10-04-contemporary-literature-minimal-path-research-log.md)**  
-  从反思黄梵“小说阅读捷径”出发，改用“从当代倒推祖先”的研究方法，规划7轮深研，并在第1轮建立当代小说的 4+1 核心文学语法、三条横轴与后续祖先倒查任务。  
+  **已归档的历史研究记录**：从挑战黄梵路线到七轮倒推、候选删减、三层包结构和作品级定稿，保存关键取舍与跨会话接续；具体作品以基础包/升级包 v1.0 为准，执行以2026-10-05正式指南为准。  
   `contemporary-literature` `reading-path` `literary-history` `fiction` `research-log`
 
 - **2026-10-04 — [中文小说文本细读最小工具 v0.1：四问一判 + 按需开关](./notes/2026/2026-10-04-chinese-literary-close-reading-minimal-toolkit.md)**  
@@ -240,7 +240,7 @@
   `literary-reading` `close-reading` `literary-criticism` `self-study` `community-research`
 
 - **2026-10-03 — [经典小说与戏剧怎么读：一次从现实主义、现代主义到文本阅读能力的对话记录](./notes/2026/2026-10-03-classic-fiction-drama-reading-conversation.md)**  
-  以短对话方式持续探索经典小说与戏剧的高性价比阅读路径：从现实主义基准、现代主义转折与黄梵“小说阅读捷径”，推进到文本细读、文学史/批评/理论的角色，以及未来约100小时自学课程的顶层原则。  
+  **已归档的早期对话与路线重审**：记录从黄梵捷径、现实主义与阅读能力探讨，到主动挑战线性路径、明确只研究“读什么”的转折；后续定稿和导读执行指南已在文内建立接续链接。  
   `classic-literature` `fiction` `drama` `literary-reading` `modernism`
 
 - **2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)**  
