@@ -208,11 +208,11 @@
   `contemporary-literature` `reading-path` `quick-reference` `execution-guide`
 
 - **2026-10-05 — [阅读当代文学的最短经典路径：执行指南构建进展](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guide-build-log.md)**  
-  记录从Round 1–8累计研究成果收敛为最终可执行阅读指南的全过程：依次完成Canonical Data、跨节点去重与Bridge整合、单作品执行卡、路线级组装、对抗性QA与最终发布；后续每完成一个Step都持续追加到同一文件。  
+  **已完成并归档的构建过程**：Step 1–5从Canonical Data、依赖去重、48张执行卡、9 Phase组装到最终QA；新增跨会话交接章节，恢复前序已满会话的Round 0–7脉络、Round 7提交核验和版本优先级。正式使用请读v1.0指南。  
   `contemporary-literature` `reading-path` `reading-guides` `execution-guide` `build-log`
 
 - **2026-10-05 — [经典文学最短路径：导读与解读资料指南——研究设计与累积记录](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guides-research.md)**  
-  辅助材料深研累计基线（v0.10，Round 1–8已完成）：逐作按A预读、B读后核心、C深入批评筛选，保留可核对书目、阅读范围、文学史/舞台职责、时间预算与取舍理由；Round 7含v0.9舞台实践深化复核。最终执行版另见本主题的正式指南。  
+  **已归档的研究过程（v0.10，Round 0–8完成）**：A/B/C逐作筛选、来源与淘汰理由、规则A–AU及Round 7的v0.9舞台复核；当前用户执行入口为上方v1.0正式指南，跨会话交接见构建日志。  
   `contemporary-literature` `reading-guides` `literary-history` `literary-criticism` `reading-path` `research-log`
 
 - **2026-10-04 — [阅读当代文学路径：外国作品中文译本推荐 v1.0](./notes/2026/2026-10-04-contemporary-literature-foreign-translations-v1.md)**  
