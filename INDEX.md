@@ -244,7 +244,7 @@
   `classic-literature` `fiction` `drama` `literary-reading` `modernism`
 
 - **2026-09-14 — [古诗词欣赏路线：从感受出发的多镜头阅读法](./notes/2026/2026-09-14-classical-poetry-appreciation-methods.md)**  
-  以“先感受、再分析、再校验”为主线，对比顾随、叶嘉莹、朱光潜、施蛰存、闻一多、钱锺书的方法，并整理《锦瑟》《使至塞上》《蜀道难》等多镜头对读样本与书目定位。  
+  **会话已归档（2026-11-03）**。以“先感受、再分析、再校验”为主线，保留路线收敛过程、顾随与叶嘉莹书单、五镜对照、《锦瑟》等样本出处及复核修正；未来接续以该笔记为准。  
   `classical-poetry` `reading-path` `literary-criticism` `Gu-Sui` `Ye-Jiaying`
 
 ## 按时间
