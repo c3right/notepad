@@ -212,7 +212,7 @@
   `contemporary-literature` `reading-path` `reading-guides` `execution-guide` `build-log`
 
 - **2026-10-05 — [经典文学最短路径：导读与解读资料指南——研究设计与累积记录](./notes/2026/2026-10-05-contemporary-literature-minimal-path-guides-research.md)**  
-  “阅读当代文学的最短经典路径”辅助材料阶段的持续研究基线：从作品职责反推导读/文学史/批评材料，按A阅读前、B阅读后核心、C深入批评分层，并持续累积各轮深搜结果、时间预算、淘汰理由与方法规则。  
+  辅助材料深研累计基线（v0.10，Round 1–8已完成）：逐作按A预读、B读后核心、C深入批评筛选，保留可核对书目、阅读范围、文学史/舞台职责、时间预算与取舍理由；Round 7含v0.9舞台实践深化复核。最终执行版另见本主题的正式指南。  
   `contemporary-literature` `reading-guides` `literary-history` `literary-criticism` `reading-path` `research-log`
 
 - **2026-10-04 — [阅读当代文学路径：外国作品中文译本推荐 v1.0](./notes/2026/2026-10-04-contemporary-literature-foreign-translations-v1.md)**  
