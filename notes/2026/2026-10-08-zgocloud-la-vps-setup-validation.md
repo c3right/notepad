@@ -1,7 +1,7 @@
 ---
 title: "ZgoCloud 洛杉矶 $18/季度 VPS：选购、线路与 IP 质量检测、sing-box REALITY 部署排障、双端分流全记录"
 date: 2026-10-08
-updated: 2026-10-08
+updated: 2026-11-03
 status: evergreen
 type: reference
 topics:
@@ -28,6 +28,14 @@ language: zh-CN
 # ZgoCloud 洛杉矶 $18/季度 VPS：选购、检测、配置与排障全记录
 
 > **历史复盘**：操作发生于 **2026-08-21～23（北京时间）**，整理于 2026-10-08。以下“已通过”指当时留下了对应测试输出，不表示在整理日重新检测。**仓库为公开仓库**：不保存真实 UUID、REALITY Private Key、密码、SSH 私钥或订阅凭据。公网 IP 和安装路径为用户要求保留的运维事实。
+
+## 会话收口状态（2026-11-03）
+
+**本笔记是 2026-08-21～23 初始建机、线路/IP 检测与 REALITY 排障的历史入口。** 后续 Windows 规则与 iOS 流量监测在另一会话继续推进，已经独立归档为 [Clash Verge v2.2-fixed 分流优化、DNS 告警与 iOS 流量监测全过程](./2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)，该笔记又链接了 [完整去密 v2.2-fixed YAML](./2026-10-08-zgo-la-enhanced-v2.2-fixed.yaml) 和 [iPhone 流量查询 Python 脚本](./2026-10-08-zgo-traffic-ios.py)。
+
+**有效版本识别**：本笔记 §7.1 的简化 Clash YAML 以及本会话较早提出的长列表增强版，是设计与排障过程资料；**实际有成功加载、IPinfo/国内 IP138 出口回归证据的 Windows 配置是另一篇的「ZGO-LA Enhanced v2.2 fixed」**。原文“Windows 尚未最终验收”指本篇初始化阶段的证据状态，不能覆盖后续会话的成功验收。用户当时没有批准自动将其他机场合并为双出口。
+
+**截至本次收口的最新问题**：用户曾在 2026-10-08 表示忘记 root SSH 密码，展示 VirtFusion 的密码重置确认弹窗并询问影响；**未提供点击 Reset、收到新密码、重启 VPS 或验证成功的后续证据**，不能记作已重置。详情见 §12。本次收口是 GitHub 资料整理，**没有远程登录 VPS，也没有修改运行中代理服务**。
 
 ## 一句话结论
 
@@ -498,6 +506,28 @@ PY
 | 2026-08-23 | IPinfo、BrowserLeaks、AbuseIPDB、Scamalytics | 低风险画像；商业机房性质明确 |
 | 2026-10-08 | 根据历史用户输出整理本笔记 | 历史记录归档；**未重新实测 VPS** |
 
+## 12. 2026-10-08 PowerShell 管理入口与 root 密码重置讨论（未实施验证）
+
+**登录入口**：Windows PowerShell 执行 `ssh root@23.169.184.26`；当时节点基线为 root 口令认证。如果已改为 SSH Key，则需指定对应私钥，例如 `ssh -i "$env:USERPROFILE\.ssh\id_ed25519" root@23.169.184.26`（仅为示例路径，未确认该密钥实际存在）。首次新主机指纹仍应通过可信控制台核对。登录后检查 `systemctl is-active sing-box`、`systemctl is-enabled sing-box` 和 `/usr/local/bin/zgo-traffic`（脚本是否仍存在及是否可执行，以现场为准）。
+
+**问题与界面**：用户忘记 root 密码，ZgoCloud 的 VirtFusion 后台 `Options → Password → Reset Password` 弹窗显示用户 `root`，并提示**新密码将发至账户邮箱**。后台文字提示可能涉及要求关机、运行状态不满足时操作会失败；是否必须先 Shutdown、是否有短暂停机，以真正执行时的控制台提示为准。**不是重装操作**：不得将“Reset Password”误当“Media → Reinstall/Build”。
+
+**影响判断（条件式，不代表已经执行）**：
+
+| 功能 | 正常重置 root 密码后的预期影响 |
+| --- | --- |
+| sing-box 配置、VLESS UUID、REALITY key/Short ID、SNI | **不应改变**，不需要重建节点。若重置方式导致 VPS 重启，则重启期间短暂中断；服务原有 systemd enabled 状态需实际检查。 |
+| Clash Verge / Shadowrocket 节点 | 认证材料未变时无需修改客户端 VLESS/REALITY 参数；只有服务停机窗口会暂时断流。 |
+| PowerShell SSH | root 的旧密码失效；须用邮箱收到的新密码或已配置的 SSH Key 登录。 |
+| iPhone「ZGO 流量」快捷指令 | **需要改 SSH 动作中保存的 root 密码**；主机 `23.169.184.26`、端口 `22`、脚本 `/usr/local/bin/zgo-traffic` 不必因此更改。 |
+| vnStat、已有流量脚本、历史数据 | 正常账户密码重置不应删除脚本或 vnStat 数据；实际成功与否应在登录后执行脚本确认。 |
+
+iPhone 快捷指令此前由另一会话实测采用 **「通过 SSH 运行脚本」→「文本（Shell脚本结果）」→「快速查看」**，使用 **root + 密码**；此事实见[流量监测记录 §7](./2026-10-08-zgocloud-la-clash-routing-ios-traffic-monitoring.md)。该会话还记录：**关闭 Shadowrocket 后 SSH 快捷指令连通**；用户未批准针对 VPS IP 增设 DIRECT 例外，不能误写为已添加。密码重置后若快捷指令仍失败，应分别检查新密码、SSH 网络路线与系统状态，不要先改 REALITY 凭据。
+
+**如用户日后确实操作密码重置，最小验收**：控制台确认服务器开机 → PowerShell SSH 用新凭据登录 → `systemctl is-active sing-box` 显示 active → `systemctl is-enabled sing-box` 显示 enabled → `/usr/local/bin/zgo-traffic` 能输出有效统计 → 更新 iPhone SSH 密码并实际执行一次。以上均**未在本次归档中执行**。SSH 密码、主机私钥及实际凭据不得写入公共 GitHub。
+
+**本会话上传/提供资料处理**：Shadowrocket 导出文件 `default.def.md`（作为分流策略对照依据）及若干 Zgo/IP 检测和后台截图，属于**用户原始资料（B 类）**。其关键可复用信息已在两份笔记提炼；**原件尚未作为文件上传公共仓库**。如果未来需要逐条复现 Shadowrocket 当时的默认分流规则，可由用户再决定是否保留该导出文本；不需要为当前收口自动上传。没有本会话生成但需要人工补传的 A 类文件：既有去密 YAML 与 Python 脚本已由相应会话存档，早期建议性 YAML 被后续 v2.2-fixed 取代。
+
 ## 资料与证据入口
 
 - [sing-box Issue #4290：REALITY inbound / supported_groups / Microsoft 目标兼容问题](https://github.com/SagerNet/sing-box/issues/4290)
@@ -512,3 +542,4 @@ PY
 ## Revision log
 
 - 2026-10-08：首次整理 2026-08 完整部署与排障记录；区分已实测、技术推断与未验收项；对公开 GitHub 做凭据脱敏。
+- 2026-11-03：本会话收口。交叉链接后续已验收的 v2.2-fixed Windows 配置/流量监测工作；补录 PowerShell 登录与 VirtFusion root 密码重置的未实施咨询、快捷指令凭据影响、资料补传边界。
