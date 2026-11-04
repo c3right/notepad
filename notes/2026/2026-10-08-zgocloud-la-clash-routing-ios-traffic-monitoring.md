@@ -1,7 +1,7 @@
 ---
 title: "ZgoCloud LA VPS：Clash v2.2-fixed 分流优化、DNS 警告与 iOS 流量监测全过程"
 date: 2026-10-08
-updated: 2026-10-08
+updated: 2026-11-03
 status: evergreen
 type: reference
 topics:
@@ -27,6 +27,16 @@ language: zh-CN
 # ZgoCloud LA VPS：Clash 分流优化和 iPhone 流量查询完整复盘
 
 > **日期和证据边界**：以下主要是 **2026-08-23～24** 的历史操作、配置建议和实际验证，整理于 2026-10-08，未在整理日重新登陆 VPS。另有 [已存在的 VPS 初始化、线路、IP 质量、sing-box REALITY 部署排障记录](./2026-10-08-zgocloud-la-vps-setup-validation.md)，本文与其并列、**不修改**原始文档。公开 GitHub 笔记绝不保存真实 UUID、REALITY Private Key、Public Key/Short ID 组合、SSH 凭据。
+
+## 会话收口状态（2026-11-03）
+
+**本会话归档完成，当前有效入口为本笔记及其关联的两份去密文件。** 本次收口只核查现有成果，不重新部署 VPS、不修改 Clash / Shadowrocket 的本地配置，也不把历史验收误称为 2026-11-03 的在线验证。另一会话负责的[初始建机与 REALITY 排障笔记](./2026-10-08-zgocloud-la-vps-setup-validation.md)维持独立管理。
+
+- **已完成 / 已确认**：Windows 使用 `ZGO-LA Enhanced v2.2 fixed`，当时的 IPinfo 美国出口和 IP138 国内电信出口均 PASS；Debian 12 的 vnStat 2.10 自动监测 eth0；`zgo-traffic` 修复 bytes/KiB 错误并正确处理首周期近似修正；iPhone 的「SSH → 文本 → 快速查看」成功保留换行，用户明确确认可用。
+- **用户明确取舍**：保持 `www.cloudflare.com` REALITY SNI；不为一个节点搭自建订阅/流量面板；暂不切机场+VPS 双出口；iOS SSH 曾受 Shadowrocket 开启状态影响，但用户选择**暂不修改客户端规则**；当时亦未授权 SSH Key / 禁密码加固。后续研究不能把建议当作已实施事实。
+- **A 类（本会话生成或实质加工）**：本总结、[去密 v2.2-fixed YAML](./2026-10-08-zgo-la-enhanced-v2.2-fixed.yaml)、[iOS 流量脚本 Python](./2026-10-08-zgo-traffic-ios.py) 均已在远端保存。v2.1、首版有单位错误的脚本和其他中间草稿已被后续版本替代，**无需重复补传**。A 类待人工补传：**无**；无需 ZIP。
+- **B 类（用户提供的原始资料）**：Clash 异常日志/截图、IPinfo/IP138 出口截图、ZgoCloud 计费面板截图、iOS 快捷指令配置及最终显示截图。相关关键数据与诊断已摘入本文，但原始图片未作为文件上传公开仓库；目前接续不依赖原图，只有未来需要证据逐图复核时，才由用户决定是否另行归档。**不自动打包或公开上传**。
+- **开放项（不构成本次收口阻塞）**：8/24 DeepSeek IPv6 DIRECT Warn 的 DNS 调整未获验证；本机脚本并非供应商 API，仍有 GiB/GB、vnStat 日历史保留长度、首周期修正和预测日数精度限制；各 AI 服务逐域名命中及长期 IP 风控未完成全面验证。后续如重启此专题，以当前实际 Clash YAML、ZgoCloud 计费页和 vnStat 输出为证据，不直接采用历史预测读数。
 
 ## 0. 一句话结论与归档入口
 
@@ -386,3 +396,4 @@ zgo-traffic
 ## Revision log
 
 - 2026-10-08：首次独立整理后续 Windows 规则优化及手机流量监测的过程、结果与未验证边界；原初始化笔记不改。
+- 2026-11-03：按根目录 AGENTS.md 完成本会话收口审查，补充 A/B 类文件边界、用户取舍、开放项及跨会话接续入口；未修改原始 VPS 初始化记录。
