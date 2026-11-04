@@ -82,6 +82,12 @@
   核对96、46、50册与Bluey156国语条目、154故事、16单元/43详细卡/85简卡；说明哪些历史Excel被最新Markdown和CSV取代。
   `SEL` `KASEL` `Bluey` `data-archive`
 
+### 经典童书与家庭阅读
+
+- **2026-11-03 — [经典老童书家庭书架：书单、版本比较与童话篇目重合](./notes/2026/2026-11-03-classic-children-books-editions-reading-library.md)**  
+  **本会话归档入口**：从《365夜故事》与世界童话扩展至中国历史、科普、百科；比较林汉达中少美绘/湖南漫画图解等版本、1998/2005儿童百科，并整理彩图五册与蓝皮八册目录重合的阶段性估算及核验边界。  
+  标签：children-literature / classic-books / family-reading / edition-comparison
+
 ### AI 助手与 Agent 工作方法
 
 - **2026-11-01 — [ChatGPT / Codex Custom Instructions 优化：防御性、ADHD 输出与 Agent 准则持续探索](./notes/2026/2026-11-01-chatgpt-codex-custom-instructions-exploration.md)**  
@@ -250,6 +256,8 @@
 ## 按时间
 
 ### 2026
+
+- 2026-11-03 — [经典老童书家庭书架：书单、版本比较与童话篇目重合](./notes/2026/2026-11-03-classic-children-books-editions-reading-library.md)
 - 2026-11-03 — [中国传统史书的矩阵化阅读：史记、春秋左传与导读资料](./notes/2026/2026-11-03-china-classical-histories-matrix-reading-guide.md)
 - 2026-11-03 — [世界史25×6矩阵的桌游实践：游戏筛选与iPhone《历史巨轮》观察指南](./notes/2026/2026-11-03-world-history-boardgames-through-the-ages-practice.md)
 - 2026-11-01 — [ChatGPT／Codex Custom Instructions：两条经验研究线与持续探索记录](./notes/2026/2026-11-01-chatgpt-codex-custom-instructions-exploration.md)
