@@ -92,6 +92,16 @@
   核对96、46、50册与Bluey156国语条目、154故事、16单元/43详细卡/85简卡；说明哪些历史Excel被最新Markdown和CSV取代。
   `SEL` `KASEL` `Bluey` `data-archive`
 
+### 幼儿数学启蒙、数字动画与家庭桌游
+
+- **2026-11-06 — [Numberblocks 185集、五级观看顺序、中文分季和人工字幕排查（本会话归档）](./notes/2026/2026-11-06-numberblocks-185-episodes-levels-subtitles-archive.md)**  
+  当前目录185集、Level分布21/55/47/29/33；保留[按数学Level CSV](./notes/2026/2026-11-06-numberblocks-185-by-level.csv)和[按播出季CSV](./notes/2026/2026-11-06-numberblocks-185-by-broadcast.csv)各185行；注明11条YouTube直链、19条官网URL已核与新增65集人工字幕待验，Excel原件待人工补传。  
+  `Numberblocks` `185-episodes` `early-math` `subtitles` `archive`
+
+- **2026-11-06 — [3岁半数学启蒙：绘本选书、数学桌游、MathStart中文40／英文63册逐本对照](./notes/2026/2026-11-06-preschool-math-picture-books-boardgames-mathstart-crosswalk.md)**  
+  记录《鼠小弟》基础上《你好！数学》＋MathStart低龄精选的取舍、OT130/OT120版别确认、后续游戏梯度、美国早期数学研究指南，以及MathStart40收录＋23未收录原版的完整对照。  
+  `MathStart` `preschool` `math-picture-books` `board-games` `crosswalk`
+
 ### 经典童书与家庭阅读
 
 - **2026-11-03 — [经典老童书家庭书架：书单、版本比较与童话篇目重合](./notes/2026/2026-11-03-classic-children-books-editions-reading-library.md)**  
@@ -266,6 +276,8 @@
 ## 按时间
 
 ### 2026
+- 2026-11-06 — [Numberblocks 185集五级索引与字幕排查：本会话归档](./notes/2026/2026-11-06-numberblocks-185-episodes-levels-subtitles-archive.md)
+- 2026-11-06 — [3岁半数学绘本、桌游及 MathStart 40／63 中英对照：本会话归档](./notes/2026/2026-11-06-preschool-math-picture-books-boardgames-mathstart-crosswalk.md)
 - 2026-11-06 — [3岁半儿童原版英语动画选片、Kipper 78集分档与会话收口](./notes/2026/2026-11-06-preschool-english-original-animation-selection-and-kipper-78.md)
 - 2026-11-06 — [KASEL 96册×Bluey SEL方案：会话收口与后续接续](./notes/2026/2026-11-06-sel-kasel-bluey-96books-session-handoff.md)
 
