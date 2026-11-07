@@ -12,6 +12,10 @@
 
 > **本会话已归档（2026-11-06）**：研究形成阶段和跨会话交接已补在上述总规则；后续家庭实际使用请优先看[丹尼尔46册×Bluey的16单元统一家长手册](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)，勿将本会话较早的13册A版／96册B版规划误认为最新执行版本。
 
+- **2026-11-06 — [KASEL 96册×Bluey家庭SEL方案：本会话收口与跨会话交接](./notes/2026/2026-11-06-sel-kasel-bluey-96books-session-handoff.md)**  
+  记录46册/16单元、Bluey两版及分龄指导、50册扩展库、96/46/50/156四份CSV的关键决策过程、数据回读、未核事项和公共仓库的原件边界；当前使用入口仍为16单元统一手册。  
+  `SEL` `KASEL` `Bluey` `handoff` `archive`
+
 - **2026-10-26 — [SEL应用总规则：发展自主性，保护个性，避免把SEL做成服从教育](./notes/2026/2026-10-26-sel-foundational-purpose-autonomy-guardrails.md)**  
   **长期共用的应用准则/优先阅读**：SEL三条发展主线、八项防偏红线、自主与安全边界、气质差异及情绪教练；附面向未来Agent/选材者的8项发布前审查协议、学术研究证据分级与KASEL96册选材目标的修订。  
   `SEL` `application-rules` `child-autonomy` `parenting` `evidence`
@@ -69,7 +73,7 @@
   `SEL` `KASEL` `autonomy` `parent-guide` `review`
 
 - **2026-10-30 — [Bluey搭配丹尼尔16阅读单元：精简与扩展双版计划](./notes/2026/2026-10-30-sel-bluey-daniel-16-units-two-plans.md)**  
-  A版16单元精选候选；B版将Bluey官网154集中的128集归入16单元、26集自由观看，分3.5/4/4.5岁与家长优先；B站156话有待逐条对照。  
+  A版16单元精选候选；B版将Bluey官方154个故事中的128个归入16单元、26个自由观看，分3.5/4/4.5岁与家长优先；已按用户B站国语156话清单完成目录级配对（非逐集播放验收）。  
   `SEL` `Bluey` `Daniel-Tiger` `episode-guide` `preschool`
 
 - **2026-10-30 — [家庭SEL整合手册｜丹尼尔16单元＋Bluey 43集详细卡/85集简卡](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)**  
@@ -258,6 +262,7 @@
 ## 按时间
 
 ### 2026
+- 2026-11-06 — [KASEL 96册×Bluey SEL方案：会话收口与后续接续](./notes/2026/2026-11-06-sel-kasel-bluey-96books-session-handoff.md)
 
 - 2026-11-03 — [经典老童书家庭书架：书单、版本比较与童话篇目重合](./notes/2026/2026-11-03-classic-children-books-editions-reading-library.md)
 - 2026-11-03 — [中国传统史书的矩阵化阅读：史记、春秋左传与导读资料](./notes/2026/2026-11-03-china-classical-histories-matrix-reading-guide.md)
