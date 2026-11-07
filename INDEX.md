@@ -10,6 +10,8 @@
 
 > **SEL专题的上位应用准则**：[SEL应用总规则：保护儿童个性、自主性与主体性，防止服从化](./notes/2026/2026-10-26-sel-foundational-purpose-autonomy-guardrails.md)。今后的家长卡、KASEL选书、布鲁伊选集及文学共读研究，先过这份原则的目标、权利、安全、适龄及证据审查；家长无需学习理论。
 
+> **本会话已归档（2026-11-06）**：研究形成阶段和跨会话交接已补在上述总规则；后续家庭实际使用请优先看[丹尼尔46册×Bluey的16单元统一家长手册](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)，勿将本会话较早的13册A版／96册B版规划误认为最新执行版本。
+
 - **2026-10-26 — [SEL应用总规则：发展自主性，保护个性，避免把SEL做成服从教育](./notes/2026/2026-10-26-sel-foundational-purpose-autonomy-guardrails.md)**  
   **长期共用的应用准则/优先阅读**：SEL三条发展主线、八项防偏红线、自主与安全边界、气质差异及情绪教练；附面向未来Agent/选材者的8项发布前审查协议、学术研究证据分级与KASEL96册选材目标的修订。  
   `SEL` `application-rules` `child-autonomy` `parenting` `evidence`
