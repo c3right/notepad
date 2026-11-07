@@ -13,7 +13,7 @@
 > **本会话已归档（2026-11-06）**：研究形成阶段和跨会话交接已补在上述总规则；后续家庭实际使用请优先看[丹尼尔46册×Bluey的16单元统一家长手册](./notes/2026/2026-10-30-sel-daniel-bluey-16-units-layered-parent-guide.md)，勿将本会话较早的13册A版／96册B版规划误认为最新执行版本。
 
 - **2026-11-06 — [3岁半儿童原版英语动画选片、Kipper 78集分档与观看资源（本会话收口）](./notes/2026/2026-11-06-preschool-english-original-animation-selection-and-kipper-78.md)**  
-  以牛津树2–3/Little Fox L1为起点，对比Penelope、Miffy、Kipper、Bing及Humf等英语与认知差异；保留Kipper **A19/B35/C24**完整78集[CSV](./notes/2026/2026-11-06-preschool-kipper-78-episode-selection.csv)，记录资源口径、方法局限与Excel原件补传。  
+  以牛津树2–3/Little Fox L1为起点，对比Penelope、Miffy、Kipper、Bing及Humf等英语与认知差异；保留Kipper **A19/B35/C24**完整78集[CSV](./notes/2026/2026-11-06-preschool-kipper-78-episode-selection.csv)，记录资源口径、方法局限；[Excel原件](./notes/2026/Kipper_78集分级精选表.xlsx)已补齐。  
   \`preschool-english\` \`Kipper\` \`animation\` \`episode-guide\` \`archive\`
 
 - **2026-11-06 — [KASEL 96册×Bluey家庭SEL方案：本会话收口与跨会话交接](./notes/2026/2026-11-06-sel-kasel-bluey-96books-session-handoff.md)**  
