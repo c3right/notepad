@@ -6,6 +6,10 @@
 
 ### SEL教育与儿童发展
 
+- **2026-11-06 — [3–5岁家庭SEL：动画共看、P.E.T.、正面管教、情绪教练与安全依恋（本会话收口）](./notes/2026/2026-11-06-sel-age3to5-parenting-pet-emotion-coaching-attachment.md)**  
+  记录五维度低龄发展目标、四部动画观看顺序背景、每周单主题提议、方法分工、中文/繁中学习资源、共调节及Serve-and-Return／安全圈；不改既有16单元方案。  
+  `SEL` `preschool` `P.E.T.` `emotion-coaching` `attachment` `archive`
+
 > SEL专题导航：以后来自其他会话的SEL绘本、动画、亲子教育研究继续归入这一主题索引；正式笔记依旧按日期存于 `notes/YYYY/`，不建立额外顶层专题文件夹。
 
 > **SEL专题的上位应用准则**：[SEL应用总规则：保护儿童个性、自主性与主体性，防止服从化](./notes/2026/2026-10-26-sel-foundational-purpose-autonomy-guardrails.md)。今后的家长卡、KASEL选书、布鲁伊选集及文学共读研究，先过这份原则的目标、权利、安全、适龄及证据审查；家长无需学习理论。
@@ -281,6 +285,7 @@
 
 ### 2026
 - 2026-11-06 — [Numberblocks 185集五级索引与字幕排查：本会话归档](./notes/2026/2026-11-06-numberblocks-185-episodes-levels-subtitles-archive.md)
+- 2026-11-06 — [3–5岁家庭SEL与P.E.T.／情绪教练／依恋：本会话收口](./notes/2026/2026-11-06-sel-age3to5-parenting-pet-emotion-coaching-attachment.md)
 - 2026-11-06 — [SEL／RULER／正面管教／成长型思维：框架与中繁书目会话收口](./notes/2026/2026-11-06-sel-parenting-frameworks-ruler-discipline-growth-mindset-books.md)
 - 2026-11-06 — [3岁半数学绘本、桌游及 MathStart 40／63 中英对照：本会话归档](./notes/2026/2026-11-06-preschool-math-picture-books-boardgames-mathstart-crosswalk.md)
 - 2026-11-06 — [3岁半儿童原版英语动画选片、Kipper 78集分档与会话收口](./notes/2026/2026-11-06-preschool-english-original-animation-selection-and-kipper-78.md)
